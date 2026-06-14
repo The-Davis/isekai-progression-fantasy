@@ -8,9 +8,8 @@ from chapters import get_all_chapters
 
 def generate_chapter_prompt(chapter_outline: str, style: str) -> str:
     output = "You are a creative writing assistant helping me write a chapter of my story.\n"
-    output += current_story.prompt_header() + "\n"
-    output += "You are an expert in this genre and have a deep understanding of storytelling techniques, character development, and worldbuilding.\n"
-    output += f"{current_story.setting_notes}\n"
+    output += "This is an isekai progression fantasy story with a male protagonist, and a world that's a mix of magical fantasy and Napoleonic War era tech. We are aiming for a mix of the \"Cozy Violent\" found in \"A Soldier's Life\" (AlwaysRollsAOne) crossed with some of the gritty adventure of Sharpe's Rifles.\n"
+    output += "You are an expert in adventure fantasy and have a deep understanding of storytelling techniques, character development, and worldbuilding.\n"
 
     if get_codex():
         output += "Here are the most relevant details about the world for this specific task:\n"
