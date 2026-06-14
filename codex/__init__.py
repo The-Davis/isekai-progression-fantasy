@@ -1,5 +1,6 @@
 from models.codex import CodexEntry
 from codex.corva import corva_entries
+from codex.religion import religion_entries
 
 litrpg_elements = CodexEntry(
       title="LitRPG Elements of This Story",
@@ -11,9 +12,16 @@ The magical attributes are Essence (Power), Dominion (Control), Alacrity (Speed)
 """
 )
 
+fantasy_elements = CodexEntry(
+      title="Fantasy Elements of This Story",
+      content="""This world is geographically similar to ours, but is populated by many fantasy races. The elves are dominant in the "Europe" and "Asia" equivalent areas. Orcs dominate Ifria, the "Africa" equivalent areas. Goblins, gnomes, halflings, dwarves, and most other vanilla fantasy creatures can be found.
+Rarer are other more fantastic monsters you'd find in the D&D SRD. The really "out there" types, like Tieflings and Genasi, do not exist. Stick with stuff that'd be at home in 80s D&D or Tolkien.
+"""
+)
+
 _entries: list[CodexEntry] = [
     litrpg_elements,
-] + corva_entries
+] + corva_entries + religion_entries
 
 
 def get_codex() -> list[CodexEntry]:
