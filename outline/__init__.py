@@ -6,8 +6,6 @@ from models.outline import Outline
 act_one = Outline(
     title="Act One",
     content="""
-
-
 """
 )
 
