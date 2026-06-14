@@ -31,6 +31,35 @@ Banjo let out a low woof, his hackles rising just a fraction. *Stranger approach
 *No Banjo,* I thought back. *We're the strangers here.*
 I did my level best to arrange my legs and arms so as to preserve what dignity a man in his altogether can muster. As she drew near, I gave her a polite nod. 
 "Morning, ma'am," I said, pleasant as you please. "Fine day for it."
+The poor woman stopped dead in her tracks. Her eyes went as wide as dinner plates, darting from my polite smile down to the bare facts of my predicament, and back up again. Her jaw dropped as wide as a rat snake trying to swallow an egg, but no sound came out.
+At least, not until the shock wore off. She dropped her basket like it'd caught fire. A dozen or so green apples went tumbling out into the dirt.
+"Lord preserve us!" she shrieked, hitching up the hem of her skirts. "Vagrants! Indecency! A wild naked man in the pasture!"
+With a surprising amount of speed for a woman of her years, she turned and bolted up the hill toward the shepherds, hollering the whole way.
+I sighed and crossed my legs a little tighter.
+Banjo trotted over to the spilled basket, his nose working overtime. He gave one of the apples an experimental lick, then sneezed. *Apples, Boss. Green and hard as a river rock. Might be good for gnawing, though. Can I have one?*
+*Leave 'em be, Banjo,* I thought back, feeling a twinge of guilt for scaring the poor lady. *They ain't ours.*
+I awkwardly rose to a stoop and worked my way over to the basket, keeping as low to the heather as I could manage, then set about doing the neighborly thing. I brushed the dirt off the apples, gathered them up, and stacked them neat and tidy back into the weave.
+As I worked, my mind got to chewing on a peculiar detail. The woman had been shouting in English. Now, I might not be a worldly man, having spent close to all my days within the borders of Wirt County, but I knew enough that folks on some world with two moons shouldn't be speaking plain English. It made me wonder if the air in this place was doing the translating, same as whatever was bridging the gap between my brain and Banjo's.
+Once the basket was righted, I retreated back to my little divot in the brush, resumed my seat, and shared my musings with my hound.
+*Banjo,* I asked, *did you understand that woman? She spoke English, right?*
+*Did she?* Banjo tilted his head to follow her progress up the hillside. *Sounded like squawking to me, Boss.*
+*You didn't understand her?*
+*Nope.* Banjo gave a dismissive snort. *But then again, I don't rightly understand much of what folks say anyway. Mostly just 'sit', 'stay', 'bacon', and 'good boy'.*
+*Then how are you understanding me right now?*
+Banjo let out a heavy doggy sigh and sat back to scratch idly behind his ear with a hind leg. *Couldn't rightly tell you, Chief. When you talk, I mostly just get pictures in my head that fill in the gaps. It's pretty nifty though, right?*
+"It's a marvel," I agreed aloud. That meant the magic—or whatever force had dragged us here—was doing the heavy lifting between me and the dog. I couldn't help but wonder if it was doing the same with the locals, translating their hollering into something I could comprehend.
+I figured I'd soon find out, because the old woman's commotion up the hill quickly drew an audience. 
+About a half-dozen of the herdsmen gathered about fifty yards off from where I was sitting. They clustered together like a flock of nervous turkeys, occasionally pointing their crooks at me and muttering amongst themselves. They treated me with the sort of wary respect sensible men reserve for rabid dogs.
+After a maybe a minute of this, one of the younger fellows broke from the pack and went scurrying off toward a distant smudge of buildings in the valley. I nodded to myself, figuring he was heading to fetch the local lawmen. As I worked for good old Wirt County as a lawman myself, I thoroughly approved. If a naked man appeared out of thin air in a pasture back home, I'd expect folks to call dispatch right away. It was the decent thing to do.
+Thinking I might could smooth things over before the sheriff arrived, I raised a hand in a friendly wave and called out to the remaining shepherds. "Morning, fellas!" I called out. "I apologize for the fright! Seems I've misplaced my trousers, and I'd be mighty obliged if—"
+The moment the words left my mouth, the strangest thing happened. Every last one of those rugged, bearded men dropped their crooks, jammed their fingers firmly into their ears, and started yelling at the top of their lungs.
+"Foul devil!" one hollered.
+"Demon of the heather! Close your ears to his lies!" shouted another.
+Banjo's ears perked up and he cocked his head to one side. *Boss, why are they plugging their ears? You ain't singing.*
+*They think we're devils, Banjo,* I told him. *Or maybe just me.*
+*Well, that's stupid,* Banjo reasoned. *Devils do not organize a lady's apples.*
+I smiled at Banjo's way of putting things. He had the right of it, and besides that, five grown men standing on a hillside with their fingers in their ears and shouting at a naked man and his dog was a downright ridiculous spectacle. I reckoned there was no sense in trying to reason with folks who had their ears plugged, so I just kept quiet, petted my dog, and waited for the authorities.
+Fortunately, we didn't have to wait long.
 """,
 )
 
