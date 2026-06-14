@@ -19,7 +19,7 @@ sancta_canthica = CodexEntry(
 )
 
 canthican_saints = CodexEntry(
-    title="Saints",
+    title="The Canthican Saints",
     content="""Canthican Saints are venerated across a thousand years of history. The ever-beloved Mary, mother of Christ, remains the most revered saint, but many others have been canonized over the centuries.
     Three angels are particularly revered: Michael, Gabriel, and Raphael. They are believed to have appeared to various saints throughout history to guide them in their missions.
     Saint Michael the Archangel is leader of the heavenly armies and the defeater of Satan. He is the patron of soldiers and the Church in spiritual warfare.
@@ -51,4 +51,5 @@ the_hospitallers = CodexEntry(
 
 religion_entries = [
     sancta_canthica,
+    canthican_saints,
 ]
