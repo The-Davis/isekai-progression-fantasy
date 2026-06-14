@@ -18,6 +18,19 @@ I pressed the heels of my hands against my eyes. "I really did hit my head. Must
 Banjo trotted over and bumped his cold nose inquisitively against my bare knee. I flinched.
 *Boss, I don't know how to tell you this, but your pants have flown the coop.* He sat back on his haunches and lifted a paw to scratch at his bare neck. *What the Sam Hill?* He stopped and turned in a circle, trying to get a look at himself. *Aw, nuts. My collar's gone. I liked that collar. It jingled. Where's all our stuff, Boss? Did that thieving coon nab our stuff?*
 I looked at his neck. Sure enough, his faded orange nylon collar with the brass nameplate was gone, vanished just like my boots and my grandpa's Winchester.
+By this point, though I sure didn't want to believe it, I wasn't dreaming. As for the sky above, unless the astronomy folks had gone and done something a sight more severe than kicking poor old Pluto out of the "I'm a real planet" club while I was too busy working the night shift to notice, the two moons meant I wasn't on Earth anymore.
+Banjo thumped his tail and looked up at me. *Why would a cartoon dog ever be in a planet club, Boss?* 
+I blinked at him. I hadn't said a word out loud.
+*You heard that?* I thought, putting some deliberate intention behind it. Banjo, can you hear what I'm thinking?
+Banjo's thick tail started going even faster. *Loud and clear, Chief. Like you're hollering right down a rain barrel. Hey, this makes it a whole lot easier to tell you when I'm hungry. Speaking of which...*
+So, I didn't have to flap my jaw for the hound to hear me. That could prove mighty handy, I reckoned.
+That didn't put Banjo or me any closer to figuring out where we were, and it was none too warm in the moonlight. Right about then, however, the sun started to creep up over the rolling hills to the east. The pale morning light was both a blessing and a curse. It made things a deal warmer, which my bare skin surely appreciated, but it also lit up the countryside, which made my current predicament a mite more complicated.
+You see, the daylight revealed I wasn't alone in this sprawling valley. It was a picturesque stretch of land, carpeted in long grass and dotted here and there with folks tending to sheep. These weren't the sort of sheep I'd seen down at the county fair. They looked more like oversized bales of cotton with little black legs stuck underneath them instead of pale all over. The herdsmen minding them were rugged sorts, wrapped up in heavy woolen plaids that fluttered in the breeze, sporting wild red or straw-colored beards.
+Most of them were a fair distance off, but as my luck would have it, an older woman carrying a woven basket was making her way along a dirt path that came not more than twenty yards from my makeshift shelter in the heather.
+Banjo let out a low woof, his hackles rising just a fraction. *Stranger approaching, Boss. Want me to run her off?*
+*No Banjo,* I thought back. *We're the strangers here.*
+I did my level best to arrange my legs and arms so as to preserve what dignity a man in his altogether can muster. As she drew near, I gave her a polite nod. 
+"Morning, ma'am," I said, pleasant as you please. "Fine day for it."
 """,
 )
 
