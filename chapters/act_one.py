@@ -59,11 +59,26 @@ Banjo's ears perked up and he cocked his head to one side. *Boss, why are they p
 *They think we're devils, Banjo,* I told him. *Or maybe just me.*
 *Well, that's stupid,* Banjo reasoned. *Devils do not organize a lady's apples.*
 I smiled at Banjo's way of putting things. He had the right of it, and besides that, five grown men standing on a hillside with their fingers in their ears and shouting at a naked man and his dog was a downright ridiculous spectacle. I reckoned there was no sense in trying to reason with folks who had their ears plugged, so I just kept quiet, petted my dog, and waited for the authorities.
-Fortunately, we didn't have to wait long.
+Fortunately, we didn't have to wait long. The rhythmic thud of approaching hooves soon rolled across the pasture, and a trio of riders came cresting the hill.
+I don't rightly know what I was expecting. Maybe a knight in armor given the peasant-looking shepherds and the magic that brought us here, but the look of the riders caught me off guard. They wore smart navy-blue coats with gleaming brass buttons, white breeches, and tall black leather boots that shone in the morning sun. They looked pretty as a picture, like they'd just marched straight out of a Revolutionary War reenactment over at Fort Henry.
+More importantly to my current situation, each man had a long-barreled flintlock carbine resting across his saddlebow, and from the professional way they handled them, I knew those weapons weren't just for show. They reined in their horses a short distance from my patch of heather, and one of them dismounted and leveled his carbine at my chest.
+"Hold there, ye vagabond!" he shouted as he drew back the hammer of the weapon. "Else I'll spill your guts across the heather!"
 """,
 )
 
+chapter_two = Chapter(
+    title="Chapter Two",
+    content="""
+""",
+)
+
+chapter_three = Chapter(
+    title="Chapter Three",
+    content="""
+""",
+)
 
 act_one_chapters: list[Chapter] = [
     chapter_one,
+    chapter_two,
 ]
