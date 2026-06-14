@@ -1,4 +1,5 @@
 from models.codex import CodexEntry
+from codex.corva import corva_entries
 
 litrpg_elements = CodexEntry(
       title="LitRPG Elements of This Story",
@@ -12,7 +13,7 @@ The magical attributes are Essence (Power), Dominion (Control), Alacrity (Speed)
 
 _entries: list[CodexEntry] = [
     litrpg_elements,
-]
+] + corva_entries
 
 
 def get_codex() -> list[CodexEntry]:
