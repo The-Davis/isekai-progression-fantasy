@@ -8,10 +8,9 @@ from outline import get_outline
 
 
 def generate_outline_prompt(next_section: str) -> str:
-    output = "You are a worldbuilding and storytelling assistant helping me, an author, develop my fictional world and story.\n"
-    output += current_story.prompt_header() + "\n"
-    output += "You are an expert in this genre and have a deep understanding of storytelling and worldbuilding techniques.\n"
-    output += f"{current_story.setting_notes}\n"
+    output = """You are a worldbuilding and storytelling assistant helping me, an author, develop my fictional world and story.
+I am working on a planar progression fantasy adventure story with no working title. We're setting up a larger story where Earth is being integrated into a multi-planar economy and society, but our introduction story is much more down-to-Earth.
+Other dimensions are real. Magic is real. The vastness of the cosmos is overwhelming. This is pretty much Planescape/Spelljammer with the labels peeled off and replaced."""
     
     if get_codex():
         output += "Here are some details about the world our story is set in:\n"

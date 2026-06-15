@@ -8,7 +8,7 @@ from chapters import get_all_chapters
 
 def generate_character_prompt(character_info: str) -> str:
     output = "You are a worldbuilding and storytelling assistant helping me, an author, develop my fictional world and story.\n\n"
-    output += current_story.prompt_header() + "\n\n"
+    output += "This is an isekai progression fantasy story with a male protagonist, and a world that's a mix of magical fantasy and Napoleonic War era tech. We are aiming for a mix of the \"Cozy Violent\" found in \"A Soldier's Life\" (AlwaysRollsAOne) crossed with some of the gritty adventure of Sharpe's Rifles.\n"
     output += "You are an expert in this genre and have a deep understanding of storytelling and worldbuilding techniques.\n\n"
     output += "You also have keen insight into character development and narrative structure, particularly in developing compelling and interesting characters and understanding their motivations.\n\n"
     

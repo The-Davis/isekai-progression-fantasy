@@ -8,5 +8,5 @@ current_story = Story(
     setting_notes="""The planes are real. Magic is real. The vastness of the cosmos is overwhelming.
     Our main viewpoint character finds himself abducted and carried off on a Spelljammer-like planar vessel to be sold in a flesh market in a distant plane of existence.
 """,
-    start_date=datetime(year=2026, month=5, day=25, hour=15, minute=2)
+    start_date=datetime(year=2026, month=6, day=13, hour=15, minute=2)
 )

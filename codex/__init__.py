@@ -1,35 +1,27 @@
 from models.codex import CodexEntry
-from codex.races import races_entries
+from codex.corva import corva_entries
+from codex.religion import religion_entries
 
-
-void_keels = CodexEntry(
-    title="Void Keels",
-    content="""Across the infinite expanse of the planes, travel between realities is rarely a matter of simple portals on solid ground. For those who trade, raid, or explore on a grand scale, the preferred method of transit is the **Void Keel**.
-These are specially constructed vessels capable of sailing the chaotic, non-physical currents of the aetherial void that separates the planes.
-Because ordinary wood and iron disintegrate under the intense spatial shearing forces of planar transitions, Void Keels are constructed from highly resilient, magically conductive materials. Common hulls are fashioned from the fossilized bones of astral leviathans, dense star-wood harvested from planar borders, or the discarded carapaces of massive deep-void creatures.
-The heart of every Void Keel is its anima core, a housing matrix of refined crystal and enchanted alloy. The core acts as a reservoir and converter for anima, the magical life force that permeates the cosmos. Without a functioning core, a vessel is merely a drifting hulk.
-Operating a Void Keel requires a highly specialized magic-user, often referred to as a helmsman. This individual must possess exceptionally high scores in magical and mental essences. By interfacing with the core, the helmsman directs the vessel's movement, shapes the ship's defensive wardings, and manifests the wards.
-The core continuously projects a protective warding spells which cling to the hull, trapping a pocket of breathable air and generating a subjective down-force (gravity) for the crew. If the wards are breached or the core fails while in the void, the atmosphere quickly dissipates, and the crew is exposed to the suffocating, freezing vacuum of the inter-planar medium.
-To move between planes, the helmsman must use the ship's core to tear open "slips", temporary rifts in the fabric of reality. This requires precise calculation and a deep understanding of planar resonance. A failed jump can strand a vessel in the dark spaces between worlds, or worse, tear the ship apart.
-""",
+litrpg_elements = CodexEntry(
+      title="LitRPG Elements of This Story",
+      content="""While we have RPG-style stats in this story, there is no "system", no quests, no achievements, or any other gamelike elements. Stats are more of a "natural philosophy" attempt to measure a person's abilities.
+There is magic, but not too many people can use it. Those who can are often able to objectively measure stats. The major attributes are physical, mental, and magical. Each attribute has five stats measuring the power, control, speed, capacity, and recovery of that attribute.
+The physical attributes are Might (Power), Finesse (Control), Agility (Speed), Endurance (Capacity), and Vigor (Recovery).
+The mental attributes are Intellect (Power), Focus (Control), Wit (Speed), Memory (Capacity), and Lucidity (Recovery).
+The magical attributes are Essence (Power), Dominion (Control), Alacrity (Speed), Vessel (Capacity), and Resonance (Recovery).
+"""
 )
 
-the_maw = CodexEntry(
-    title="The Maw",
-    content="""A medium void keel owned and commanded by the Druthi captain, Jacicus. Serving as both a raiding vessel and a secure transport for his living cargo, it is a predatory ship designed for stealth, swift boarding actions, and the long-term containment of his "wares."
-The ship is built from the hollowed-out shell of a Gorgon-Nautiloid, a gargantuan, predatory mollusk native to the deep silt-currents of the outer planes. The spiral shell provides natural, segmented compartmentalization, which Jacicus has retrofitted to suit his business. The exterior of the shell is reinforced with plates of blackened steel, and the spiral ridge is lined with defensive iron spikes.
-True to Druthi sensibilities, the vessel features dark, elegant trim, polished obsidian railings, and sails made of deep violet silk that absorb the ambient light of the void. To the casual observer, it looks like a sleek, skeletal crescent gliding through the darkness.
-The deepest, most curved chambers of the shell serve as the slave pens. Damp, cramped, and heavily warded with suppression runes, these cells are designed to depress the essences of captives, preventing escape attempts.
-The mid-deck section contains the crew quarters, dominated by the messy, chaotic communal spaces of the Ozkur raiders. It is cluttered with looted finery, racks of weapons, and drying meat.
-The Quarterdeck and Pilot House are situated at the crest of the shell. This elegant pavilion is where Jacicus commands. It is decorated with fine carpets, silver-chased furniture, and trophies from his various acquisitions.
-""",
+fantasy_elements = CodexEntry(
+      title="Fantasy Elements of This Story",
+      content="""This world is geographically similar to ours, but is populated by many fantasy races. The elves are dominant in the "Europe" and "Asia" equivalent areas. Orcs dominate Ifria, the "Africa" equivalent areas. Goblins, gnomes, halflings, dwarves, and most other vanilla fantasy creatures can be found.
+Rarer are other more fantastic monsters you'd find in the D&D SRD. The really "out there" types, like Tieflings and Genasi, do not exist. Stick with stuff that'd be at home in 80s D&D or Tolkien.
+"""
 )
-
 
 _entries: list[CodexEntry] = [
-    void_keels,
-    the_maw,
-] + races_entries
+    litrpg_elements,
+] + corva_entries + religion_entries
 
 
 def get_codex() -> list[CodexEntry]:
