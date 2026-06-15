@@ -68,12 +68,54 @@ More importantly to my current situation, each man had a long-barreled flintlock
 
 chapter_two = Chapter(
     title="Chapter Two",
-    content="""
+    content="""I raised my hands up high. It threw all sense of modesty to the wind, but getting shot seemed the more pressing concern.
+"Take it easy, friend," I said. "I ain't looking for trouble."
+Banjo took a sight more exception than I did. He stepped in front of me and out a chest-rattling bark that echoed across the valley.
+*Boss, those sticks look a lot like the ones you kill coons with*, he grumbled in my head. His hackles were raised straight up like a mohawk. *He's pointing it right at you. Say the word, and I'll bite his leg off.*
+"Banjo, you hush!" I hollered out loud. "You lay down, right this minute, before you get yourself shot!"
+My hound gave me a look of profound canine betrayal and let out a heavy huff. *Fine, Chief, but if that stick goes 'boom', I'm biting.*
+Despite his grumbles, he minded me. He slunk to my side and dropped to his belly, resting his chin on his paws while keeping a wary, unblinking eye on the horsemen.
+The rider who had drawn a bead on me lowered the muzzle just a fraction. "Well now, ye've got the beastie well to hand, I'll give ye that. Now, who in the name of all the Saints are ye, vagabond?" he demanded. "And what manner of devilry brings a man naked as a newborn into Laird MacTavish's pastures?"
+"The name's Wayne Coberly the Third," I told him. "Most folks just call me Trip. As for devilry, all I know is one minute I was hunting coon with my dog here. Next thing I know I'm flat on my back under two moons with my drawers missing. That's the God's honest truth of it, and I'd be obliged if you'd see your way to lending me a coat or something. It's a mite brisk."
+"Coon?" the man echoed. "What manner of creature might that be to require half-wild hounds for the hunt? Are they fae beasties, these coons?"
+*Half-wild?* Banjo's mental voice dripped with outrage. *I'm purebred blue tick, you red-bearded son of a—*
+"Banjo's real friendly most of the time," I said quick, before my dog could escalate things. "He's just a mite protective because of the gun, but he'll be your best friend for a sausage."
+The other riders shifted in their saddles, trading uneasy looks. One of them spat to the side and fixed me with a glare. "Sounds like a fae-touched tale. Or a spy from the mainland, stripped for some sorcerous reason. The elves have tricks aplenty."
+"I ain't no spy," I spoke up quickly. "And I got no clue what you mean by elves or fae. I am dearly sorry to be out here exposing myself, and like I said, if'n you'd at least loan me a pair of trousers, I'd be in your debt."
+The first man studied me a long moment, then grunted. "Our sergeant'd best sort this. Hold fast."
+By and by, things moved up the chain just like these things do when nobody wants the responsibility or blame for a naked stranger and his dog. The sergeant arrived on a lathered horse, scratched at his beard, muttered about "queer doings," and sent for a lieutenant. That one peered down his long nose like I was a curiosity in a sideshow, asked the same questions twice over, and dispatched a rider toward the distant buildings. All the while Banjo kept up a running commentary.
+*That one's got a face like a mule with a toothache, Boss.* When the lieutenant prodded my shoulder with the tip of his boot to check for hidden marks, Banjo piped up with *Hey! Hands off the merchandise. Tell him I bite.*
+I near choked trying not to laugh from some of his observations, but it became clear to me that none of the men could hear a word my dog was saying. That was a small mercy, as they were clearly only a little less nervous than the superstitious shepherds had been. The whole business stretched into a couple of hours of standing there in nothing but my skin. Thankfully, the lieutenant made one of his men loan me a wool greatcoat. The heavy wool reeked of the man's body odor, but it beat the alternative.
+The sun had climbed pretty high by the time the top dog arrived. He was a big man who rode a handsome chestnut mare that moved like it knew its rider's worth. The man himself was a sight as well: barrel-chested, late fifties maybe, with a wild mutton-chop beard the color of rusted iron and a nose that had lost a fight or two. His forest-green tailcoat sat fine over a tartan waistcoat, and his tricorn hat would've fit right in at any Revolutionary War muster back home. He carried himself like a man used to giving orders and having them obeyed with a smile.
+The lawmen and officers straightened sharp as he reined in. He surveyed the scene with a gleam in his eye. His gaze landed on me first, then drifted to Banjo, who'd stayed right by my knee like a sentinel.
+"Well now," the man boomed in a rich baritone laced with that amiable brogue. "What manner of wonder have the good Saints dropped into my glen this fine morning? A faerie prince robbed of his finery, or a poor soul who's lost more than his way?"
+"I don't rightly know what you mean by faerie, sir, but I don't think the label applies to me," I told him. "I do seem to have lost my way and my trousers, begging your pardon."
+"Pardon, eh? I'm no king with the power to handout pardons, laddie, but I find it hard to judge a man too harshly when he keeps such a splendid hound by his side." The big man swung down from the mare with surprising grace for a man of his build. He reached into a pocket of his coat and produced a thick chunk of sausage. He pinched a bit off the end and offered it to Banjo. "Who might this fine fellow be?"
+Banjo's tail started thumping like a metronome gone mad. *Boss! Boss! Sausage! This man is a saint and I love him. We live here now.* He took the meat with delicate care, dainty as you please, then wolfed it down while looking up at the man with absolute adoration.
+"That's Banjo," I told him. "Best coonhound there is, far as I'm concerned."
+"Odd name," the man declared. He said my dog's name a few times, rolling it around in his mouth like a new toy. "Banjo... Banjo... A beast with such fine manners speaks volumes of his master. I am Lachlan MacTavish, laird of Glenrowan and Justice of the Peace in these parts." He offered a broad, callused hand. "Who might you be?"
+I took it firm, the way a man ought, and gave it a shake. "Trip Coberly, sir. Wayne Coberly the Third, if we're being formal about it. Pleased to make your acquaintance, even under these peculiar circumstances."
+"Well met to both of ye," Lachlan said. His eyes narrowed. "It pains a hospitable man like myself to say it, but you're under arrest. Vagrancy's a serious matter under King Mundifred's laws. Doing it without a stitch on your back makes it twice the offense. We'll sort the particulars back in Glenrowan, but for now, I trust ye'll come along quietly?"
+I felt my shoulders sag a touch. Arrested my first full day in this strange land was a bit of a kick in the teeth, but I reckoned arguing with a man who had several armed lawmen at his beck and call wouldn't do me any favors. "I understand, sir. No sense making trouble where none's needed. I'll come peaceable."
+He nodded, pleased, and gestured to one of his men. "Dougal, share your saddle with our guest, will ye? Can't have a proper conversation with a fellow trotting alongside like a common footpad, and a laird's dignity won't permit walking when there's riding to be done." Lachlan swung back up onto his chestnut mare with the ease of long habit.
+Dougal, who happened to be the same fellow who'd loaned me his greatcoat, looked less than thrilled but obeyed. He swung up first, then offered me a hand. I clambered up behind him awkward as a sack of potatoes, the coat riding up in ways that made me even more mindful of my missing trousers. The saddle leather was cold against my thighs, and every shift of the horse reminded me I was one wrong bounce from total humiliation.
+We set off at a gentle trot. Banjo bounded along beside us, ears flopping merrily, but the traitor spent more time sniffing around behind Lachlan's horse than mine.
+The road wound down through the heather and into greener pastures, the kind that made a man think of old songs about lost kingdoms. Along the way, the laird asked my story, and I tried to tell it as best I could without falling off my shared mount, which was no easy task. I couldn't have asked for a more patient audience, however.
+By and by, we crested a gentle rise, and Glenrowan opened up below us. It was a tidy little village nestled in the valley, more of a plantation than a proper town. Stone cottages with thatched roofs were clustered around a central square with smoke curling from chimneys. I spotted a sturdy church with a modest steeple that wouldn't've been out of place back home, as well as a few larger halls that were probably part of the laird's holdings. Folks paused in their labors to stare as we rode in, but Lachlan's presence seemed to keep the peace. No one shouted that I was a devil, at least.
+They took us straight to the small gaol, a sturdy stone building that was cleaner than the Wirt County lockup and smelled a lot better, lacking the stench of urine and industrial cleaners you got anywhere you crammed people together who didn't want to be there. Dougal helped me down and took me inside, then snatched a blanket off a cot in the cell and thrust it towards me while holding out his other hand expectantly.
+I got the hint and shrugged out of the greatcoat, then wrapped the blanket around myself in its place. I stepped into the cell without being prompted, and to my relief the men let Banjo join me before closing the door. It was a plain cell but decent, consisting of a coot, a bucket, and a narrow window that let in the afternoon light. Banjo circled the room once before flopping down with a contented huff.
+Lachlan, who'd lingered at the door of the gaol to watch the proceedings, nodded in approval. "Well, that's settled for now. The only question is what to actually do with ye. I'd prefer not to have a hanging."
 """,
 )
 
 chapter_three = Chapter(
     title="Chapter Three",
+    content="""
+""",
+)
+
+chapter_four = Chapter(
+    title="Chapter Four",
     content="""
 """,
 )
