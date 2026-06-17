@@ -5,10 +5,10 @@ from models.character import Character
 
 wayne_coberly = Character(
     name="Trip Coberly",
-    description="""Our viewpoint character, a West Virginia good ol' boy. Wayne Coberly III ("Trip") is a tall, wiry man in his late twenties. He's an excellent fisherman, decent shot, strong swimmer, distance runner, coon hunter, and good with his hands.
-Trip's been a deputy in Wirt County (the smallest and least populous county of West Virginia) for about five years. He's a bit of an Andy Griffith type character, more than happy to goof around with friends and family, but with a strong backbone and a willingness to stand up for what's right as he sees it.
+    description="""Our viewpoint character, a West Virginia good ol' boy. Wayne Coberly III ("Trip") is a tall, wiry man in his late twenties. He's an excellent fisherman, decent shot, strong swimmer, distance runner, coon hunter, and good with his hands. The latter is how he's made his living, mostly getting by on a piece of land his family's owned since forever and doing contractor work to make ends meet.
+Trip's lived in Wirt County (the smallest and least populous county of West Virginia) for all his life. He's a bit of an Andy Griffith type character, more than happy to goof around with friends and family, but with a strong backbone and a willingness to stand up for what's right as he sees it.
 His morality doesn't always match what's modern. To some ways of thinking, he's downright backwards. Has a tendency to folksy ways of speaking and thinking. "Well... how 'bout that?" is a common phrase he uses. He'll often use coloquialisms.
-Trip's been single for a while, isn't too close (or ornery or distant) with his family, and only has work friends, so when he ends up in the other world it's not that big a deal to him. Just one of those things. He'd probably have been a bit more upset if his coon hound hadn't shown up with him.
+Trip's been single for a while, isn't too close (or ornery or distant) with his family, and only has "buddies" rather than close friends, so when he ends up in the other world it's not that big a deal to him. Just one of those things. He'd probably have been a bit more upset if his coon hound hadn't shown up with him.
 """,
 )
 
