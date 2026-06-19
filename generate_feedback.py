@@ -5,6 +5,7 @@ from util.files import write_file
 
 output = """
 I am reviewing a fantasy adventure story with no working title. Have a read:
+
 """
 
 for chapter in get_all_chapters():
