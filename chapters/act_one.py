@@ -102,6 +102,10 @@ Despite his obvious pain, Dougal managed to shoot me a look of pity. "Are ye daf
 "Dinna be a numpty, Dougal!" Maisie piped up. "Mr. Trip plainly kens how to kill the beasties. Why should their proper name matter?"
 *Ha! Kid's got spunk,* Banjo chimed in. *I like her. I'd like her better if she had any snacks. All this excitement's got me famished.*
 I kept one eye on the kids as I stepped into the foul-smelling loincloth and cinched the leather harness around my waist. Neither of them reacted to Banjo's comment. It pretty much confirmed my suspicion that the dog's words were confined to my own head. Best not mention it, I reckoned. For all I knew, talk like that in these parts would get people thinking of witchcraft or devils, and these two had enough to worry about.
+By the time I finished rigging my sorry outfit, I looked something like a dime-store barbarian out of a cheap pulp magazine, what with the ridiculous straps hanging every which way, and I still lacked shoes, but at least my particulars weren't flapping in the breeze anymore.
+*You smell like a dead possum's armpit, Boss,* Banjo noted, giving my new britches a suspicious sniff. *But you can't expect anything good off a coon.*
+"I suppose you can't," I muttered. I looked at the two kids. "Well, let's figure out where we're going."
+
 """,
 )
 
