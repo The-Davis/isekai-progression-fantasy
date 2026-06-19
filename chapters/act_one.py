@@ -84,6 +84,14 @@ Putting the confusion aside for the moment, I offered them what I hoped was a re
 *Pleasure to make your acquaintance!* Banjo added. His tail thumped against a stone, loud as a drumbeat. *You kids wouldn't happen to have any jerky in your pockets, would you? Fighting works up a terrible appetite.*
 "I'm Maisie," she sniffled, paying the dog no heed. I didn't think she could hear his thoughts the way I could, but I'd make it a point to find out later. She gestured to the boy. "This is me brother, Dougal."
 "Pleased to meet you, Maisie. Dougal," I said, giving the boy a solemn nod. "Now, where might your folks be? I could use their help to get Dougal here patched up proper."
+Maisie's lower lip trembled. She raised a shaking finger and pointed toward a crumpled shape lying a few yards from the flaming front doorway.
+I stepped closer and squinted against the harsh light of the fire. It was a man, well-built and broad-shouldered, lying perfectly still in the trampled dirt. He had been mauled and stabbed more times than I cared to count, and he was quite dead. What caught my eye, though, was his outfit. Alongside a fine woolen waistcoat, he was wearing a heavy, knee-length plaid skirt of forest green and brown.
+I am a respectful man, but the freezing wind was whistling right up my backside, and necessity is a harsh mother..
+I tipped my head, trying to put it gently. "I'm awful sorry about your pa, Maisie. Truly I am. Seeing as he has no further use for them, do you suppose he'd mind terribly if I borrowed that plaid skirt of his?"
+It was the wrong thing to say.
+The poor girl let out a wail that could have shattered glass, absolutely scandalized by the notion of me stripping her dead father. Dougal pulled his sister close, wincing as the sudden movement aggravated his bleeding side, and he shot me a glare of pure defiance.
+"Alright, alright, never mind!" I said quickly. I felt an inch tall. "It was just a thought. I won't take it."
+Stepping past the man's body, I peered through the door of the house, intending to see if there was a blanket or a coat to be rescued from the flames. What I saw tied my stomach in knots. Just inside lay the blackened, ruined form of a woman. The roof above her had already caved in, so the whole of the cottage was aflame. There was no salvage to be had here, and no survivors to aid. It was entirely clear what had happened here, and my heart broke for these poor kids.
 """,
 )
 
