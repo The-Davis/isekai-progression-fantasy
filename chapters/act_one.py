@@ -91,7 +91,17 @@ I tipped my head, trying to put it gently. "I'm awful sorry about your pa, Maisi
 It was the wrong thing to say.
 The poor girl let out a wail that could have shattered glass, absolutely scandalized by the notion of me stripping her dead father. Dougal pulled his sister close, wincing as the sudden movement aggravated his bleeding side, and he shot me a glare of pure defiance.
 "Alright, alright, never mind!" I said quickly. I felt an inch tall. "It was just a thought. I won't take it."
-Stepping past the man's body, I peered through the door of the house, intending to see if there was a blanket or a coat to be rescued from the flames. What I saw tied my stomach in knots. Just inside lay the blackened, ruined form of a woman. The roof above her had already caved in, so the whole of the cottage was aflame. There was no salvage to be had here, and no survivors to aid. It was entirely clear what had happened here, and my heart broke for these poor kids.
+Stepping past the man's body, I peered through the door of the house, intending to see if there was a blanket or a coat to be rescued from the flames. What I saw tied my stomach in knots. Just inside lay the blackened, ruined form of a woman. The roof above her had already caved in, so the whole of the cottage was aflame. There was no salvage to be had here, and no survivors to aid. It was entirely clear what had happened here, and my heart broke for these poor kids. I had to do something for them, particularly the boy. His face was turning the color of skim milk. He looked to be bleeding pretty badly, and if I didn't get him warm and patched up soon, the shock was liable to take him.
+The prospect of traipsing naked through the cold valley did not appeal in the slightest.
+*Boss,* Banjo spoke up, *if you're so cold, why don't you just take what those giant coons are wearing? They ain't exactly got a need for 'em, and they likely stole 'em in the first place.*
+I looked down at the dead hyena-thing at my feet. The very idea of wearing anything belonging to such a creature turned my stomach, but it was that or rob these kids' dead father right in front of them, and I reckoned wearing filthy animal cast-offs was the lesser evil. I knelt beside the beast I'd felled. Its garments consisted of a haphazard collection of crudely tanned hides and greasy leather belts that smelled as bad as a dead skunk left to simmer in the August sun for a week. I held my breath as I wrestled a heavy, rough-hewn loincloth and a mess of harness straps off the carcass.
+"You kids just sit tight a minute," I told them. "I'm gonna get myself decent, and then we'll get Dougal here patched up and find y'all somewhere safe."
+Dougal let out a groan and clutched his side. "Safe? There's nae safe place, mister, not with the gnolls on the warpath."
+I paused in my work. "Gnolls? Is that what these ugly fellas are called?"
+Despite his obvious pain, Dougal managed to shoot me a look of pity. "Are ye daft? How do ye no' ken what a gnoll is? They're everdark monsters, near common as rats!"
+"Dinna be a numpty, Dougal!" Maisie piped up. "Mr. Trip plainly kens how to kill the beasties. Why should their proper name matter?"
+*Ha! Kid's got spunk,* Banjo chimed in. *I like her. I'd like her better if she had any snacks. All this excitement's got me famished.*
+I kept one eye on the kids as I stepped into the foul-smelling loincloth and cinched the leather harness around my waist. Neither of them reacted to Banjo's comment. It pretty much confirmed my suspicion that the dog's words were confined to my own head. Best not mention it, I reckoned. For all I knew, talk like that in these parts would get people thinking of witchcraft or devils, and these two had enough to worry about.
 """,
 )
 
