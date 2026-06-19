@@ -75,8 +75,6 @@ I tossed the rusted cleaver into the dirt and turned my attention to the terrifi
 "Pardon my appearance," I said, doing my level best to arrange my hands so they could substitute a decent pair of denim jeans. "I don't rightly know where my britches got to, and I am awful sorry to present myself to you in such a sorry state."
 They just stared. It occurred to me then that I might be wasting my breath. Considering the two moons and the giant, upright-walking hyenas, there was a fair to middling chance these kids didn't speak a lick of English. For all I knew, I sounded like a barking dog to them.
 Then the little girl blinked, and her mouth opened and shut a few times before she found her voice.
-The moment the words left my mouth, I felt a fool. I was standing on an alien world beneath a sky with two moons. It stood to reason these poor children wouldn't understand a lick of English. I was likely just making unintelligible grunting noises to them.
-Then, the girl swallowed hard. She tightened her grip on her injured brother and looked at me with a mixture of awe and terror.
 "Thank ye, mister," she said. "Ye must have a Might near thirty to defeat a beastie like that bare-handed!"
 Her words were spoken in a thick brogue that sounded like that penny-pinching duck from the Saturday morning television cartoons. I couldn't rightfully tell you if that particular waterfowl was supposed to be Scottish or Irish or what have you, but the accent was uncannily similar. That didn't make it any less English, thankfully, and I understood her words clearly, for the most part. The bit about a "Might near thirty" had me entirely adrift, but I figured it for some local slang for being right tough.
 Putting the confusion aside for the moment, I offered them what I hoped was a reassuring smile.
@@ -105,7 +103,9 @@ I kept one eye on the kids as I stepped into the foul-smelling loincloth and cin
 By the time I finished rigging my sorry outfit, I looked something like a dime-store barbarian out of a cheap pulp magazine, what with the ridiculous straps hanging every which way, and I still lacked shoes, but at least my particulars weren't flapping in the breeze anymore.
 *You smell like a dead possum's armpit, Boss,* Banjo noted, giving my new britches a suspicious sniff. *But you can't expect anything good off a coon.*
 "I suppose you can't," I muttered. I looked at the two kids. "Well, let's figure out where we're going."
-
+I stepped up onto the low stone wall to get a better vantage of our surroundings, and that's when the true scale of our predicament laid itself bare. Down the length of the dark, sweeping valley, I counted three... no, four other farmsteads blazing like signal fires in the night. The smoke was rising thickly against the light of the moons.
+Dougal had had the right of it. The gnolls were on the warpath, and every one of those distant fires had to be another farmstead burning. That meant help wasn't coming, because help was busy fighting their own battles.
+*Chief,* Banjo warned. *I smell a whole mess of 'em on the wind. They're comin' back, and there's a whole lot more this time.*
 """,
 )
 
