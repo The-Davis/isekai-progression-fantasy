@@ -4,7 +4,7 @@ from chapters import get_all_chapters
 from util.files import write_file
 
 output = """
-I am working on a fantasy adventure story with no working title. Have a read:
+I am reviewing a fantasy adventure story with no working title. Have a read:
 """
 
 for chapter in get_all_chapters():
