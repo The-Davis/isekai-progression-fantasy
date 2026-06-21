@@ -10,26 +10,26 @@ Right before everything changed, I'd got a feeling, a mighty peculiar one. It wa
 I lay there a spell, trying to blink the double moons out of my vision, thinking I must've hit my head on a low-hanging branch, but the moons failed to come back together no matter how much I blinked. One was a pale, dusty yellow, not too far off from the one I'd known all my life, but the other glowed a sullen shade of bruised plum. It dawned on me right about then that the night air was uncommonly brisk against my skin. All of my skin.
 I sat up, took a quick inventory, and found myself entirely in the altogether. I was bereft of my boots, my denim trousers, my flannel shirt, and, most grievously, my hunting rifle. That last one was a bitter pill to swallow. It was my grandfather's Winchester, as fine a lever-action as a man could ever hope to carry into the woods. Losing your pants in the middle of the night is an embarrassment, but losing a piece of family history is a downright tragedy.
 "Well... how 'bout that?" I murmured to the empty air, rubbing my bare arms against the chill of the night.
-*It ain't right, Boss. That's how 'bout it.*
+*It ain't right, Trip. That's how 'bout it.*
 I jumped like a spooked bullfrog and near pulled a muscle trying to cover my particulars. The voice was deep, gruff, and amiable, sounding a lot like an older fella who'd just popped the tab on the third beer of the afternoon. Except it hadn't *sounded* like anything at all, it'd just popped right into my head without bothering so much as a 'by your leave' to my ears. I looked around for the source of the voice (for want of a better word), but all I saw was Banjo.
 He was standing about ten paces off, illuminated by that bruised-plum moonlight. There was no mistaking him for some other hound. Banjo's handsome head has distinct dark spectacle marks framing his eyes. He stared at me, cocked his head, and the voice echoed in my skull once more.
-*Chief, I'm gonna need some answers.* Banjo let out a low whine even as his words rattled inside my head. *Where's the tree? More importantly, where's the coon that was in the tree? I had him, Boss. Had him dead to rights.*
+*I'm gonna need some answers.* Banjo let out a low whine even as his words rattled inside my head. *Where's the tree? More importantly, where's the coon that was in the tree? I had him, Trip. Had him dead to rights.*
 I pressed the heels of my hands against my eyes. "I really did hit my head. Must be. I tripped over a root, hit my head, and now I'm dreaming."
 Banjo trotted over and bumped his cold nose inquisitively against my bare knee. I flinched.
-*Boss, I don't know how to tell you this, but your pants have flown the coop.* He sat back on his haunches and lifted a paw to scratch at his bare neck. *What the Sam Hill?* He stopped and turned in a circle, trying to get a look at himself. *Aw, nuts. My collar's gone. I liked that collar. It jingled. Where's all our stuff, Boss? Did that thieving coon nab our stuff?*
+*I don't know how to tell you this, but your pants have flown the coop.* He sat back on his haunches and lifted a paw to scratch at his bare neck. *What the Sam Hill?* He stopped and turned in a circle, trying to get a look at himself. *Aw, nuts. My collar's gone. I liked that collar. It jingled. Where's all our stuff, Trip? Did that thieving coon nab our stuff?*
 I looked at his neck. Sure enough, his faded orange nylon collar with the brass nameplate was gone, vanished just like my boots and my grandpa's Winchester.
 By this point, though I sure didn't want to believe it, I wasn't dreaming. As for the sky above, unless the astronomy folks had gone and done something a sight more severe than kicking poor old Pluto out of the "I'm a real planet" club while I was too busy working the night shift to notice, the two moons meant I wasn't on Earth anymore.
 Banjo thumped his tail and looked up at me. *Why would a cartoon dog ever be in a planet club, Boss?* 
 I blinked at him. I hadn't said a word out loud.
 *You heard that?* I thought, putting some deliberate intention behind it. Banjo, can you hear what I'm thinking?
-Banjo's thick tail started going even faster. *Loud and clear, Chief. Like you're hollering right down a rain barrel. Hey, this makes it a whole lot easier to tell you when I'm hungry. Speaking of which...*
+Banjo's thick tail started going even faster. *Loud and clear. Like you're hollering right down a rain barrel. Hey, this makes it a whole lot easier to tell you when I'm hungry. Speaking of which...*
 So, I didn't have to flap my jaw for the hound to hear me. That could prove mighty handy, I reckoned.
 That didn't put Banjo or me any closer to figuring out where we were, and it was none too warm in the moonlight. With nothing else to go on, I picked a direction and started walking.
 Picking my way through the heather in nothing but my birthday suit was a humbling experience, to put it mildly. The ground was lousy with rocks and a mean-spirited sort of thistle that harbored a grudge against my bare shins. I hopped and cursed, favoring one tenderized foot and then the other, dearly mourning the loss of my Red Wing boots and a decent pair of denim jeans. A man's dignity is tied to his trousers, I reckon, so mine was in short supply.
-Banjo suddenly froze. His velvety ears pricked up a little. *You catch that, Boss?*
+Banjo suddenly froze. His velvety ears pricked up a little. *Trip, you catch that?*
 I strained my ears, but all I caught was the whisper of the wind whipping through the brush. When I looked up, however, peering past a gentle rise in the land, I spotted a flickering orange glow painting the underbelly of the low-hanging clouds.
 "Well, looky there," I mumbled as the sight put a little warmth in my chest. "Let's hope that's a house, or at least some friendly folks who wouldn't mind a naked man wandering up to borrow a spare pair of overalls." I rubbed my goose-pimpled arms to generate a little friction. "Course, seeing as we ain't on Earth anymore, I just hope it ain't little green men hopping out of flying saucers."
-Banjo snorted. *What in tarnation gives you that idea, Chief? We're on Earth. It smells like Earth. It feels like Earth. Ergo, it's Earth.*
+Banjo snorted. *What in tarnation gives you that idea? We're on Earth. It smells like Earth. It feels like Earth. Ergo, it's Earth.*
 "Why don't you take a gander at that?" I asked, pointing upward. "There's an extra moon, and neither of 'em are the right color."
 *That don't mean spit,* Banjo retorted. *Old moon probably just found himself a lady friend and put on a fancy suit to impress her. It was bound to happen eventually. Besides, the screaming folks in that burning building smell like regular old people to me.*
 Banjo stopped dead in his tracks and the ridge of thick fur along his spine stood up straight and stiff as a wire brush. A rumbling growl started up in his chest, vibrating so fiercely I could feel it through the soles of my freezing feet.
@@ -39,13 +39,14 @@ We hurried up a slight rise, completely disregarding the thistles tearing at my 
 Silhouetted against that raging inferno were figures that were sure to haunt my nightmares. They walked upright on two legs like men, but any further resemblance hitched up its skirts and fled. They had thick, sloping shoulders covered in thick ruffs of fur, while their faces were muzzles packed with jagged teeth. With tufted ears and spotted fur coats, they looked almost like hyenas, but they had some sort of working hands, because they were brandishing rusted cleavers and crude spears. There must've been about a half dozen of these things, and they'd cornered two small figures against a low stone wall.
 Now, I reckon you might be inclined to judge me right about here. You might be thinking I'm a poor excuse for a woodsman and a hunter, failing to notice a blazing house and folks screaming until my dog pointed it out. But consider my predicament: I was buck naked in a freezing wind, I had a dog jawing at me from inside my own skull, and I'd just been whisked clear across the cosmos to only God knew where. Unless, of course, Banjo had the right of it and all that had happened was the moon had finally found himself a girlfriend and decided to put on a show and I'd merely misplaced all my clothes by accident. That's a bit of a ramble, but I mean to say that I wasn't quite myself. Even seeing the disaster unfold, all I could do for a moment was stare like a rabbit at the horrible shapes in the firelight.
 Banjo wasn't so flabbergasted. I guess hesitation isn't in a coonhound's nature.
-*Holy crap, Boss!* Banjo's voice hollered in my head, practically vibrating with indignation. *Would you look at the size of 'em? Those are the biggest coons I ever saw!*
+*Holy crap!* Banjo's voice hollered in my head, practically vibrating with indignation. *Would you look at the size of 'em? Those are the biggest coons I ever saw!*
 "Coons?" I blinked, still somewhat stupefied. "Banjo, those clearly ain't coons. They're built like hyenas, or maybe some sort of two-legged wolf—"
 *They're standing on their hind legs and they're thieving!* Banjo argued back with the logic of the confidently ignorant. *Look at them tufted ears! They might be mutated super-coons like in that space picture show, but they're coons, sure as I'm breathin'!*
 "I don't care what they look like, they ain't—" I started to argue, but the words died in my throat.
 Down in the hollow, one of those hyena-faced nightmares jabbed a spear toward the cornered figures, delivering a cruel poke clearly intended to torment rather than kill. The shrill cry that answered it cut through all the haze in my brain and set a cold hatred churning in my heart.
 It was a child's cry.
 "Banjo," I announced, "we gotta help the little ones."
+*On it, Chief!*
 I barely had the words out before Banjo was gone. He took off like a shot down the hillside, not bothering with stealth. A proper coonhound prefers to announce his intentions, and he unleashed a deep, ringing bay that rattled the stars themselves. It was the battle cry of a blue tick in hot pursuit, and it was beautiful.
 I threw caution to the wind and sprinted right after him, a decision that quickly reminded me of my lack of boots and britches. I learned the hard way that a patch of gorse is a malicious entity full of ambition to part a man from his skin, but I forced my way through the scratching briars and managed to stay right on my dog's heels in spite of my particulars flapping freely in the breeze.
 We plunged right into the inferno, and Banjo's baying had the attention of the hyena-things. In the hellish orange glow of the burning farmstead, they looked downright demonic. Their eyes caught the firelight, burning like hot coals above bared, gleaming teeth. As we closed the distance, the illumination revealed the thick, dark blood soaking their muzzles and matting their fur.
@@ -59,7 +60,7 @@ These hyena-things, on the other hand, were about to learn the meaning of fear.
 chapter_two = Chapter(
     title="Chapter Two",
     content="""Banjo was a blur as he bounced through the firelight. He darted and wove with canine grace that made a mockery of the raiders. The hyena-things jabbed at him with their clumsy spears, but they fought without any coordination or discipline. Every thrust caught empty air, while Banjo managed to dart in and crush one of their ankles in his powerful jaws.
-*Ha! Missed me!* Banjo's voice was downright gleeful as he crowed in my head. *Even you play a better game of tag, Boss. These are the clumsiest coons I ever did see!*
+*Ha! Missed me!* Banjo's voice was downright gleeful as he crowed in my head. *Even you play a better game of tag, Trip. These are the clumsiest coons I ever did see!*
 I couldn't really reply, as of one of those heavy-shouldered nightmares decided the dog was too elusive and that the kids and I made easier targets. It raised a rusted piece of iron that looked halfway between a butcher's cleaver and a serrated machete and let out a rattling snarl.
 The hyena-thing charged forward and swung the blade in a chopping arc. While it looked uncommonly strong, its limbs didn't seem well-suited to the business of wielding tools. It moved more like a dog who'd gotten ahold of a knife than someone who knew how to use it, so I stepped inside its reach and grappled its forearm. I stopped the cleaver's descent, but only just.
 Its limbs were thick and corded with brute muscle, and I think it could have overpowered me if it chose, but it didn't even try to wrestle its weapon free or strike with its other hand. It was like it forgot it was holding a blade at all, because it opened its maw to reveal yellow fangs and lunged for my throat.
@@ -69,7 +70,7 @@ The heavy iron scored a deep gash through the hyena-thing's stomach. It let out 
 Seeing two of their number violently dispatched in short order was enough to overcome whatever courage had led the hyena-things to attack this farmstead. The remaining four or five let out a chorus of yips and barks, turned tail, and scattered into the dark. In moments, they'd been swallowed up in the gloom.
 The sudden loss of adrenaline left me hollowed out and shivering. I stood there, panting heavily, and took stock in the light of the burning farmhouse. I felt awful, seeing as I was completely naked and painted from head to toe in a gruesome mixture of my own blood and the dark, foul-smelling gore of the beast at my feet.
 Banjo trotted over, his thick tail wagging so hard his entire backside was whipping back and forth. He didn't have a scratch on him.
-*Look at you, Chief!* His muzzle opened in a big doggy grin. *Red and bare as a freshly skinned buck! I don't know why humans don't go naked more often. It's gotta be less stuffy than those old dungarees you always wear.*
+*Look at you, Trip!* His muzzle opened in a big doggy grin. *Red and bare as a freshly skinned buck! I don't know why humans don't go naked more often. It's gotta be less stuffy than those old dungarees you always wear.*
 "Hush your mouth, dog," I muttered, too tired to think the words back at him.
 I tossed the rusted cleaver into the dirt and turned my attention to the terrified youngsters huddled against the stone wall. The boy looked to be about twelve or so. He was clutching his left side with both hands, and dark blood seeped steadily between his fingers. The girl, who couldn't have been older than nine, didn't appear to have a scratch on her, but her eyes were wide and glassy with shock.
 "Pardon my appearance," I said, doing my level best to arrange my hands so they could substitute a decent pair of denim jeans. "I don't rightly know where my britches got to, and I am awful sorry to present myself to you in such a sorry state."
@@ -81,22 +82,22 @@ Putting the confusion aside for the moment, I offered them what I hoped was a re
 "Well, I appreciate the kind words, little miss," I told her. "My name's Wayne Coberly, but most folks call me Trip. "And this here handsome fella is Banjo." I gestured down at the hound, who was currently busy sniffing the dead creature's big paws.
 *Pleasure to make your acquaintance!* Banjo added. His tail thumped against a stone, loud as a drumbeat. *You kids wouldn't happen to have any jerky in your pockets, would you? Fighting works up a terrible appetite.*
 "I'm Maisie," she sniffled, paying the dog no heed. I didn't think she could hear his thoughts the way I could, but I'd make it a point to find out later. She gestured to the boy. "This is me brother, Dougal."
-"Pleased to meet you, Maisie. Dougal," I said, giving the boy a solemn nod. "Now, where might your folks be? I could use their help to get Dougal here patched up proper."
+"Pleased to meet you, Maisie. Dougal," I said, giving the boy a nod. "Now, where might your folks be? I could use their help, especially seeing as we need to get Dougal here patched up proper."
 Maisie's lower lip trembled. She raised a shaking finger and pointed toward a crumpled shape lying a few yards from the flaming front doorway.
 I stepped closer and squinted against the harsh light of the fire. It was a man, well-built and broad-shouldered, lying perfectly still in the trampled dirt. He had been mauled and stabbed more times than I cared to count, and he was quite dead. What caught my eye, though, was his outfit. Alongside a fine woolen waistcoat, he was wearing a heavy, knee-length plaid skirt of forest green and brown.
-I am a respectful man, but the freezing wind was whistling right up my backside, and necessity is a harsh mother..
+I am a respectful man, but the freezing wind was whistling right up my backside, and necessity is a harsh mother.
 I tipped my head, trying to put it gently. "I'm awful sorry about your pa, Maisie. Truly I am. Seeing as he has no further use for them, do you suppose he'd mind terribly if I borrowed that plaid skirt of his?"
 It was the wrong thing to say.
 The poor girl let out a wail that could have shattered glass, absolutely scandalized by the notion of me stripping her dead father. Dougal pulled his sister close, wincing as the sudden movement aggravated his bleeding side, and he shot me a glare of pure defiance.
 "Alright, alright, never mind!" I said quickly. I felt an inch tall. "It was just a thought. I won't take it."
 Stepping past the man's body, I peered through the door of the house, intending to see if there was a blanket or a coat to be rescued from the flames. What I saw tied my stomach in knots. Just inside lay the blackened, ruined form of a woman. The roof above her had already caved in, so the whole of the cottage was aflame. There was no salvage to be had here, and no survivors to aid. It was entirely clear what had happened here, and my heart broke for these poor kids. I had to do something for them, particularly the boy. His face was turning the color of skim milk. He looked to be bleeding pretty badly, and if I didn't get him warm and patched up soon, the shock was liable to take him.
 The prospect of traipsing naked through the cold valley did not appeal in the slightest.
-*Boss,* Banjo spoke up, *if you're so cold, why don't you just take what those giant coons are wearing? They ain't exactly got a need for 'em, and they likely stole 'em in the first place.*
+*Hey, Trip,* Banjo spoke up, *if you're so cold, why don't you just take what those giant coons are wearing? They ain't exactly got a need for 'em, and they likely stole 'em in the first place.*
 I looked down at the dead hyena-thing at my feet. The very idea of wearing anything belonging to such a creature turned my stomach, but it was that or rob these kids' dead father right in front of them, and I reckoned wearing filthy animal cast-offs was the lesser evil. I knelt beside the beast I'd felled. Its garments consisted of a haphazard collection of crudely tanned hides and greasy leather belts that smelled as bad as a dead skunk left to simmer in the August sun for a week. I held my breath as I wrestled a heavy, rough-hewn loincloth and a mess of harness straps off the carcass.
 "You kids just sit tight a minute," I told them. "I'm gonna get myself decent, and then we'll get Dougal here patched up and find y'all somewhere safe."
 Dougal let out a groan and clutched his side. "Safe? There's nae safe place, mister, not with the gnolls on the warpath."
 I paused in my work. "Gnolls? Is that what these ugly fellas are called?"
-Despite his obvious pain, Dougal managed to shoot me a look of pity. "Are ye daft? How do ye no' ken what a gnoll is? They're everdark monsters, near common as rats!"
+Despite his obvious pain, Dougal managed to shoot me a look of pity. "Are ye daft? How do ye no' ken what a gnoll is? They're Everdark monsters, near common as rats!"
 "Dinna be a numpty, Dougal!" Maisie piped up. "Mr. Trip plainly kens how to kill the beasties. Why should their proper name matter?"
 *Ha! Kid's got spunk,* Banjo chimed in. *I like her. I'd like her better if she had any snacks. All this excitement's got me famished.*
 I kept one eye on the kids as I stepped into the foul-smelling loincloth and cinched the leather harness around my waist. Neither of them reacted to Banjo's comment. It pretty much confirmed my suspicion that the dog's words were confined to my own head. Best not mention it, I reckoned. For all I knew, talk like that in these parts would get people thinking of witchcraft or devils, and these two had enough to worry about.
@@ -105,7 +106,7 @@ By the time I finished rigging my sorry outfit, I looked something like a dime-s
 "I suppose you can't," I muttered. I looked at the two kids. "Well, let's figure out where we're going."
 I stepped up onto the low stone wall to get a better vantage of our surroundings, and that's when the true scale of our predicament laid itself bare. Down the length of the dark, sweeping valley, I counted three... no, four other farmsteads blazing like signal fires in the night. The smoke was rising thickly against the light of the moons.
 Dougal had had the right of it. The gnolls were on the warpath, and every one of those distant fires had to be another farmstead burning. That meant help wasn't coming, because help was busy fighting their own battles.
-*Chief,* Banjo warned. *I smell a whole mess of 'em on the wind. They're comin' back, and there's a whole lot more this time.*
+*Uh-oh,* Banjo warned. *I smell a whole mess of 'em on the wind. They're comin' back, and there's a whole lot more this time.*
 """,
 )
 
@@ -124,4 +125,5 @@ chapter_four = Chapter(
 act_one_chapters: list[Chapter] = [
     chapter_one,
     chapter_two,
+    chapter_three,
 ]
