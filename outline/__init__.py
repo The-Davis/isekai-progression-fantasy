@@ -22,9 +22,6 @@ act_three = Outline(
 )
 
 _outline: list[Outline] = [
-    act_one,
-    act_two,
-    act_three,
 ]
 
 
