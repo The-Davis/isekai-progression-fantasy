@@ -116,6 +116,25 @@ chapter_three = Chapter(
 "My dog here is looking mighty twitchy," I told them. "I expect those gnoll things are fixing to come back, and I'd bet my last dollar they're bringing friends. If your folks were to advise you right now, where do you reckon they'd tell you to run to?"
 Dougal grimaced, clutching his bloody side with pale fingers. "We need to make for the church." He pushed himself off the low stone wall and started swaying like a pine sapling in a stiff breeze. "I ken the way, mister. Follow me—"
 His eyes rolled back in his head like a pair of pale marbles, his knees buckled, and he pitched forward. Maisie let out a cry and reached out to catch him, but she was a hair too little and he was a bit too heavy. The two of them went down together in a tangle.
+"Lord have mercy," I said and rushed over.
+Banjo got there right alongside me and started sniffing at Dougal's ears while I dropped to my knees in the dirt. I pressed two fingers to the side of the boy's neck. His pulse was there, but it felt thin and thready, fluttering against my fingertips like a trapped moth. I peeled back the bloody tear in his shirt to inspect the damage. A gash that one of the gnolls must've given him was oozing a slow, dark crimson, but it wasn't gushing like a struck spring, which was a blessing.
+"Give me a hand here, Miss Maisie," I urged. "We need to bind this up."
+She quickly wriggled her stout woolen apron off her dress, and I tied it snug around her brother's middle to put some pressure on the wound. I couldn't help but fret over how pale the boy was, but Maisie collected herself the moment we had the bleeding managed.
+"He's a stout lad, mister," she said, patting her brother's slack cheek. "The parish tested him only last year. He's got Endurance and Vigor each over fifteen. He'll be grand, especially if we can get him to the church."
+That was the second time she'd thrown a number at me—first about my "Might," and now about her brother's "Endurance" and "Vigor." I'm no mathematician, but three points makes a pattern. It stood to reason folks around here had some peculiar way of looking at things, and they took it right seriously, but it didn't make a lick of sense to me.
+"I'll take your word for it, Maisie," I said, deciding the meaning was best left for later. "But fifteen or no, we need to get him out of the wind. Tell me about this church."
+"It's the Sancta Canthica church, right in the village center," she explained. "It's a proper stone building with a heavy slate roof. The beasties canna burn it. The Vicar keeps the local militia's muskets locked up safe in the vestry. He might even have a healing potion for Dougal. That'd set him right quick as a wink."
+My ears pricked up at the word *muskets*. My granddaddy, the first Wayne Coberly, had a deep fondness for black powder, and I'd shot a fair few muzzle-loaders in my time. It was a comfort to know they had firearms in this place, even if they sounded to be about a hundred and fifty years out of date compared to my poor, departed Winchester.
+*Muskets, schmuskets,* Banjo interjected, entirely unimpressed. *A gun's a gun, Trip, and in your hands they ain't good for much more'n scaring ducks. I wanna know about that healing potion thing. You reckon it's like your Nana's pain pills?*
+A sudden pang of memory caught me off guard. My grandmother had been the last survivor of the Coberly clan aside from myself for the last handful of years. She'd absolutely doted on Banjo, always sneaking him table scraps from her apron pocket when she thought I wasn't looking. We both missed her dearly, and the dog had worshipped the ground she walked on.
+*You remember the ones,* Banjo continued, oblivious to my melancholy. *The little yellow ones always made her pee all morning. How's peeing gonna help that boy's bleeding? Seems counterproductive if you ask me.*
+*It's not...* I didn't bother to finish the thought. We needed to move, and fast. I looked from the unconscious boy to my stout hound. *Say, Banjo...* *You're a strong fella. What say we rig up a makeshift drag-litter out of some of this wreckage, and you pull the boy? That way, I keep my hands free to fend off any trouble.*
+Banjo stared at me like I'd just suggested he take a bath in a tub full of bobcats.
+*I ain't no pack mule,* he declared, lifting his chin indignantly. *Besides, you're practically deaf and blind in the dark. A whole herd of them coons could sneak right past you while you're stumbling around. Let me do the scouting. You carry the pup.*
+I grumbled under my breath, though I knew he had a point about my night vision. I slid my arms under Dougal and heaved him up against my chest. *Raccoons don't travel in herds, and these critters are gnolls, not coons.*
+Banjo completely ignored me. He had his black nose in the dirt and was snuffling about.
+"Lead the way, Maisie," I grunted, heaving Dougal up against my bare chest. "Banjo, scout out ahead of her, alright?"
+*You got it, Chief.*
 """,
 )
 
