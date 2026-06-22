@@ -3,18 +3,19 @@ from models.codex import CodexEntry
 
 sancta_canthica = CodexEntry(
     title="Sancta Canthica",
-    content="""The Sancta Canthica is the predominant religion of humans on this world, and is an evolution of Catholic Christianity.
+    content="""The Sancta Canthica is the religion of human commoners and anti-elvish nobles on this world, and is an evolution of Catholic Christianity.
     It should always be portrayed as a positive force in the world and a beacon of civilization, even when it is troubled.
     The canthica refers to oral traditions and songs that Canthican monks and priests kept alive during elvish and pagan persecutions on the mainland, and which have since become the basis of the religion's theology.
     The Canthican Church is one of the few religions which acknowledges that humanity is from another world. It is a subject of serious conflict with non-human races.
+    In the Corvish Isles, King Calador Half-Elven has legalized Sancta Canthica in practice on the condition that it "tone down" its teaching of humanity's origins. Compliance or defiance are a divisive subject among the clergy.
     Many Christian traditions have become muddled, but the central figure of the religion is still Jesus Christ, though the church is much more militant than it was in our world.
     The Church is divided into dioceses, which are tended by a bishop, the highest rank of non-political clergy.
     Individual parish churches are tended by vicars, and they are assisted by biders, who are the equivalent of deacons.
-    The Church also has a large number of fraternal and sororital monastic orders, which are tended by Abbots and Abbesses. These can be charitable or militant, but they answer to the political arm of the Church rather than the parish and diocese structure.
+    The Church also has a large number of fraternal and sororital monastic orders, which are tended by Abbots and Abbesses. These can be charitable or militant, but they answer to the political arm of the Church rather than the parish and diocese structure. Militant orders are not permitted within the Corvish Isles, but they exist in secret to defend the faith and humanity.
     The higher political ranks of the Church are the Cardenes, who are the equivalent of cardinals, and the Pontifex Maximus, who is the equivalent of the pope.
     The Pontifex is elected by the Cardenes. He has sole authority over the militant orders, but shares authority over the parish and diocese structure with the bishops, who are elected by the vicars of their respective dioceses.
     For laypersons in the Church, most will never meet anyone higher-ranked than their local vicar and biders. They will have a general reverence for the higher ranks, but they will be largely ignorant of the details of the Church's structure and politics.
-    Indeed, the name of the current Pontifex is rarely known outside of the Church, and the Cardenes are even less well-known.
+    Indeed, the name of the current Pontifex is rarely known outside of the Church, and the Cardenes are even less well-known. This is largely due to the church's secretive nature outside the Corvish Isles.
 """
 )
 

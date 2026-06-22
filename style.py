@@ -1,4 +1,4 @@
-main_style = """For style, please use a first person, past tense narrative voice, from the point of view of our narrator, Tad Harlan.
+main_style = """For style, please use a first person, past tense narrative voice, from the point of view of our narrator, Trip Coberly.
 Even in dire circumstances, the tone should be that of a classic adventure with a dash of sincere humor. Use a varied sentence structure.
 Employ short, punchy sentences for emotional impact or to punctuate a thought, and contrast these with longer, more complex sentences that weave together description, action, and internal reflection into a single, flowing thought.
 When describing settings, characters, or objects, vary between direct descriptions, flowery and poetic ones, and anthropomorphized where comedic timing is appropriate.
