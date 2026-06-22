@@ -4,11 +4,23 @@ from prompts.outline import generate_outline_prompt
 from util.files import write_file
 
 
-next_section = """Let's work out the outline for the rest of chapter 2. Here's the basics I have in mind:
-the lawmen aren't quite as superstitious as the shepherds, but some of them see Banjo as a devilish familiar given how well he minds Trip (despite mental grumbels to him protesting the choice of not fighting). One of them decides to shoot Banjo to be on the safe side.
-Trip slams into the man, throwing off his shot, and Banjo gets away. Another lawman shoots Trip. We demonstrate the first "hands on" magic when one of them pulls out a healing potion and patches Trip up. Thhis should be a wonder and a marvel to Trip, but nothing special to the guards.
-They haul him off to the Glenrowan jail to face the justice of the peace for vagrancy, assaulting a peace officer, and trafficking with devils. He is given a horse blanket to wear in the meantime.
-Lachlan is our justice. He hears the testimony of the lawmen, decides the case is cut and dry, and finds Trip guilty of vagrancy and assault. Trip tries to claim the dog is just a dog, not a devil. Lachlan looks like he's about to find Trip guilty of this anyway, but instead he asks if any of the lawmen have evidence of devilry. When none is forthcoming, he decides to hold that verdict in abeyance and discuss sentencing.
+next_section = """Let's work out the outline for chapter 2. Here's the basics I have in mind:
+Trip and Banjo have arrived in the Bannoch region of the Corvish Isles. They don't know this and won't learn it right away.
+The gnolls (Trip doesn't know what they are, but the hyena-things are gnolls) were raiding a Bannish farmstead. This happens every so often. Trip and Banjo were too late to save most of the farm family, but they'll save the two they've seen so far.
+While Banjo fights most of the gnolls (dodging clumsy spear thrusts), Trip grapples one that attacks with a cleaver. Gnolls use weapons and tools, but not well. Their bestial instincts take over. The gnoll keeps trying to bite, getting in close and losing the advantage of its size and the weapon it has. Trip's able to snatch up the weapon from the one Banjo killed, and he kills the gnoll, but not before getting a nasty bite.
+The gnolls who have survived go in search of easier prey. It's obvious there are other farms in the area and other victims, as fires blossom in the distance in multiple directions.
+We should ease the tension with a smidge of humor between Banjo and Trip and make light of Trip's appearance: nude, covered in blood, breathing like an adrenaline-addled berserker.
+Of the two survivors, the girl is fine, but the boy is badly wounded. This is where we can learn that the people here speak English. Or, actually, Corvish, which is practically the same thing. The girl should marvel over how well Trip fought, and speculate on one of his physical attributes (this will worldbuild that they exist and common people know about them, but Trip will just be confused by the term)
+Trip notices the brogue and thinks they sound like Scrooge McDuck, so Scottish, or Irish, or whatever he was (Trip's not too educated, after all).
+The girl helps Trip get some clothes off the dead raiders. Her father is dead right outside the house. His kilt is about the right size for Trip, but she cries and wails when he suggests borrowing them. He settles on some gnoll loincloths. Other than that, they only wear harnesses and belts, so he doesn't look much better, but at least he isn't flapping in the breeze.
+Now equipped, Trip ponders what to do. With all the fires around them and what's clearly a major raid going on, help isn't coming, and the creatures are probably coming back. The boy, though weak, musters enough strength to identify them as gnolls. He suggests making for the church, but he groans and stops talking.
+The girl picks up the line of thinking: the church is the only stone building in the village, and the vicar keeps muskets there for the militia. He might even have a healing potion or two. These two mentions will world-build the tech level. Trip doesn't catch on that "healing potion" is something special, but Banjo wonders about it, like if it's the same as the pills Trip's nana used to take (Trip can briefly recall his nana lived with him until her death last year).
+Finally, Trip agrees on the church as a destination. He debates briefly with Banjo if the dog should pull the boy on a litter or if Trip should carry him. Banjo makes fun of Trip's senses and says a whole herd of coons could sneak past him. He says it's best to let him scout while Trip carries the kid. Trip grumbles that raccoons don't have "herds" and the creatures aren't racoons anyway, the boy said they're gnolls, but Banjo is already nose to the ground and heading out.
+Getting the boy moved safely is the next challenge, and we need a harrowing ordeal for Trip since he still doesn't have proper footwear, even if his everything isn't flapping in the breeze anymore. They can reach the church, only to be blocked by raiders who are trying to break down its heavy door.
+That's probably a good cliffhanger for the end of chapter two.
+"""
+
+"""
 This is where we reveal the stat system and Lachlan's motivation. If Trip has high enough stats and potential stats, he could serve in the army. If he qualifies for one of the king's elite units, he could be Glenrowan's entire levy for the year.
 Lachlan brings in the local vicar, who has a relic that can test and record stats. We can use this for several world-building elements:
 1. While the "Corvish" language is clearly English with a slight drift, the written language is an odd flowing script. There isn't a Latin letter among them.
