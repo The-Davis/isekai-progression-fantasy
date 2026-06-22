@@ -112,7 +112,10 @@ Dougal had had the right of it. The gnolls were on the warpath, and every one of
 
 chapter_three = Chapter(
     title="Chapter Three",
-    content="""
+    content="""I kept a wary eye on the dancing shadows playing across the hillside, but I didn't catch a glimpse of the creatures Banjo had smelled. All the same, I figured we'd best get moving. I didn't think either of the youngsters could hear Banjo chattering at me, so I bridged the gap.
+"My dog here is looking mighty twitchy," I told them. "I expect those gnoll things are fixing to come back, and I'd bet my last dollar they're bringing friends. If your folks were to advise you right now, where do you reckon they'd tell you to run to?"
+Dougal grimaced, clutching his bloody side with pale fingers. "We need to make for the church." He pushed himself off the low stone wall and started swaying like a pine sapling in a stiff breeze. "I ken the way, mister. Follow me—"
+His eyes rolled back in his head like a pair of pale marbles, his knees buckled, and he pitched forward. Maisie let out a cry and reached out to catch him, but she was a hair too little and he was a bit too heavy. The two of them went down together in a tangle.
 """,
 )
 
