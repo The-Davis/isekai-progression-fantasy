@@ -135,6 +135,8 @@ I grumbled under my breath, though I knew he had a point about my night vision. 
 Banjo completely ignored me. He had his black nose in the dirt and was snuffling about.
 "Lead the way, Maisie," I grunted, heaving Dougal up against my bare chest. "Banjo, scout out ahead of her, alright?"
 *You got it, Chief.*
+The trek to the village was the sort of affair that tests the limits of a man's determination. I reckon if the Devil wanted to design a torment for my soul, he couldn't do better than forcing me to hike barefoot across jagged rocks and vicious thistles while carrying a boy's dead weight. The rawhide harness didn't shield my chest against the cold at all, and it began to chafe something fierce before we'd gone a mile. Maisie, bless her heart, wasn't much help. She carried the cleaver I'd pilfered for me, but she was such a little girl that I couldn't rely on her to carry so much as an ounce of the boy's weight.
+By and by, the cold crept into my bones and settled in next to the fiery ache in my back and arms. But a man does what he has to do. I locked my jaw, put my head down, and kept putting one miserable foot in front of the other.
 """,
 )
 
