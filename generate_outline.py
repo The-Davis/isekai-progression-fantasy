@@ -4,23 +4,16 @@ from prompts.outline import generate_outline_prompt
 from util.files import write_file
 
 
-next_section = """Let's work out the outline for chapter 2. Here's the basics I have in mind:
-Trip and Banjo have arrived in the Bannoch region of the Corvish Isles. They don't know this and won't learn it right away.
-The gnolls (Trip doesn't know what they are, but the hyena-things are gnolls) were raiding a Bannish farmstead. This happens every so often. Trip and Banjo were too late to save most of the farm family, but they'll save the two they've seen so far.
-While Banjo fights most of the gnolls (dodging clumsy spear thrusts), Trip grapples one that attacks with a cleaver. Gnolls use weapons and tools, but not well. Their bestial instincts take over. The gnoll keeps trying to bite, getting in close and losing the advantage of its size and the weapon it has. Trip's able to snatch up the weapon from the one Banjo killed, and he kills the gnoll, but not before getting a nasty bite.
-The gnolls who have survived go in search of easier prey. It's obvious there are other farms in the area and other victims, as fires blossom in the distance in multiple directions.
-We should ease the tension with a smidge of humor between Banjo and Trip and make light of Trip's appearance: nude, covered in blood, breathing like an adrenaline-addled berserker.
-Of the two survivors, the girl is fine, but the boy is badly wounded. This is where we can learn that the people here speak English. Or, actually, Corvish, which is practically the same thing. The girl should marvel over how well Trip fought, and speculate on one of his physical attributes (this will worldbuild that they exist and common people know about them, but Trip will just be confused by the term)
-Trip notices the brogue and thinks they sound like Scrooge McDuck, so Scottish, or Irish, or whatever he was (Trip's not too educated, after all).
-The girl helps Trip get some clothes off the dead raiders. Her father is dead right outside the house. His kilt is about the right size for Trip, but she cries and wails when he suggests borrowing them. He settles on some gnoll loincloths. Other than that, they only wear harnesses and belts, so he doesn't look much better, but at least he isn't flapping in the breeze.
-Now equipped, Trip ponders what to do. With all the fires around them and what's clearly a major raid going on, help isn't coming, and the creatures are probably coming back. The boy, though weak, musters enough strength to identify them as gnolls. He suggests making for the church, but he groans and stops talking.
-The girl picks up the line of thinking: the church is the only stone building in the village, and the vicar keeps muskets there for the militia. He might even have a healing potion or two. These two mentions will world-build the tech level. Trip doesn't catch on that "healing potion" is something special, but Banjo wonders about it, like if it's the same as the pills Trip's nana used to take (Trip can briefly recall his nana lived with him until her death last year).
-Finally, Trip agrees on the church as a destination. He debates briefly with Banjo if the dog should pull the boy on a litter or if Trip should carry him. Banjo makes fun of Trip's senses and says a whole herd of coons could sneak past him. He says it's best to let him scout while Trip carries the kid. Trip grumbles that raccoons don't have "herds" and the creatures aren't racoons anyway, the boy said they're gnolls, but Banjo is already nose to the ground and heading out.
-Getting the boy moved safely is the next challenge, and we need a harrowing ordeal for Trip since he still doesn't have proper footwear, even if his everything isn't flapping in the breeze anymore. They can reach the church, only to be blocked by raiders who are trying to break down its heavy door.
-That's probably a good cliffhanger for the end of chapter two.
+next_section = """Let's work out the outline for the rest of chapter 3. Here's the basics I have in mind:
+The chapter is close to done, but we need to worldbuild a smidge.
+The purple moon changes colors based on the type of magic that is "in ascent". Purple is a bad omen, because necromantic magic is stronger. Maisie doesn't understand the different types of magic, but she knows her Mum and Da always feared the purple moon. She's still sad about her parents' death, of course. Banjo should try to comfort her, and while she can't hear him she can appreciate the waggy dog.
+We should briefly describe the village and show how isolated it is. There isn't even a major road. Trip can comment on it and Maisie can explain her clan wanted to live somewhere free of elves and elf-friends. Trip is surprised by this and asks about it. She says elves rule everything, and only elf-friends own the good land. How is it you don't know that? Trip says there are no elves where he's from. She comments that it must be heaven.
+They can reach the church, only to be blocked by raiders. They're strangely peaceful, having surrounded it. As bestial as the gnolls are, Trip would expect them to be trying to break down its door. Instead, a tall figure in dark robes seems to be directing them.
+That's probably a good cliffhanger for the end of chapter three.
 """
 
 """
+Trip and Banjo are in the Bannoch region of the Corvish Isles. They don't know this and won't learn it right away.
 This is where we reveal the stat system and Lachlan's motivation. If Trip has high enough stats and potential stats, he could serve in the army. If he qualifies for one of the king's elite units, he could be Glenrowan's entire levy for the year.
 Lachlan brings in the local vicar, who has a relic that can test and record stats. We can use this for several world-building elements:
 1. While the "Corvish" language is clearly English with a slight drift, the written language is an odd flowing script. There isn't a Latin letter among them.
