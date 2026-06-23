@@ -159,7 +159,27 @@ She stopped walking again. She buried her face in her hands and began to cry, so
 Banjo trotted up to the little girl and pressed his warm, sturdy side against her legs. He nudged her elbow with his wet nose and let out a soft whine. Maisie couldn't hear the workings of his mind, but a dog's heart doesn't require a translator. Instinctively, she dropped to her knees and buried her face in the thick, velvet ruff of his neck, hugging him with all her might. Banjo stood like a statue, letting her cry it out into his fur. By and by, he started walking, taking it slow and easy. Maisie kept her arms slung over him and moved right along to keep up.
 Banjo turned his black head just enough to catch my eye. *See?* he thought. *Not only am I smarter than you, Boss, I'm a darn sight better with pups, too.*
 I couldn't argue with him.
-
+Not too long afterwards, we found ourselves looking down into a shallow basin in the valley. A settlement sat huddled at the bottom, looking for all the world like a handful of gray pebbles tossed carelessly into a bowl. I've known a few communities in the hollers that were so far off the beaten path you had to pump in sunshine, but this place was a different breed of isolated. There were no paved roads, no telephone wires stringing pole to pole, not even a rutted wagon track connecting it to the broader world. It was nothing but rough stone cottages hunkered down against the wind.
+"Well, I'll be bound," I muttered. "We are well and truly in the sticks, Maisie. Folks out my way like their privacy, sure, but your people really went out of their way to avoid the neighbors."
+Maisie nodded. "Aye, Mr. Trip. The clan settled this glen a' purpose. Da said 'twas to be far away from elves and elf-friends as a body can manage."
+I blinked at her. "Elves? You mean like the little fellas making toys up at the North Pole?"
+"Toys?" She tilted her head, giving me a look that suggested my brains were made of unbaked dough. "Nae, mister. The elves are terrible and powerful. They rule the mainland, and they dictate terms to the King himself. The human nobles who kiss their boots—the elf-friends—get to live in the green lands down south in Corvland. They get the warmth and the fat cattle. We Bannish refuse to bow to the pointy-eared devils, so we came up here and scrape by in the rocks."
+"Well... how 'bout that?" I murmured. "Where I come from, we ain't ever even heard of an elf, let alone paid taxes to one."
+"Nae elves?" she breathed. "Ye must come from Heaven itself, Mr. Trip."
+Before I could explain that West Virginia had its fair share of problems despite its lack of elves, Banjo growled softly and froze in his tracks. We'd just reached the outskirts of the village and were preparing to navigate the narrow dirt path between the first two silent cottages, but Banjo was making it clear he had something on his mind. The ridge of fur along his spine rose up stiff as a wire brush.
+*The smells are changing, Trip,* he warned.
+*Is it gnolls?* I asked him.
+*Yeah, plenty of them big coons, but there's something else, too. Smells like a root cellar that ain't been opened in a hundred years. Or maybe a meat locker where the butcher forgot to pay his light bill. It's cold dirt, old blood, and dried bones. Ain't no living critter smells like that, Trip.*
+*Okay. You stay quiet,* I told him sternly. *No baying at it. We just need to get this boy to the church.*
+*Sneaking is for cats and egg-sucking foxes,* Banjo huffed. *A proper hound announces his business so the whole woods knows who's boss. But alright, we'll do it your way.*
+I quickly explained to Maisie the need to move quietly, pointing out Banjo's hackles. She caught on, and we crept quietly to the edge of the village square. We pressed ourselves against a low, mortarless stone wall that bordered a small pen. Careful not to jostle Dougal, I leaned forward and peered over the jagged stones to get a look at our destination.
+The church was as Maisie had described it. It was an imposing stone building with a heavy slate roof and dark stained-glass windows. It looked like a fortress of civilization amid the wild expanse, and under ordinary circumstances, I'd've been mighty glad to see it.
+These circumstances were anything but ordinary.
+The square was packed tight with gnolls. There must have been three dozen of the brutish beasts, all armed with crude spears, heavy cleavers, and spiked clubs. They were just like the band we'd chased off the farmstead, save for the fact that they weren't cackling or howling. They weren't looting the nearby cottages, and they certainly weren't trying to batter down the heavy doors of the church. They were just standing there. The entire pack was perfectly still, locked in a dead silence that made my skin crawl.
+In the center of the gnoll pack, bathed in the bruised-plum glow of the violet moon, stood a tall figure draped in sweeping, dark robes. Its face was hidden deep within the shadows of a cowl, but it held a long, pale staff that looked uncomfortably like a human femur.
+Now, not once in my life had I laid eyes on a corpse that didn't stay decently put in its coffin, but looking at that shadowed figure bathed in violet light, my very soul recognized it for the corpse it was. I knew instantly that I was looking at a dead thing.
+I ducked back down behind the low wall, my heart hammering against my ribs like a trapped bird. I pressed my bare back against the freezing stones and clutched the unconscious boy tight against my chest.
+We were completely cut off from our only sanctuary.
 """,
 )
 
