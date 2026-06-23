@@ -137,6 +137,29 @@ Banjo completely ignored me. He had his black nose in the dirt and was snuffling
 *You got it, Chief.*
 The trek to the village was the sort of affair that tests the limits of a man's determination. I reckon if the Devil wanted to design a torment for my soul, he couldn't do better than forcing me to hike barefoot across jagged rocks and vicious thistles while carrying a boy's dead weight. The rawhide harness didn't shield my chest against the cold at all, and it began to chafe something fierce before we'd gone a mile. Maisie, bless her heart, wasn't much help. She carried the cleaver I'd pilfered for me, but she was such a little girl that I couldn't rely on her to carry so much as an ounce of the boy's weight.
 By and by, the cold crept into my bones and settled in next to the fiery ache in my back and arms. But a man does what he has to do. I locked my jaw, put my head down, and kept putting one miserable foot in front of the other.
+After twenty minutes or so, a ragged bit of cloud drifted across the face of the yellow moon, casting deep shadows across the heather. That left us to the mercies of its purple twin, which caused the gloom to twist and warp in an unsettling fashion. Maisie stopped dead in her tracks and commenced to shaking like a leaf.
+I hauled Dougal a little higher against my chest and paused beside her. "What's the matter, little miss?"
+She pointed a trembling finger up at the purple sky. "I've never been out when the violet moon is shining, Mr. Trip."
+"Your folks didn't let you out much past sundown, I take it?"
+"Dinna be daft." She shot me a look that suggested I was a very dim-witted child. "I can go out when the moon's green, or red, or most any of the colors. Do ye no' ken what they mean?"
+*Ha!* Banjo crowed in my head. *Getting a proper dressing-down from a pup, ain't ya?*
+I ignored the dog. "Well, truth be told, Maisie, I've never been much of a scholar. I didn't mind my teachers half as well as I ought. Do you suppose you could teach me a thing or two about it while we walk?"
+My real aim, naturally, was simply to get her feet moving again. Dougal was growing heavier by the minute, and standing still in a valley full of murderous hyena-things struck me as a failure of common sense.
+It worked the charm. Maisie puffed out her chest a little, taking the responsibility to heart, and started picking her way up the rocky slope once more. I fell in beside her at once.
+"The violet moon means the bad magic is stronger," she explained. "The air gets heavy with it."
+Now, back home, if a man started talking about 'bad magic' colors in the sky, you'd kindly point him toward the nearest temperance meeting and wish him well. I was briefly tempted to write this off as peasant superstition, but I *was* hiking across an alien world in a dead gnoll's underwear while my coonhound chattered away in my skull. People who live in glass houses should throw no stones.
+"What sort of bad magic?" I asked.
+"I dinna remember the proper name the Vicar uses for it," she said. "But it's the magic that makes the very worst beasties, far worse than gnolls. The ones that used to be dead. They can come out when the violet moon shines."
+*I told you!* Banjo declared smugly. *Moon put on a fancy purple suit for his lady friend, but all the evil coons don't like it, so they're crashing the party. Good thing you got me around to figure these things out, Trip.*
+*That still don't explain the second moon, Banjo,* I pointed out in my mind.
+*I* said *it's his lady friend, Trip,* he retorted. *You're just sore 'cause you ain't as smart as your dog.*
+For Maisie, however, the act of explaining the world's horrors brought up memories. I saw her shoulders shake as she started to tell me more.
+"Mum and Da always locked the doors tight," she said, her voice hitching. "They'd bar the heavy wood, and we'd kneel by the hearth and pray to Saint Michael to keep the Everdark away. And now... now they're gone."
+She stopped walking again. She buried her face in her hands and began to cry, so quietly that it near broke my heart. I stood there, balancing the weight of her bleeding brother and feeling as helpless as a turtle on its back. I wanted to offer a few words of comfort, but my well of charm had run dry. Nothing came to mind.
+Banjo trotted up to the little girl and pressed his warm, sturdy side against her legs. He nudged her elbow with his wet nose and let out a soft whine. Maisie couldn't hear the workings of his mind, but a dog's heart doesn't require a translator. Instinctively, she dropped to her knees and buried her face in the thick, velvet ruff of his neck, hugging him with all her might. Banjo stood like a statue, letting her cry it out into his fur. By and by, he started walking, taking it slow and easy. Maisie kept her arms slung over him and moved right along to keep up.
+Banjo turned his black head just enough to catch my eye. *See?* he thought. *Not only am I smarter than you, Boss, I'm a darn sight better with pups, too.*
+I couldn't argue with him.
+
 """,
 )
 
