@@ -184,6 +184,14 @@ I couldn't wait to see if he obeyed, not with the unconscious boy in my arms and
 chapter_four = Chapter(
     title="Chapter Four",
     content="""If a man ever tries to convince you that a barefoot sprint across jagged slate in the dead of night is an invigorating way to build character, you have my permission to knock him out cold. My feet were numb save for a wet slickness that told me I was painting a trail of my own blood across the stones. Dougal was growing heavier with every frantic stride, but little Maisie was running for all she was worth up ahead. She was a determined little thing, pushing through the dark like a flushed quail.
+Behind us, the darkness was alive with a chorus of yips, snarls, and the sound of dozens of clawed feet striking the earth. A hard knot tightened in the pit of my stomach. We weren't going to make it. The church was just too far, and my legs were too slow. I could calculate the odds.
+So could Banjo.
+He pulled up short, and his paws threw up a shower of dirt and loose rock as he skidded to a halt.
+*Sorry, Boss. Math ain't in our favor. Don't let 'em get the pups.*
+Before I could so much as think a protest, Banjo spun around, squared his sturdy chest against the oncoming horde, and unleashed a bay that shook the stones of the valley. It was the battle cry of a dog who did not know how to back down.
+My feet tried to stop before my head caught up to them. I stumbled, nearly going down in the dirt with the boy in my arms. I loved that dog. Leaving him behind felt like the sort of sin a man carries to his grave.
+A man's code has got to be ironclad, else it ain't a code at all. When you lay a child's life on the scales against a hound's, the scales don't just tip, they slam. I knew it, Banjo knew it, and we both knew he'd make the same choice. He had made it already.
+I gritted my teeth until my jaw ached, forced my feet forward, and shut my ears to the brutal sounds of the dogfight erupting in the dark behind me.
 """,
 )
 
