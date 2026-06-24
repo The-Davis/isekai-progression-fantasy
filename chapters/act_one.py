@@ -190,8 +190,12 @@ He pulled up short, and his paws threw up a shower of dirt and loose rock as he 
 *Sorry, Boss. Math ain't in our favor. Don't let 'em get the pups.*
 Before I could so much as think a protest, Banjo spun around, squared his sturdy chest against the oncoming horde, and unleashed a bay that shook the stones of the valley. It was the battle cry of a dog who did not know how to back down.
 My feet tried to stop before my head caught up to them. I stumbled, nearly going down in the dirt with the boy in my arms. I loved that dog. Leaving him behind felt like the sort of sin a man carries to his grave.
-A man's code has got to be ironclad, else it ain't a code at all. When you lay a child's life on the scales against a hound's, the scales don't just tip, they slam. I knew it, Banjo knew it, and we both knew he'd make the same choice. He had made it already.
-I gritted my teeth until my jaw ached, forced my feet forward, and shut my ears to the brutal sounds of the dogfight erupting in the dark behind me.
+A man's code has got to be ironclad, else it ain't a code at all. When you lay a child's life on the scales against a hound's, the scales don't just tip, they slam. I knew it, Banjo knew it, and we both knew he'd make the same choice. He had made it already. I gritted my teeth until my jaw ached, forced my feet forward, and shut my ears to the brutal sounds of the dogfight erupting in the dark behind me.
+Moments later, we reached the church. My arms were full, but Maisie hit the heavy oak doors of the church with both hands and threw her little shoulders against the wood. By some miracle, they gave way, and I lunged inside right on her heels, hauling Dougal into the sanctuary just as my strength threatened to give out entirely.
+I kicked the door shut behind me with a bloody heel and leaned against it, gasping for breath. I took a quick look around and noted it was nothing like the church I'd grown up with. I was raised Baptist, which means churches are mostly sturdy roofs and a mess of potluck dinners. I'd been inside a Catholic church once for a buddy's wedding, and this Canthican building was cut from similar cloth. It boasted the same lofty ceilings, colorful glass windows, and an altar flanked by statues of serious-looking folks in robes. If not for the half-dead boy in my arms and the monsters outside having a go at my dog, I might've taken a longer look at the place.
+I carried Dougal down the center aisle and laid him as gently as I could on a sturdy wooden pew.
+"Where's the man in charge, Maisie?" I demanded. "I need a rifle, or a musket, or a cannon if he's got one. I've got to get back out there."
+"I dinna ken where he is, Mr. Trip!"
 """,
 )
 
