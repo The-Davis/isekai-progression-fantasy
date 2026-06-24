@@ -183,7 +183,7 @@ I couldn't wait to see if he obeyed, not with the unconscious boy in my arms and
 
 chapter_four = Chapter(
     title="Chapter Four",
-    content="""
+    content="""If a man ever tries to convince you that a barefoot sprint across jagged slate in the dead of night is an invigorating way to build character, you have my permission to knock him out cold. My feet were numb save for a wet slickness that told me I was painting a trail of my own blood across the stones. Dougal was growing heavier with every frantic stride, but little Maisie was running for all she was worth up ahead. She was a determined little thing, pushing through the dark like a flushed quail.
 """,
 )
 
