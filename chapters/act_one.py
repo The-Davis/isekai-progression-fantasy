@@ -220,6 +220,33 @@ He let out a sharp whine that cut me to the quick. He was clearly in terrible pa
 *I got 'em right where I want 'em, Trip!* Banjo yelled in my head. *Just tenderizing the meat!*
 I didn't waste breath on a reply. I set down one musket and raised the other, seating the heavy buttplate snugly against my bare shoulder. The gun felt like an old friend in my hands. I settled the iron sights on the biggest monster in the pack and pulled the trigger. The flint struck the steel, the pan flashed, and the musket unleashed a deafening roar that kicked me hard in the shoulder. Through the sudden cloud of thick, sulfurous white smoke, I saw the heavy lead ball take the gnoll dead in the forehead, blowing its brains right out the back of its skull.
 "Meat tenderized!" I whooped. "Get behind me, buddy!"
+I dropped the spent musket and snatched up the second one before the gunsmoke had a chance to clear. Banjo paid my order to retreat no mind whatsoever. He stayed firmly planted between me and the pack, snarling as they advanced.
+A gnoll with a wicked-looking spear let out a rattling hiss and lunged straight for my dog's flank.
+"I said get behind me, you stubborn mule!" I hollered as I raised the fresh musket to my shoulder.
+*Behind you? I'd never live it down, Trip! I got you covered!*
+I didn't waste breath arguing. I pulled the trigger. The musket roared and kicked, and the heavy lead ball caught the lunging gnoll square in the neck. It spun him right round like a child's top before he hit the dirt and stayed there.
+My granddaddy had seen to it that I was a fair hand with a muzzleloader, but sitting in a quiet deer blind with a flask of hot coffee and all the time in the world is a far cry from standing on the steps of a foreign church while a pack of murderous hyena-men aim to make a meal out of you. I unstoppered the powder horn with my teeth and tried to pour a measure down the barrel, but my hands were shaking. Black powder spilled over the hot iron.
+Banjo stood his ground at the lip of the stairs, barking and snarling with the fury of a mountain lion. I expected the monsters to break and run, just like the last bunch had at the farmstead, but these fellas had found courage, or their common sense had skedaddled and left them behind. They snapped back at Banjo, unbothered by the smoke and the noise, and edged closer.
+It didn't take long to figure out why they were feeling so bold. The booming toll of the church bell was intended to rouse the militia, but it was serving just as well as a dinner triangle for every bad critter in the county. They poured out of the dark by the dozens, drawn by the ruckus and the scent of blood like flies to a spilled honeypot.
+"Lord have mercy," I breathed.
+*Look at all of 'em!* Banjo crowed. *Let 'em come! I got enough teeth for the whole family reunion!*
+"Banjo, get your furry tail inside!" I hollered.
+*Negative, Chief! You load that noisy stick of yours and I'll hold the line! Ain't no overgrown coon getting past me!*
+"There's too many of 'em, you knothead!"
+There are times for debate, and there are times for action. I lunged forward and grabbed a fistful of the hound's scruff. I hauled him backward up the stairs, dragging the indignant coonhound into the sanctuary.
+*Hey! Watch the merchandise!* he complained as his paws scrambled for purchase on the smooth stone. *I was winning!*
+I let go of Banjo and threw my weight against the door just as the vanguard of the gnoll horde reached the steps. The heavy timber slammed into its frame, but one of those beasts crashed against the other side and nearly knocked it open again
+"Reverend!" I roared.
+The ringing of the bells ceased and Father Sydney came rushing to my side. Together, we laid hands on a thick wooden beam that had been resting against the wall. It was heavy as a fallen tree, but fear lends a man strength, and we heaved it upward and dropped it into the stout iron brackets spanning the door.
+We got it seated not a second too soon. A tremendous thud rattled the wood, followed by another, and then a whole cacophony of scratching, howling, and frantic slamming as the entire pack arrived. The heavy oak shuddered under the assault, but the stone masonry and thick iron brackets held firm. They weren't getting in.
+I slumped against the door, totally spent. The rough wood scored my bare back as I slid to the flagstones, and my chest heaved. I reckon I'd never been so exhausted in all my life.
+A wet nose nudged against my bloody chin. I opened one eye to see Banjo sitting there. He was favoring his torn-up front leg, but he looked mighty pleased with himself.
+*That was a prime scrape,* he declared, panting happily as his tail thumped against the floor. *Seeing as we won, I reckon I deserve a treat.*
+"I don't even got pants on, buddy," I wheezed, wiping a streak of grime and sweat from my forehead. "Where do you reckon I'd stash a treat?"
+The hound sat back on his haunches and looked around the sanctuary, taking in the stained glass and the statues of the saints.
+*Well, this here's a church, ain't it?* he reasoned, scratching absentmindedly at his ear. *Don't they keep bread and wine? I mean, it ain't sausages, but under the circumstances, I reckon it'll do.*
+I laughed and ruffled his ears. My laughter mingled with the muffled snarls of the monsters outside. They weren't likely to leave anytime soon, but we were on the inside, and the door was sturdy.
+We were safe. For the moment, at least.
 """,
 )
 
