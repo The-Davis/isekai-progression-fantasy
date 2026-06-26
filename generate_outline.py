@@ -4,12 +4,12 @@ from prompts.outline import generate_outline_prompt
 from util.files import write_file
 
 
-next_section = """Let's work out the outline for the rest of chapter 3. Here's the basics I have in mind:
-The chapter is close to done, but we need to worldbuild a smidge.
-The purple moon changes colors based on the type of magic that is "in ascent". Purple is a bad omen, because necromantic magic is stronger. Maisie doesn't understand the different types of magic, but she knows her Mum and Da always feared the purple moon. She's still sad about her parents' death, of course. Banjo should try to comfort her, and while she can't hear him she can appreciate the waggy dog.
-We should briefly describe the village and show how isolated it is. There isn't even a major road. Trip can comment on it and Maisie can explain her clan wanted to live somewhere free of elves and elf-friends. Trip is surprised by this and asks about it. She says elves rule everything, and only elf-friends own the good land. How is it you don't know that? Trip says there are no elves where he's from. She comments that it must be heaven.
-They can reach the church, only to be blocked by raiders. They're strangely peaceful, having surrounded it. As bestial as the gnolls are, Trip would expect them to be trying to break down its door. Instead, a tall figure in dark robes seems to be directing them.
-That's probably a good cliffhanger for the end of chapter three.
+next_section = """Let's work out the outline for chapter 4. I don't know precisely what we're going to do, but I do have goals I need to accomplish:
+We need to get Trip, Banjo, and the kids inside the church. We need action and danger. We need to show heroics and introduce the Vicar.
+I'm thinking we keep it simple: they near the church, and Banjo disobeys Trip, saying he'll never outrun those coons. Banjo turns and charges them. Trip almost drops Dougal to go help his hound. He loves that dog, but he always takes care of people before animals. Always.
+Trip will get Dougal and Maisie inside and find the Vicar asleep. Maybe drunk? I want the Vicar to have a small moral failing that will make him feel guilty for failing to raise the alarm. He'll work to redeem himself, helping Dougal and ringing the church bell to rouse the village.
+Trip will grab a pair of muskets and go to help Banjo. He kills two gnolls, gets Banjo into the church, and they bar the door.
+We can keep the chapter brief and action-packed, then have a brief chance to rest in the next chapter, build the world a bit, and introduce more of the litrpg and fantasy elements.
 """
 
 """

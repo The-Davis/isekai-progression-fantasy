@@ -36,7 +36,6 @@ King Calador is perpetually preparing for the next inevitable, bloody clash with
 _characters: list[Character] = [
     wayne_coberly,
     banjo,
-    lachlan_mactavish,
 ]
 
 
