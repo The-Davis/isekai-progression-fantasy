@@ -250,9 +250,28 @@ We were safe. For the moment, at least.
 """,
 )
 
+chapter_five = Chapter(
+    title="Chapter Five",
+    content="""
+""",
+)
+
+chapter_six = Chapter(
+    title="Chapter Six",
+    content="""
+""",
+)
+
+chapter_seven = Chapter(
+    title="Chapter Seven",
+    content="""
+""",
+)
+    
 act_one_chapters: list[Chapter] = [
     chapter_one,
     chapter_two,
     chapter_three,
-    chapter_four
+    chapter_four,
+    chapter_five,
 ]
