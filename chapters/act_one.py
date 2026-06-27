@@ -250,9 +250,89 @@ We were safe. For the moment, at least.
 """,
 )
 
+chapter_five = Chapter(
+    title="Chapter Five",
+    content=""""Lord have mercy, man," Father Sydney exclaimed. "You charged back out into a horde of Everdark monsters for a... a *mere* dog? I thought surely you had another companion trapped out there."
+"He ain't no mere dog," I wheezed as I wiped a streak of sweat from my forehead. "He's my friend."
+*I'll say,* Banjo chimed in. *Though a mere dog is a darn sight better than a mere cat. Which, by the by, make no sense. I saw a picture show on the television once about meerkats. They ain't cats at all, Trip. They stand up on their hind legs like fuzzy little bowling pins.*
+Father Sydney shook his head, though he reached down to offer me a hand up. "Be that as it may, it is a bitter shame you didn't bring back both muskets. We are sorely pressed for powder and steel as it is."
+I glanced down at the floor. The priest was right, only one of the muskets lay there. In my blind haste to haul my stubborn hound inside, I had left a perfectly good firearm sitting out there.
+Adrenaline is a mighty ornery companion. It'll lend you the strength to carry a boy through the dark and push you straight through a fight, but it's guaranteed to drop you the second the work is done. As the rush drained out of my blood, my thoughts turned slippery. For a second, my brain conjured the ridiculous picture of a heavy-shouldered gnoll trying to measure out a proper charge of black powder and seat a lead ball with its clumsy paws. I let out a weak chuckle that felt unhitched from reality.
+*You think them meerkats is just regular cats that didn't achieve much in life?* Banjo mused. *'Cause if they was any good, they'd just be 'cats'. The 'mere' implies a certain lack of ambition, don't it?*
+I pinched the bridge of my nose, trying to shut out the dog's rambling and summon an answer for my carelessness, but help arrived from an unexpected quarter. Small footsteps hurried down the aisle of pews as Maisie practically dragged her brother along behind her. Dougal looked a sight better than he had. His color had returned and his back was straight, though his shirt was a bloody mess.
+"Don't ye go scoldin' him, Father!" Maisie said. "Mr. Trip is the bravest man I ever saw, and Banjo's the finest hound!"
+Dougal nodded. "Mr. Trip fought gnolls at our farm to save us, in spite of having nae a stitch of clothing 'till he slew one and took its leathers."
+The priest's bloodshot eyes narrowed. "Not a stitch?"
+I felt a flush creep up my neck. "It's been a peculiar night, Reverend."
+The two youngsters saved me the embarrassment of explaining right away as they recounted their tragic tale to the priest. I gleaned little that I hadn't been there for, but I saw the last lingering effects of the distilled spirits flee Father Sydney's face as he listened in horror. When they finished, he closed his eyes and bent his head, clasping his hands in an obvious call to prayer.
+I could tell the words that came were heartfelt, but I couldn't understand a word of it. They were fluid and musical, full of soft vowels and breathless consonants smooth as water over river stones. When he finished, he crossed himself like a Catholic.
+"*Requiescant in pace*," he finished.
+My Latin is good as a pig's, but I recognized that phrase as something like "rest in peace," but I was sure as anything he hadn't been speaking no Latin before.
+"Amen," I murmured, feeling I ought to say something, and Dougal and Maisie echoed the sentiment.
+"The saints will welcome your parents, children," the priest said with a sigh. "God tasks us with the living. We must make plans to shelter the village once the militia musters, and Mr. Trip looks as though a stiff breeze might knock him over. Come."
+He put a steadying arm under my elbow and guided me toward the door near the altar. The children didn't move to follow, but Banjo stayed right on our heels, favoring his front leg but wagging his tail all the same as he left a trail of bloody paw prints.
+*If I was a meerkat instead of a mere dog, I bet I'd get to live in a warm burrow,* the hound chattered in my mind, having paid no heed to the reverend's prayer. *No giant coons in a burrow. Just dirt and bugs. I wouldn't mind a bug right now. Crunchy. When are we eating?*
+"Just sit down, buddy," I mumbled as we reached the vestry door. I pulled out of the priest's grip. "Reverend, before you go poking at me, do me a kindness and see to my dog? He took the worst of it out there."
+Father Sydney glanced at my hound, then looked back to where Dougal and Maisie were still huddled together. The priest then proved he knew a thing or two about shepherding a flock and raised himself in my estimation by what he did next.
+"Maisie. Dougal," the priest called out softly. "There are clean bandages in the vestry, and the font has clean water. I must tend to Mr. Trip, so will you bind this brave hound's injuries for me?"
+Maisie wiped her nose on her sleeve before rushing past us into the vestry. She returned a moment later with arms full of enough linens to wrap six Banjos from nose to tail. She and her brother knelt beside the hound and went to work, wrapping the strips of cloth around his lacerated shoulders and leg.
+*Whoa, hey now!* Banjo protested. *Tell 'em to ease up, Boss! I ain't a Thanksgiving turkey getting trussed up for the oven!*
+*You're the one who bragged about being good with pups,* I thought back at him. *Deal with it, buddy.*
+Banjo let out a put-upon sigh, but he laid his chin on Dougal's knee and let the children work while Father Sydney ushered me into the vestry. He pushed the door shut behind us, muting the sounds of the children fussing over Banjo and the muffled scratching of the gnolls that still hadn't given up on the entry door. Aside from the militia weapons I'd seen in my last brief visit, the tidy room had several wooden cabinets, a washbasin, and a small cot in the corner, which I sank onto with a groan.
+Instead of going for his medical supplies, the priest stared intently at me for a moment.
+"I confess, I wanted a word with you away from the youngsters," he said. "Tell me truly, man. Did you come from an outworld? From the home of men?"
+"At this point, I can't be sure of much of anything," I admitted, wincing as I shifted my weight on the cot. "I'm from Earth, so if that's an outworld, then yes."
+"Earth," he breathed. The lingering haze of his earlier drinking vanished, replaced by boyish awe. "Merciful Saints, it is true, then! Does the Church still stand on your world? Tell me of the holy land! Is Gethsemane real? Does the hill of Golgotha truly exist? And the Holy Sepulchre?" He rattled off questions without pause. "It is a matter of profound controversy here, you must understand! The elves claim it is all myth, a pathetic fable we invented to comfort ourselves, but we hold fast to the Canthica!"
+"Whoa there, Reverend" I held up my hands. "Slow your roll. Yes, there's loads of churches back home. I ain't never been to Jerusalem, seeing as it's a mighty long flight from West Virginia, but it's on the map. Those are real places, sure enough."
+He looked ready to weep with joy. I hated to interrupt the man's epiphany, but a puddle of my blood was expanding steadily across the floor.
+"I don't mean to be a bother," I said, pointing down at my feet, "but do you suppose I could get a drop or two of that blue healing juice you gave the boy?"
+"Ah. Yes. My apologies," he stammered, hurriedly turning to rummage through a cabinet. "A potion is out of the question, I'm afrai. They are exceedingly difficult to brew, incredibly expensive, and strictly reserved for life-threatening injuries. Young Dougal was moments from the grave."
+"I understand," I sighed and braced myself for needle and thread. Recovery was going to be rough.
+"For severe lacerations such as yours, we have this." He turned around an held up a small clay jar. He popped the cork andd scooped out a dollop of thick, amber-colored salve on his fingers. "Saint Raphael's Pitch. It will seal the skin instantly so it may heal naturally underneath. I must warn you, it stings."
+He knelt down and smeared the amber goo across the deepest gash on the sole of my left foot. The smell hit me first. It was a sharp odor that put me in mind of turpentine. A split second later, the pain arrived. It felt like he'd pressed a branding iron against my raw flesh. I bit down on my lip hard enough to draw blood, stifling a holler that would have surely scared the kids in the other room.
+When I finally managed to open my watered-up eyes, I watched in amazement as the torn edges of my skin rapidly knit themselves together, leaving behind a hard, amber-colored scar that didn't bleed a drop.
+"Lord Almighty," I gasped as he moved to the right foot. "That's got a kick, but I reckon it beats getting stitched up."
+"You bear the pain remarkably well," Father Sydney remarked as he wiped the residue of the salve from his hands with a scrap of cloth. "Your Endurance attribute must be exceptional. Twenty-five, perhaps?"
+I pulled my feet back and flexed my toes. The skin was tight where the deep gashes had been, but it held firm, sealed under that hard, amber-colored resin. "I don't rightly know what that means, Reverend," I told him. "Little miss Maisie was throwing numbers like that around earlier, too. Where I come from, 'endurance' is just a fancy word for putting in a day's work without having to sit on a stump and catch your breath every hour."
+"Really?" The priest paused in his cleaning and a look of surprise crossed his face. "I always thought of the Outworld as a realm of great learning. Whenever outworlders arrive in numbers, you see, their knowledge is highly disruptive. It heralds great change for our kind. The last time such a thing occurred was nearly four hundred years ago, when a host of two hundred souls materialized all at once. They claimed to belong to something called the 'British East India Company'."
+"Two hundred?" I whistled. "That must've been quite a party."
+"Oh, it was a catastrophe of the highest order," the priest beamed. "They caused an absolute uproar. Their knowledge of gunpowder and firearms reshaped our civilization. It's the reason Corva stands as a sovereign kingdom rather than a mere electorate in the Erlenreich, you know."
+I shook my head, absolutely bewildered by the history of this place. "I can't say that I do know, Reverend. That "east India" thing sounds familiar, but the rest ain't. Tell me, did those British fellas teach you all English?"
+Father Sydney tilted his head like a confused pup. "English? I do not know the word."
+"The language we're speaking right now," I explained. "It's English. Unless the good Lord installed a translator in my brain without telling me when I crossed over." I frowned and shook my head. "No, that can't be it, I couldn't make head nor tail out of your prayer, except for the bit of Latin at the end."
+"Ah!" Sydney smiled broadly, delighted by the mystery. "The language we share is called Corvish in this land. It predates the arrival of the Company men by centuries. As for the other, religious services are required to be in Erlensprach, the language of the elves. I snuck in a little of the church tongue as it was just the four of us." He pursed his lips. "I do hope you won't tell any elf friends."
+"My lips are sealed," I promised. "But we've gone traipsing deep into the weeds. Let's circle back. What exactly did you mean by my 'Endurance' being—"
+A sudden volley of barks cut me off. I frowned.
+*Banjo?* I pushed the thought toward the hound. *What's got your hackles up, buddy?*
+I waited a heartbeat, expecting his amiable drawl to pop into my skull, but my mind remained quiet. I tried again, pushing the thought out with a bit more effort, and I felt a vague impression of alarm and excitement in return, but that was all. I recalled then how I hadn't heard a peep from him when he was out on the church steps fighting the gnolls and I was still inside. It stood to reason that this newfound bond of ours had its limits, and it seemed to rely on a line of sight, or at least, it couldn't punch through walls or doors.
+I didn't waste any more time pondering. I slid off the cot and pushed out of the vestry before stepping back into the sanctuary. The moment my eyes fell on the hound, my brain lit up like a switchboard.
+*...comin', Trip!* Banjo's voice practically shouted in my head. He was standing near the altar, barking ferociously at the edifice. *Them big coons stopped scratching at the front door a minute ago, and I got to thinkin' they didn't just pack up and go home. I was right!*
+I listened. Sure enough, the front door was quiet now, but another sound had taken its place. Rising from somewhere beneath the stone floor, growing louder and more frantic by the second, came a cacophony of yipping, scratching, and snarling.
+Father Sydney stepped out of the vestry behind me. I looked at him and asked, "Reverend... what's underneath this floor?"
+"Our crypt," he said. "Why...?" He trailed off, and his face scrunched up. "What is that?" A look of horror crossed his face as he realized. "Merciful Saints, they must have found the tunnel. It was dug so the parishioners could escape the elves in times of persecution, but—"
+A thunderous *CRACK* of splintering timber cut his sentence short.
+The altar heaved violently upward, buckling under some savage force. The wood shattered like matchsticks, sending chunks into the rows of pews as the first hyena-faced nightmare hauled itself up from the dark beneath the church.
+Maisie and Dougal let out terrified screams.
+The gnolls had broken in.
+""",
+)
+
+chapter_six = Chapter(
+    title="Chapter Six",
+    content="""
+""",
+)
+
+chapter_seven = Chapter(
+    title="Chapter Seven",
+    content="""
+""",
+)
+    
 act_one_chapters: list[Chapter] = [
     chapter_one,
     chapter_two,
     chapter_three,
-    chapter_four
+    chapter_four,
+    chapter_five,
 ]
