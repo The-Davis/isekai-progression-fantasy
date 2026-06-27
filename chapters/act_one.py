@@ -252,7 +252,15 @@ We were safe. For the moment, at least.
 
 chapter_five = Chapter(
     title="Chapter Five",
-    content="""
+    content=""""Lord have mercy, man," Father Sydney exclaimed. "You charged back out into a horde of Everdark monsters for a... a *mere* dog? I thought surely you had another companion trapped out there."
+"He ain't no mere dog," I wheezed as I wiped a streak of sweat from my forehead. "He's my friend."
+*I'll say,* Banjo chimed in. *Though a mere dog is a darn sight better than a mere cat. Which, by the by, make no sense. I saw a picture show on the television once about meerkats. They ain't cats at all, Trip. They stand up on their hind legs like fuzzy little bowling pins.*
+Father Sydney shook his head, though he reached down to offer me a hand up. "Be that as it may, it is a bitter shame you didn't bring back both muskets. We are sorely pressed for powder and steel as it is."
+I glanced down at the floor. The priest was right, only one of the muskets lay there. In my blind haste to haul my stubborn hound inside, I had left a perfectly good firearm sitting out there.
+Adrenaline is a mighty ornery companion. It'll lend you the strength to carry a boy through the dark and push you straight through a fight, but it's guaranteed to drop you the second the work is done. As the rush drained out of my blood, my thoughts turned slippery. For a second, my brain conjured the ridiculous picture of a heavy-shouldered gnoll trying to measure out a proper charge of black powder and seat a lead ball with its clumsy paws. I let out a weak chuckle that felt unhitched from reality.
+*You think them meerkats is just regular cats that didn't achieve much in life?* Banjo mused. *'Cause if they was any good, they'd just be 'cats'. The 'mere' implies a certain lack of ambition, don't it?*
+I pinched the bridge of my nose, trying to shut out the dog's ramblings and summon an answer for my carelessness, but help arrived from an unexpected quarter. Small footsteps hurried down the aisle of pews. Maisie was practically dragging her brother along. Dougal looked a sight better than he had ten minutes prior. His color had returned and his back was straight, though his shirt was a bloody mess.
+"Don't ye go scoldin' him, Father!" Maisie said. "Mr. Trip is the bravest man I ever saw, and Banjo's the finest hound!"
 """,
 )
 
