@@ -259,8 +259,19 @@ Father Sydney shook his head, though he reached down to offer me a hand up. "Be 
 I glanced down at the floor. The priest was right, only one of the muskets lay there. In my blind haste to haul my stubborn hound inside, I had left a perfectly good firearm sitting out there.
 Adrenaline is a mighty ornery companion. It'll lend you the strength to carry a boy through the dark and push you straight through a fight, but it's guaranteed to drop you the second the work is done. As the rush drained out of my blood, my thoughts turned slippery. For a second, my brain conjured the ridiculous picture of a heavy-shouldered gnoll trying to measure out a proper charge of black powder and seat a lead ball with its clumsy paws. I let out a weak chuckle that felt unhitched from reality.
 *You think them meerkats is just regular cats that didn't achieve much in life?* Banjo mused. *'Cause if they was any good, they'd just be 'cats'. The 'mere' implies a certain lack of ambition, don't it?*
-I pinched the bridge of my nose, trying to shut out the dog's ramblings and summon an answer for my carelessness, but help arrived from an unexpected quarter. Small footsteps hurried down the aisle of pews. Maisie was practically dragging her brother along. Dougal looked a sight better than he had ten minutes prior. His color had returned and his back was straight, though his shirt was a bloody mess.
+I pinched the bridge of my nose, trying to shut out the dog's rambling and summon an answer for my carelessness, but help arrived from an unexpected quarter. Small footsteps hurried down the aisle of pews as Maisie practically dragged her brother along behind her. Dougal looked a sight better than he had. His color had returned and his back was straight, though his shirt was a bloody mess.
 "Don't ye go scoldin' him, Father!" Maisie said. "Mr. Trip is the bravest man I ever saw, and Banjo's the finest hound!"
+Dougal nodded. "Mr. Trip fought gnolls at our farm to save us, in spite of having nae a stitch of clothing 'till he slew one and took its leathers."
+The priest's bloodshot eyes narrowed. "Not a stitch?"
+I felt a flush creep up my neck. "It's been a peculiar night, Reverend."
+The two youngsters saved me the embarrassment of explaining right away as they recounted their tragic tale to the priest. I gleaned little that I hadn't been there for, but I saw the last lingering effects of the distilled spirits flee Father Sydney's face as he listened in horror. When they finished, he closed his eyes and bent his head, clasping his hands in an obvious call to prayer.
+I could tell the words that came were heartfelt, but I couldn't understand a word of it. They were fluid and musical, full of soft vowels and breathless consonants smooth as water over river stones. When he finished, he crossed himself like a Catholic.
+"*Requiescant in pace*," he finished.
+My Latin is good as a pig's, but I recognized that phrase as something like "rest in peace," but I was sure as anything he hadn't been speaking no Latin before.
+"Amen," I murmured, feeling I ought to say something, and Dougal and Maisie echoed the sentiment.
+"The saints will welcome your parents, children," the priest said with a sigh. "God tasks us with the living. We must make plans to shelter the village once the militia musters, and Mr. Trip looks as though a stiff breeze might knock him over. Come."
+He put a steadying arm under my elbow and guided me toward the door near the altar. The children didn't move to follow, but Banjo stayed right on our heels, favoring his front leg but wagging his tail all the same as he left a trail of bloody paw prints.
+*If I was a meerkat instead of a mere dog, I bet I'd get to live in a warm burrow,* the hound chattered in my mind, having paid no heed to the reverend's prayer. *No giant coons in a burrow. Just dirt and bugs. I wouldn't mind a bug right now. Crunchy. When are we eating?*
 """,
 )
 
