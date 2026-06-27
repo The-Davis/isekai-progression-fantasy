@@ -4,8 +4,22 @@ from prompts.chapter import generate_chapter_prompt
 from util.files import write_file
 from style import main_style  
 
-chapter_outline = """
-
+chapter_outline = """We open chapter five right where we left off. Father Sydney is incredulous that Trip just risked his life to save a dog. He thought they must have had another companion the way Trip ran out there, but he didn't think he'd risk his life for a mere dog. He also mentions it's a shame Trip didn't bring back both muskets. Trip realizes in his haste, he did leave one behind, but the other is on the ground beside him.
+Banjo quips that it's better than a mere cat. He then goes off on a tangent about mere cats and meerkats. He'll pester Trip about the similarity throughout the conversation while Trip tries to ignore him and talk to the priest.
+Trip tries to explain how special Banjo is, but with danger firmly barricaded outside, his body is starting to betray him, and he has trouble putting his thoughts in order. He even has an idle, distracted thought of a gnoll trying to use the musket he left behind. Adrenaline dumping is an ornery foe. Fortunately, Maisie and a recovering Dougal have much positive to say about how brave Banjo and Trip were at their farm.
+From their tale (which Trip summarizes for the reader, we don't need to revisit it in full, but do note that the children recounted how Trip wasn't wearing a stitch until he took the gnoll's loincloth) Father Sydney soon learns of the deaths of their parents. He says a quick prayer for the dead, and then says he'd best see to the living. Trip is clearly exhausted and hurt, he says. He helps Trip back into the vestry, where he has medical gear. Banjo follows, limping but wagging and still chattering away in Trip's head about meerkats. Trip is thoroughly disoriented by his crash, but he has the presence of mind to ask the priest to help the dog.
+Father Sydney, seeing the distress of Dougal and Maisie reliving their parents' death, gives the children bandages and tells them to tend to the hound. When the kids start wrapping Banjo, the dog tells Trip he doesn't want to be trussed up like a turkey (or something similar), but Trip tells him he's the one who says he's better with pups. Deal with it.
+Sydney and Trip set up in the vestry, and the priest sees to his wounds. He admits he wanted to have a word with Trip away from the children. He asks Trip directly: did he come from the homeworld?
+Trip says as far as he knows, yes, unless that crazy fella on the TV was right and some place other than Earth is where humanity was originally from. Sydney is excited. Has Trip been to the sepulcre? The holy land? Is it true that the Church has spread the gospel to the entire world?
+After calming the excited, practically fan-boying priest down, Trip points at his bleeding feet and asks if he could get a drop or two of that healing potion stuff. Father Sydney looks a little embarassed (and possibly still a mite tipsy) and hurriedly rummages through some cabinets in the vestry.
+He pulls a jar filled with an amber-colored salve from a cabinet. He explains that healing potions (like the one used on Dougal) are expensive and difficult to make and strictly for life-threatening injuries. Dougal was near death when Trip brought him there. For lacerations like those plaguing Trip's feet, he uses "Saint Raphael's Pitch", a magical, fast-acting medical glue that sears like fire but binds the skin instantly so it can heal naturally underneath. Trip comments that it smells like turpentine, but is pleased to see that it works better than stitches and hurts less.
+As Sydney cleans and binds Trip's wounds, they chat. Trip quickly deduces that he isn't the first person to come here. He asks if everyone's from Earth originally. Sydney says many church fathers believe so, but the elves claim otherwise. Sydney himself was born here, as was everyone in his family as far back as he can trace his family tree. His grandmother claims that one of her ancestors was an Outworlder, a man from the "British East India Company" who arrived nearly four hundred years ago. Nearly two hundred people showed up at once in that wave, and such trouble they caused. They're the reason Corva is a kingdom rather than a mere electorate in the Erlenreich, you know.
+Trip admits that no, he does not know, but some of that sounds familiar. Did them British fellas teach you all English?
+English? Father Sydney doesn't know the word.
+The language we're speaking. It's English, unless I hit my head real hard and didn't realize it.
+Sydney says it's called Corvish, and it predates the British arrival. Perhaps it arrived even earlier? A fascinating idea. The homeworld is a passion of his, he confesses.
+Trip is amused and says he never would have guessed (or "you don't say"). Father Sydney should be very excited when talking about Earth, "geeking out", so to speak.
+You can stop there and we'll edit before I provide the next section.
 """
 
 write_file(generate_chapter_prompt(chapter_outline=chapter_outline, style=main_style))
@@ -21,29 +35,10 @@ We'll end the chapter on that note.
 Work in somewhere, maybe in chapter 5, that Glenrowan's church is a "chapel of ease" since they're so far from the parish church.
 Bider John, who isn't present, is the porter for the chapel.
 
-Here is a detailed outline for Chapter Five, incorporating all your requested lore, character dynamics, and plot points while maintaining the established tone.
 
-### **Chapter Five Outline: The Heavens, The Earth, and the Underneath**
 
-**Scene 1: The "Tested Ranks" Confusion (Sanctuary)**
-*   **The Breather:** The chapter opens right after the barricade is set. Trip is sliding down the door, exhausted, barefoot, and bleeding. Banjo is panting but proud. Outside, the gnolls are scratching and howling against the thick oak, but the door holds. 
-*   **Maisie’s Awe:** Maisie and a newly-healed Dougal hurry over. Maisie excitedly tells Father Sydney how Trip fought the "beasties" bare-handed and saved them. She reiterates her amazement at Trip’s "Might" and "Agility."
-*   **The Disconnect:** Father Sydney, sobering up rapidly, looks at Trip—a tall, wiry man wearing a bloody gnoll loincloth and speaking with a thick Appalachian drawl. Sydney asks Trip what his "tested ranks" are to have survived such an encounter. 
-*   **Trip's Confusion:** Trip gives a folksy, confused answer ("I don't rightly know what you're asking, Reverend. I got a B-minus in geometry once, if that helps."). 
-*   **Sydney’s Realization:** Father Sydney’s eyes go wide. He recognizes the accent drift and the absolute ignorance of basic Rhulic natural philosophy. He tells the children to go kneel by the altar and pray to Saint Michael for protection, then quietly motions for Trip and Banjo to follow him into the vestry for "medical attention."
 
-**Scene 2: Healing Glue and Natural Philosophy (The Vestry)**
-*   **Priorities:** Once in the vestry, Trip refuses treatment until Banjo is tended to. Banjo smugly agrees telepathically (*"That's right, Boss. The talent gets pampered first."*). 
-*   **The Healing Glue:** Sydney agrees and pulls a pungent, amber-colored salve from a cabinet. He explains that healing potions (like the one used on Dougal) are incredibly rare and strictly for life-threatening, internal injuries. For lacerations and Trip's ruined feet, he uses "Saint Raphael's Pitch"—a magical, fast-acting medical glue that sears like fire but binds the skin instantly so it can heal naturally underneath. Banjo complains it smells like turpentine, but admits it works.
-*   **The Stat System Explained:** As Sydney works on Trip’s feet, he probes Trip for information, explaining "stats" to see what Trip knows. 
-    *   He explains it as a "natural philosophy" used by scholars, nobles, and the Church to measure a person's God-given capabilities. 
-    *   Everyone is measured on a scale from 0 to 100 in Physical, Mental, and Magical attributes. Each attribute has five aspects (Power, Control, Speed, Capacity, and Recovery). Sydney rattles off a few (Might, Vigor, Intellect, Essence). 
-    *   He explains the difference between a *current rank* and a *potential maximum*. A peasant might have a current Might of 12 but a maximum of 25. 
-*   **Trip's Magical Deduction:** Trip internalizes this. He realizes that magic isn't just fairy tales here; it's an objective, measurable force. He deduces that his telepathic link with Banjo must be some form of magic—perhaps his "Capacity" (Vessel) or "Control" (Dominion) was sparked by the planar transition. He just has no idea how to consciously control or measure it.
-
-**Scene 3: The Secret of the Outworlders (Lore Drop)**
-*   **The Reveal:** Sydney finishes bandaging Trip and drops the facade. He asks point-blank, "What year is it on the homeworld?" Trip, stunned, admits he's from Earth. Sydney sighs, revealing the Church knows of "Outworlders" or "Cradle-born."
-*   **The East India Company:** Trip assumes he's the first. Sydney laughs bitterly. He tells the tale of how, centuries ago, nearly a hundred men from the "British East India Company" appeared. They brought black powder, flintlocks, and ruthless tactics. Their arrival shattered the absolute dominion of the elves, allowed humanity to carve out the Corvish Empire, and changed the balance of the world forever. 
+They brought black powder, flintlocks, and ruthless tactics. Their arrival shattered the absolute dominion of the elves, allowed humanity to carve out the Corvish Empire, and changed the balance of the world forever.
 *   **The Language and The Curse:** Trip notes that everyone speaks English. Sydney explains that "Corvish" is indeed the tongue of the East India Company, slightly drifted over centuries. Trip spots a book on a desk and notices the letters look like flowing vines, not English. 
     *   Sydney warns him: *Never* try to write in the Latin alphabet. The elves, terrified of Outworlder knowledge spreading, wove a continental curse into the magic of the world. Any paper or parchment inscribed with Latin letters rots to ash in seconds. They are forced to use the elvish script to survive.
 *   **The Danger of Discovery:** Sydney gives Trip a grave warning. King Calador Half-Elven, despite ruling a human empire, shares the elvish loathing of Outworlders. Their existence threatens the status quo. If the Crown or the "elf-friend" nobles discover Trip is an Outworlder, he will be imprisoned, dissected by elvish scholars, or executed. Trip must adopt a cover story immediately—perhaps claiming to be an illiterate hermit from the deep Bannish Highlands. 
@@ -57,18 +52,6 @@ Here is a detailed outline for Chapter Five, incorporating all your requested lo
     *   Father Sydney’s face drains of what little color it had left. "The crypts... Merciful Saints, they must have found the old smuggling tunnel." 
     *   A heavy *CRACK* of splintering wood echoes from the sanctuary outside the vestry, followed by the terrified screams of Maisie and Dougal. The gnolls have broken in.
 
-
-    
-Here is a broad outline for Chapter 5 that hits all your required worldbuilding points while maintaining the established tone, pacing, and character voices.
-
-### **Chapter 5 Outline**
-
-**Scene 1: Catching Our Breath & The Slip-Up**
-*   **Action/Setting:** The chapter opens right where we left off, with Trip slumped against the heavy oak doors of the church, Banjo panting happily beside him, and the muted sounds of frustrated gnolls scratching at the wood outside.
-*   **The Kids:** Dougal, looking pale but entirely whole thanks to the potion, walks over with Maisie. Maisie excitedly recounts to Father Sydney how Trip fought the "beasties" barehanded. She repeats her assessment that Trip must have a "Might near thirty."
-*   **The Catalyst:** Father Sydney, still sobering up but sharp enough to recognize an anomaly, looks Trip up and down. He notes Trip’s lack of Corva-standard clothing and his ease with the muskets. Sydney asks Trip which parish "tested" his Attributes, assuming he must be a discharged soldier or a registered adventurer. 
-*   **The Reveal:** Trip, tired and honest, replies with his folksy charm that he hasn't studied for a test since high school, let alone one for "Attributes." 
-*   **Sydney’s Reaction:** Sydney’s bloodshot eyes go wide. He looks at Trip, then at the gnoll loincloth, then at the muskets. Realizing exactly what he is looking at, he quickly tells Dougal and Maisie to go kneel by the altar and pray to Saint Michael for protection. He insists he needs to take Trip and Banjo into the vestry for "medical attention" away from the children's eyes.
 
 **Scene 2: Vestry Triage & Healing Glue**
 *   **Setting the Scene:** In the quiet, lamplit vestry (where Trip grabbed the muskets), Sydney rummages through a medical cabinet. 
