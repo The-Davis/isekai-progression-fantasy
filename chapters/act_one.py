@@ -410,7 +410,7 @@ Banjo trotted over and gave my new boots a thorough sniffing. He sneezed before 
 "I appreciate the vote of confidence from the peanut gallery," I said, letting that serve as answer to children and hound alike.
 Before Banjo could fire back, a commotion started up outside. The muffled sound of shouting drifted through the empty window frames, and it sounded like voices. One raised above the others.
 "Ho, the church! Father Sydney, are ye hale?"
-"The village musters at last," Father Sidney said. He moved quickly toward the sanctuary, then looked back to me. "Would you mind helping me with the door?"
+"The village musters at last," Father Sydney said. He moved quickly toward the sanctuary, then looked back to me. "Would you mind helping me with the door?"
 Together we laid hands on the heavy timber beam securing the front doors and lifted it clear of the iron brackets. The priest heaved the heavy oak doors open, letting the bright, cold light of morning spill across the bloody stone steps.
 Sure enough, the gnolls were entirely gone. The valley was bathed in the pale gold of the rising sun, and the only evidence of the nocturnal raiders were the bodies we'd left scattered across the grass and the lingering plumes of gray smoke rising from distant farmsteads.
 Standing on the threshold was a handful of tough-looking men clutching muskets and pikes. At their head stood a burly fellow with a beard like a briar patch and shoulders broad as a barn door.
