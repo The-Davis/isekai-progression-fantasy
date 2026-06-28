@@ -413,6 +413,21 @@ Before Banjo could fire back, a commotion started up outside. The muffled sound 
 "The village musters at last," Father Sidney said. He moved quickly toward the sanctuary, then looked back to me. "Would you mind helping me with the door?"
 Together we laid hands on the heavy timber beam securing the front doors and lifted it clear of the iron brackets. The priest heaved the heavy oak doors open, letting the bright, cold light of morning spill across the bloody stone steps.
 Sure enough, the gnolls were entirely gone. The valley was bathed in the pale gold of the rising sun, and the only evidence of the nocturnal raiders were the bodies we'd left scattered across the grass and the lingering plumes of gray smoke rising from distant farmsteads.
+Standing on the threshold was a handful of tough-looking men clutching muskets and pikes. At their head stood a burly fellow with a beard like a briar patch and shoulders broad as a barn door.
+"Praise the Saints, Father," the big man rumbled, doffing his woolen cap. "When we heard the blast and saw the windows blow, we feared the worst. Would that we'd come sooner."
+"God Himself watched over us, Hamish," Father Sydney said, clasping the man's forearm. "Though He employed earthly instruments. Hamish, this man held the door after bringing young Dougal and Maisie from their burned farmstead. We owe him our lives."
+Hamish turned his pale blue eyes on me, taking in my blood-streaked face and the pristine militia clothes I was wearing. "I am Hamish, village chief. Any man who defends Bannish blood is a friend to the glen. I dinna ken your face, stranger."
+"Wayne Coberly, at your service," I said, offering my hand. "Folks mostly call me Trip."
+Hamish chewed on my introduction. "Trip?" he repeated, furrowing his thick brow. "What sort of name is 'Trip'? I've never heard such a nickname."
+"Well, my dad and grandaddy were both Wayne, so I'm Wayne the Third, and 'Trip' is just short for 'triple'," I explained cheerfully. "It's a common enough thing where I'm from, seeing as—"
+"Mr. Trip hails from a very distant southern shire!" Father Sydney interjected loudly, stepping squarely on the toes of my sentence. He shot me a look. "Very peculiar customs down in... in the deep south! Isn't that right, Mr. Trip?"
+I caught his drift. For whatever reason, the priest didn't want me jawing that I was an Outworlder. I figured there was a good reason for it, or at least a reason that made sense to him, so I nodded. "That's right. You'd see us as mighty peculiar, and fair enough."
+"Aye, southerners are strange beasts," Hamish agreed before dismissing the matter entirely. He gestured to a man behind him. "Father, ye'll be pleased to know I found your porter. Safe and hale, mostly."
+The man stepped out from behind Hamish. This fellow was older, with a face carved out of granite and a gray mustache that drooped over his scowl. He held a musket in one hand and sported a bloody bandage wrapped tight around his abdomen. He smelled strongly of spent powder and sweat.
+"Bider John," Father Sydney greeted the man warmly. "I feared you'd fallen when you didn't hearken to the bells."
+"Nae, Father," the older man grunted. "I was tendin' to the Widow MacGregor on account of the grip that plagues her. I hear the bells, but the beasties swarmed her farmstead before I could march, so I held them at the door 'till the sun came up and chased 'em off." He cast a dark look at the ruined doors. "I should have been here to guard the church."
+"You guarded the widow, John," the priest said gently. "The flock is the Church."
+I couldn't help but be impressed. Standing off against those hyena-monsters all by your lonesome took a stern spine.
 """,
 )
 
@@ -424,6 +439,12 @@ chapter_eight = Chapter(
 
 chapter_nine = Chapter(
     title="Chapter Nine",
+    content="""
+""",
+)
+
+chapter_ten = Chapter(
+    title="Chapter Ten",
     content="""
 """,
 )
