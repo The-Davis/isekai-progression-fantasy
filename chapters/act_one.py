@@ -467,6 +467,62 @@ The three men turned to look at me, perhaps as surprised as I was. My conscience
 Banjo let out a hearty bark of agreement. *You betcha!* His tail started wagging with renewed fervor. *If we're going to see a Laird, I'm all in. Any fella with a fancy title like that is bound to have a well-stocked kitchen.*
 "It is a perilous road, Mr. Trip," Father Sydney warned, though relief was plain on his face. 
 "I've walked worse," I told him. "Let's go fetch your dragoons."
+Things moved right quick after that. 
+Hamish and Bider John gathered able-bodied men and set them fetching the wounded and ill, while others fell to tearing down what timber they could salvage to throw up barricades.
+For our part, Father Sydney and I made ready for the cross-moor trek to Glenrowan. It looked to be a cold and misty day, so I was furnished with a sturdy woolen cloak to ward off the chill, along with a fine leather tricorn hat.
+As I've noted, a man's dignity is tied to his trousers, but what I failed to mention is that his soul is reflected in his hat. I settled it on my head, adjusted the brim so it sat just right, and felt an immediate transformation. It kept the wind off my neck, shaded my eyes, and made me feel like a frontiersman out of a history book. I was absolutely thrilled with it. I reckon if a man's got to fight monsters on an alien world, he ought to look good doing it.
+Before we set out, I took a moment to say goodbye to the youngsters. Dougal offered his hand and I shook it just like you would a grown man's. Maisie threw her arms around Banjo's neck and squeezed him tight.
+*She's a good pup, Trip,* Banjo told me afterwards. *Mighty affectionate. I just wish she'd brought a pocketful of jerky to cement the friendship. A dog can't live on hugs alone, you know.*
+"We will return before nightfall, Hamish," Father Sydney promised the village chief. "Laird MacTavish's dragoons will see the village safe."
+With that, we set out into the wild.
+It was a land of romantic beauty that looked like God had painted it with a heavy brush and a bold palette. We marched up into a sweeping expanse of rolling purple heather that stretched out forever, entirely unbothered by fences or property lines. In the far distance, jagged mountains thrust their peaks up toward the sky, and their crowns gleamed with pristine snow under the pale sun. It was the perfect sort of emptiness you just can't find back home.
+Banjo happily took the lead. He trotted twenty paces ahead, zig-zagging through the brush with his nose glued to the turf. A whole new world meant a whole new catalog of smells, and my hound was determined to inventory every last one. By and by, his tail started whipping back and forth, and he let out an excited whine.
+*Trip!* he hollered in my skull. *Trip, you ain't gonna believe this! You smell that?*
+*I don't smell a thing but cold air, buddy,* I thought back. *What've you found? A gnoll?*
+*Gnolls, schmnolls!* Banjo scoffed. *Birds! Big, fat ones! They're hunkered down in this purple brush, and I'm tellin' you, they are fat as butterballs. Give me five minutes and I'll flush 'em out. We'll have us a feast! We can't pass up free chicken!*
+"Banjo," I said aloud, keeping my voice stern. "Leave those birds be. We ain't out here to hunt grouse. Keep your nose peeled for things that want to eat us, not the other way around."
+The hound let out a sigh that I felt more than heard. *You're a hard man to work for. Passing up free chicken ain't natural.*
+I chuckled and adjusted the strap of my musket. We put a good two miles of moorland between us and the village before I finally turned my attention to the priest. It was time for some answers.
+"Reverend," I began, matching my stride to his. "Now that it's just the three of us, let's clear the air. You practically stepped on your tongue in your hurry to tell Hamish I was from a 'distant southern shire.' Why go through the trouble of lying to your own flock about me being an Outworlder?"
+"It wasn't a lie of malice, Mr. Trip," the priest said softly. "The elves of Rhule... that is what they call this world... They rule the mainland with an iron fist. Their command of magical forces is absolute, and they possess political supremacy they have ruthlessly maintained for thousands of years."
+"I've never met an elf," I said, "but I've known my share of bullies. Same old story. What's that got to do with me?"
+"Everything," Sydney replied grimly. "Outworlders are a threat to their dominance."
+He paused to navigate a treacherous patch of rocky ground before continuing. "I mentioned the British East India Company earlier. When they arrived, they brought the knowledge of black powder, mass manufacturing, and firearms. In a matter of years, that knowledge disrupted the elvish monopoly on power. It allowed humanity on these very islands to rebel, cast off the elvish yoke, and carve out a free, human-ruled kingdom for the first time in history."
+"Ah." I reached up and adjusted my hat as I digested the history lesson. "So, they reckon any new Outworlder might have new tricks up his sleeve, and they don't care to see a repeat performance."
+"Exactly," Sydney nodded. "While Corvland and the Corvish Isles technically remain independent, elvish influence has crept back in. Our current monarch, King Calador, is half-elven. His court is filled with nobles who serve elven interests above our own—'elf-friends', we call them. If word spreads that a new Outworlder has materialized, the elves will assume you bring world-shattering knowledge."
+"I hate to disappoint 'em," I chuckled dryly, "but I build houses for a living. We've made fancy new things in four hundred years, but I don't know how to make any of 'em."
+"It does not matter what you actually know," the priest insisted. "The elves will not take the risk. If they learn what you are, elven assassins, or their human sympathizers, will hunt you down. They will scour the Bannoch to do it, and they will burn anyone who stands in their way."
+I walked in silence for a spell, digesting the bitter pill he'd handed me. It was one thing to fight off a pack of overgrown hyenas, but it was quite another to have a magical empire put a target on my back.
+"Alright," I conceded. "I take your point. But Hamish knew right off I wasn't from around here. My accent sticks out like a sore thumb, and I don't know the first thing about this kingdom of yours. How am I supposed to pass for a local?"
+He smiled. "I have given that some thought. To an educated ear, your speech is alien, but to the average Bannish highlander, or indeed most Corvish-speaking folks, you just sound like a rustic from a place they have never been. Therefore, you are from Fenshire."
+"Fenshire?"
+"A boggy and isolated western region of Corvland," Sydney explained. "It boasts a population of fewer than five hundred souls. They are cut off from polite society, making them famously peculiar and rough. It is unlikely anyone in the Bannoch has ever met a Fenshire man to call your bluff, and your ignorance of the wider world will be viewed as a charming regional defect rather than proof of otherworldly origins."
+I grinned. "So, I'm a weird swamp-dweller who talks funny."
+"I wouldn't say that exactly," the priest disagreed, though his eyes twinkled. "But yes. From this moment on, Wayne Coberly is a proud son of the Fenshire bogs."
+"Well," I chuckled, "I reckon I can play that tune without missing too many notes."
+We walked a spell in silence, eating up the miles. The sun climbed and chased away the chill of the night. With the heather brushing against my sturdy new breeches, I could almost fool myself into thinking I was out for a hike back home.
+"There's another thing on my mind," I told the preacher after close to an hour had passed. "Your church..."
+"The Sancta Canthica," Father Sydney supplied.
+"Right. The Canthica," I nodded. "I'm a long way from home, yet I find a familiar-looking church and hear folks talking about the Almighty and putting their faith in the good Lord. I saw the crucifix, Reverend. How in the world did a bonafide Christian church get here?"
+"It did not merely get here, Mr. Trip," Father Sydney corrected. "It has endured here for nearly two thousand years." 
+"That's a long time to keep the fire burning far from home."
+"A fire the elves tried desperately to extinguish," he said. "They despised us. To the elves, the idea of a Creator who favored anything other than themselves is an affront. They outlawed the Church and violently persecuted the faith. They burned our texts and claimed that the Outworld, and Christ Himself, were nothing but myths we invented to comfort ourselves in our lowly state."
+"Seems to me," I mused, "if you tell a man he ain't allowed to pray, he'll just take his prayers underground and say 'em twice as hard."
+"Precisely," Father Sydney smiled. "The Church survived in secret. Our priests kept the faith alive through hymns and traditions. We call those traditions the *Canthica*. They kept the light alive during centuries of darkness. They are the foundation of our theology today."
+*They sound like a bunch of mean-spirited snobs,* Banjo chimed in. He paused to hike his leg against a patch of gorse, claiming it in the name of West Virginia. *You point one of these elf fellas out to me, Trip, and I'll tree him right quick. Let's see how high and mighty they feel when they got a blue tick barking up their tailpipe.*
+"I'll keep that in mind, buddy," I muttered softly, earning a curious glance from the priest before I gestured for him to continue. "So, how'd you go from secrecy to building proper churches?"
+"The first Corvish kings finally legalized the faith," Sydney explained. "It is a fraught peace. King Calador Half-Elven permits our worship on the condition that we avoid any teachings regarding humanity's true origins as Outworlders. Compliance or defiance on that matter is a deeply divisive subject among the clergy."
+"Let me guess," I said, eyeing the man. "You lean toward the defiant side of the fence."
+"The truth is the truth, and I will not bury it to appease an elf," Sydney said simply. "Because we remember our roots, the Church maintains a sacred, secret mandate to this very day. We protect Outworlders from the elves, no matter the cost."
+I stopped walking. I took a long look at the priest, taking the full measure of the man. Here was a fellow who, not a handful of hours prior, had been sleeping off too much drink in an empty church. Yet, when the chips were down, he’d stood shoulder-to-shoulder with a stranger in his underwear to fight off a horde of monsters, and now he was calmly committing treason against magical tyrants to keep me breathing.
+I reached up and tipped my hat to him. "Well, Reverend. Whether you're helping me out of a sworn duty to the Almighty, or just out of plain old neighborly kindness, I am much obliged."
+Father Sydney bowed his head modestly. "It is my honor, Mr. Trip."
+We resumed our march, and we'd gone about another mile before my curiosity got the better of me again.
+"Say, Reverend," I began, shifting my heavy musket to my other shoulder. "There's one more thing that's been picking at my brain. When little Maisie first saw me fight, she said I must have a 'Might near thirty'. Later on, you mentioned something about my 'Endurance', and then my 'Alacrity' and 'Agility' being high."
+"Yes?" Sydney prompted, tilting his head.
+"Well, where I come from, those are just fancy words for being strong or quick," I explained. "But you folks talk about 'em like they're measurements on a ruler. We started to chat about it before the gnolls popped out of the floor, so would you mind telling me just what the Sam Hill they're all about?"
+Father Sydney turned to look at me, and he wore the bright-eyed smile of a schoolmaster who'd just been handed a shiny apple by his favorite pupil.
+"Now *that* is an interesting question."
 """,
 )
 
