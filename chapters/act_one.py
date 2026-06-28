@@ -428,6 +428,26 @@ The man stepped out from behind Hamish. This fellow was older, with a face carve
 "Nae, Father," the older man grunted. "I was tendin' to the Widow MacGregor on account of the grip that plagues her. I hear the bells, but the beasties swarmed her farmstead before I could march, so I held them at the door 'till the sun came up and chased 'em off." He cast a dark look at the ruined doors. "I should have been here to guard the church."
 "You guarded the widow, John," the priest said gently. "The flock is the Church."
 I couldn't help but be impressed. Standing off against those hyena-monsters all by your lonesome took a stern spine.
+Father Sydney and the burly village chief fell into an urgent discussion about how to best sweep the outlying farmsteads for survivors. Bider John grunted and pushed past me into the sanctuary. His face fell as soon as he caught sight of the damage.
+Seeing as I was the one who'd converted the church's crypt into a smoking crater, I reckoned I owed the man an apology, or at least a contractor's assessment of the structural integrity, so I followed him inside.
+"I know it looks a mite severe," I began, trying for a placating tone as I gestured to the smoking hole in the floor. "I reckon the foundation is still mostly sound, though you'll likely need to sister a few joists..."
+I trailed off when I realized the dour man wasn't listening to a word I said. His gaze was locked on a patch of floor near the crater. Specifically, he was staring dead at the gnoll I'd brained with a chunk of masonry.
+The brute was twitching.
+I knew for a fact I'd caved its skull in with a rock heavy enough to anchor a bass boat, yet its clawed hands were scrabbling against the stone. Slowly, with a jerky, unnatural rhythm, it was dragging its heavy carcass across the floor.
+Banjo trotted up to my side and let out a low rumble. *Well... that don't look right.* *Even the meanest coon shouldn't move without a brain tellin' it what to do. Coons is mostly just ornery clever, you see, not proper smart, but they still need a head to get up to mischief.*
+A cold shiver worked its way down my spine as little Maisie's warning came to mind, how the violet moon and the bad magic that made the worst beasties, the ones that used to be dead, come out to play.
+"Necromancy!" Bider John hissed. He lunged forward and grabbed the beast by a thick hind leg. "Help me! We must drag the foul thing into the sunlight before it fully wakes!"
+I lunged forward to grab a thick, furry arm, and Banjo darted in right beside me, baring his teeth for a fight.
+"Nae, keep your hound back!" John yelled, waving a frantic hand at the dog. "Its flesh is blighted! If he bites it, the rot will take him!"
+*You heard the man, buddy!* I shouted in my head. *Back off!*
+Banjo skidded to a halt and let out a frustrated whine, but he had the sense to keep his teeth to himself. Working together, Bider John and I burst through the ruined front doors and hauled the creature out onto the steps, throwing it bodily into the golden light of the morning sun.
+I expected the creature to fry up like bacon on a hot skillet the moment the sun touched it, but my education in Everdark monsters was proving sorely inadequate. Even bathed in the pale gold of the morning, the undead gnoll continued to snap and snarl, twisting violently in our grip as it tried to tear my arm off. Hamish and Father Sydney rushed to join us, and the village chief grabbed the dead thing's other arm.
+"Hold it steady!" Father Sydney commanded. "I can deal with this."
+The priest reached into his cassock and withdrew a small golden tin. He popped it open and retrieved a white communion wafer. Banjo, who had followed us out onto the steps to watch the proceedings, perked up.
+*Hey now,* the hound thought, his tail giving a tentative wag. *Is the preacher man handing out snacks? Ask him if he's got one for a brave dog.*
+The priest held the wafer aloft over the thrashing monster. "By the sword of Saint Michael, return to the dust!" the priest roared, and he shoved his entire fist into the beast's snapping maw.
+The moment the wafer touched the creature's tongue, the gnoll let out a shriek, and a blinding white light replaced unholy violet light in its eyes. The holy fire erupted from every orifice in its head and swiftly spread to consume the beast from the inside out. In the span of three heartbeats, the monster had been reduced to a pile of greasy ash that the morning breeze scattered.
+Banjo sneezed as a flake of ash drifted past his nose. *On second thought,* he noted, *I'll pass. I don't want a snack that does that to a body.*
 """,
 )
 
@@ -457,4 +477,5 @@ act_one_chapters: list[Chapter] = [
     chapter_five,
     chapter_six,
     chapter_seven,
+    chapter_eight,
 ]
