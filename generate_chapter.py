@@ -4,19 +4,10 @@ from prompts.chapter import generate_chapter_prompt
 from util.files import write_file
 from style import main_style  
 
-chapter_outline = """Trip briefly summarizes for the reader how things moved swiftly: 
-Father Sydney, Hamish, and Bider John made plans to send out parties in the daylight to retrieve the wounded crofters (like Widow MacGregor) and bring everyone into the stone church before nightfall, while others build barricades to keep the gnolls from approaching.
-Father Sydney packs a few things for the cross-moor trek. It should only take half a day to reach Glenrowan by foot, but there's no road or path. The priest will mostly be going by dead reckoning. Trip is supplied with a travel pack (hardtack, dried meat) and a sturdy woolen cloak against the highland chill. Most importantly, one of the militiamen (the kids' uncle) gifts Trip a weathered leather tricorn hat. Trip is absolutely thrilled with it, noting that it keeps the rain off his neck and makes him feel like a proper frontiersman.
-Trip and Banjo share a touching farewell with Dougal and Maisie. Dougal shakes Trip's hand like a grown man, and Maisie gives Banjo a tight hug. Banjo telepathically notes that she's a good pup, even if she didn't give him a single treat. Father Sydney assures Hamish and Bider John he will return with Laird MacTavish's dragoons before nightfall, then he and Trip head out.
-The trio cross the rugged moorlands. The imagery should reflect the romantic, wild Bannoch: rolling purple heather, deep glens, and jagged, snow-capped peaks in the distance. The morning air is biting and crisp.
-Banjo happily takes the lead, zig-zagging through the brush. He is highly distracted by the unfamiliar scents of the alien world, specifically locking onto Bannish grouse. He telepathically complains to Trip that they're wasting perfectly good hunting time. *I'm tellin' you, these birds are fat as butterballs. Give me five minutes and I'll have us a feast. We can't pass up free chicken!
-Trip has to firmly tell him to keep his nose peeled for gnolls and other dangerous critters, not fowl.
-As they put distance between themselves and the village, Trip presses Father Sydney on why he lied to Hamish about Trip being from "a distant southern shire."
-Sydney explains the grim geopolitical reality of Rhule (the elves' name for this world). The elves rule the mainland, and they possess overwhelming magical supremacy. They view Outworlders as existential threats to their dominance.
-Sydney elaborates on his earlier mention of the British East India Company. Their knowledge of black powder, mass manufacturing, and firearms violently disrupted the elven monopoly on power. This technological leap allowed humans on the Corvish Isles to rebel and carve out a free, human-ruled kingdom.
-While Corvland is technically independent, elvish influence has crept back in through politics and trade. The current king is half-elven, and there are many human nobles—"elf-friends"—who serve elven interests. If word spreads that a new Outworlder has arrived, elven assassins or their human sympathizers will inevitably hunt Trip down to prevent another technological upheaval.
-Trip realizes his accent and complete ignorance of the world make him stick out like a sore thumb. Sydney suggests a cover: Trip is a frontiersman from **Fenshire**, a notoriously boggy, isolated western region of Corvland with fewer than five hundred inhabitants. They are known for being peculiar and rough-around-the-edges, and it's highly unlikely anyone in the Bannoch has ever met a Fenshire man to call his bluff. Even most places in Corvland won't know Trip's accent isn't from the fens.
-You can stop there and we'll edit before I provide the next section.
+chapter_outline = """The conversation shifts to the Church. Trip is amazed the Christian faith exists here. Sydney explains the Church has survived on Rhule for nearly two thousand years. The elves outlawed it and violently persecuted Christians, claiming Earth and Christ were myths. The Church survived in secret, keeping oral traditions (the Canthica) alive. When Corvland won its independence, its first kings legalized the faith. Now, a secret mandate of the Church is to protect Outworlders from the elves.
+Trip says whether Father Sydney's helping him out of duty to the faith or kindness, he's much obliged. He asks if the father would be willing to tell him about these attributes and numbers he and the kids kept talking about.
+Father Sydney's eyes light up. Now that is an interesting question.
+We'll end the chapter with that to hook the next one.
 """
 
 write_file(generate_chapter_prompt(chapter_outline=chapter_outline, style=main_style))
@@ -33,8 +24,7 @@ Trip learns a bit more about the Canthican structure here: Father Sydney is only
 
 
 
-**Scene 4: The Church and the "Natural Philosophy" of Stats**
-*   **The Sancta Canthica:** The conversation shifts to the Church. Trip is amazed the Christian faith exists here. Sydney explains the Church has survived on Rhule for nearly two thousand years. The elves outlawed it and violently persecuted Christians, claiming Earth and Christ were myths. The Church survived in secret, keeping oral traditions (the Canthica) alive. When Corvland won its independence, King Calador legalized the faith. Now, a secret mandate of the Church is to protect Outworlders from the elves.
+
 *   **Explaining Attributes:** Trip brings up the numbers Maisie and Sydney mentioned earlier (Might, Endurance, etc.). He asks if people here can just "see" a person's stats like in a video game (though he'd frame it as "like a baseball player's stat card").
 *   **The Mechanics of Stats:** Sydney clarifies that there is no magical floating text. Attributes are a formalized "natural philosophy"—a science of measuring human capability. 
     *   There are Physical, Mental, and Magical categories. 
