@@ -361,6 +361,26 @@ I looked down at the floor, where Banjo was sitting atop the beast he'd shaken t
 The hound's ears perked up, and he let out a thunderous bay that cut right through the ringing in my ears. *Comin' right up, Boss!*
 Banjo scrambled up the back of the cabinet and squeezed himself right through the narrow gap like water through a cracked jug and exploded into the sanctuary, a blur of ticked fur, muscle, and fury. He hit the mass of gnolls clustering the other side of the door so hard and fast that he completely scattered their vanguard, sending half a dozen of the brutes tumbling backward in surprise.
 He bought me a precious window of open air, and I didn't waste it. I shoved past the heavy cabinet, charged out into the smoke-filled sanctuary, and sprinted straight for the ruined altar.
+Reaching the shattered wood of the altar, I looked down into the crypt. There was a sturdy wooden ladder leading down into the dark, alongside the splintered remains of a heavy trapdoor. I reckon that setup was originally designed for ease-of-access back when it was built, but right then it was serving as a mighty convenient highway for the monsters trying to eat us. The crypt below was packed tight with a seething mass of gnolls, all clawing and climbing over one another to get a turn at the ladder.
+I heaved the open keg straight down the shaft.
+As the heavy wooden barrel tumbled into the dark, a cascade of loose black powder trailed behind it. Without missing a beat, I pitched the burning taper after it.
+Banjo trotted up to the lip of the hole beside me, having successfully hamstrung or thoroughly chewed up the last of the standing gnolls in the sanctuary. He peered down into the crypt, watched the tumbling keg with a mild curiosity, and then looked up at me.
+*Hey, you want me to fetch that?*
+My eyes went wide as dinner plates. "NO!"
+I grabbed a thick fistful of the hound's scruff and heaved all seventy pounds of him backward. I threw myself right after him, diving headlong behind the thickest pew I could find.
+A heartbeat of silence stretched out, to the point that I wondered if I'd gone and screwed it all up.
+Then, the world ended.
+A cataclysmic *BOOM* rocked the foundations of the church. The floor bucked violently beneath my belly, and a shockwave of blistering heat and suffocating dust rolled right over our pew. High above, well out of reach of any climbing gnoll, the few colorful stained-glass windows blew outward into the night, shattering into a million brilliant shards.
+With a crunch that rattled my teeth, the stone floor around the altar gave up the ghost. Tons of heavy flagstone and ruined timber dropped straight down into the crypt, swallowing the horde and permanently sealing the tunnel under a mountain of rubble. The stout walls of the church stood firm against the blast, but I lay there reflecting on the folly of what I'd just done. I'm a general contractor by trade, which is about as far from an explosives expert as one can get. I could just as easily have blown the main supports and brought the roof down on top of us, burying the reverend, the youngsters, and my dog along with the monsters. I reckon the Lord looks out for fools and West Virginians, though I suspect there's a fair bit of overlap.
+By and by, the dust began to settle, leaving behind a ringing silence. I pushed myself to my knees and coughed up a lungful of pulverized stone. When I wiped at my face, my hand came away with a smear of blood. My ears were leaking a little from the force of the blast.
+Beside me, Banjo stood up and gave himself a full-body shake, sending up a dust storm of his own. He followed it up with a series of wet sneezes.
+*Holy Moses, Trip,* he complained, rubbing his wet nose with a dusty paw. *It ain't the fourth of July, is it? Let's not do that again 'till we got some hotdogs on the grill.*
+"Amen to that, buddy."
+I peered over the top of the pew. The fighting wasn't entirely finished. Two of the gnolls had been on the outskirts of the blast when the sanctuary blew. They were wandering the aisles now, deafened, dazed, and trailing dark blood from where Banjo had already worked them over.
+It seemed only right to put them out of their misery. I reached down and hefted a fist-sized chunk of heavy masonry that had blown clear of the altar. I stepped up behind the nearest staggering brute and brought the stone down hard over its skull. It crumpled to the floor and went still. Banjo happily pounced on the other, finishing the job with a brutal shake of his jaws.
+With the last of the monsters dead, I dropped the bloody rock. I leaned heavily against the back of a pew, totally spent.
+The vestry door creaked open an inch, and Father Sydney slowly peeked out into the settling dust. Behind him, wide-eyed and trembling, were Dougal and little Maisie.
+I smiled at the trio and gave them a thumbs up. We'd held the line.
 """,
 )
 
