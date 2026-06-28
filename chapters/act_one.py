@@ -386,7 +386,33 @@ I smiled at the trio and gave them a thumbs up. We'd held the line.
 
 chapter_seven = Chapter(
     title="Chapter Seven",
-    content="""
+    content="""With the fighting well and truly settled, the ledger of my bodily debts came due all at once. For the second time that night, adrenaline reminded me it was a deceitful lender. It might've fronted me all the strength and courage I could ask for, but when it packed up and left, it took everything I owned and a fair bit I didn't know I had as payment. My knees gave out, I plopped to the floor, and I started shivering so violently my teeth rattled like dice in a tin cup.
+Through the settling haze of pulverized stone and black powder smoke, I noticed a change in the air. The bruised-plum nightmare and its dusty yellow twin had finally sunk below the horizon, and the pale light of morning was beginning to stream through the shattered frames of the stained-glass windows.
+Father Sydney picked his way through the rubble and knelt beside me. His lips were moving at a frantic clip, but all I could hear was the aftermath of the blast ringing in my head. My eardrums were busted up bad, and through the haze of my thoughts I vaguely worried I might never hear again.
+The priest took a look at my bloodied face and the terrible shivering that had taken hold of my limbs, and his expression became alarmed. He practically flew back into the vestry and returned a moment later clutching a small glass vial. Without bothering to ask permission, he popped the cork and tipped the vial against my lips, pouring a good dollop of the shimmering blue liquid down my throat. To my surprise, he also let my hound have a few precious drops.
+If you've never had the pleasure of drinking a bonafide magical healing potion, I highly recommend it. It tasted like clover honey and a warm summer breeze, making it a sight more pleasant than the burning salve he'd used on my feet. The moment it hit my stomach, a rush of heat blossomed outward. The screeching locomotive in my head vanished. My eardrums knit themselves shut with a soft *pop*, bringing the sounds of the drafty church rushing back in. It didn't help the bone-weary exhaustion, as I still felt like I could sleep a year, but all the pain was gone.
+Beside me, Banjo gave himself a ferocious shake. The bloody gashes along his leg closed up tight beneath his ticked coat, leaving him right as rain.
+*Well, how 'bout that!* he hollered in my head, his tail wagging so hard it slapped rhythmically against the pew. *I feel like a brand-new puppy, Trip! If your Nana's yellow pills worked like that, she'd have been out running deer with us!*
+"Lord have mercy," I said, testing my own voice and finding it steady. "Much obliged, Reverend. That stuff is better than a pot of strong black coffee."
+"Think nothing of it, Mr. Trip," Father Sydney said, sagging against the pew beside me. "It was the very least the Church could offer the man who saved our lives." He rose and beckoned us back towards the useful little closet of the vestry. "The potion heals the flesh, but it demands a terrible toll on the body's humors. You must replace what was spent. Shall we break our fast?"
+*Did he just say break our fast?* Banjo demanded. *Tell him I'm right on board with that, Trip! I been fasting since we crossed over, and it's about ready to break me!*
+"I reckon that's the best idea I've heard all night, Reverend," I said.
+We followed Father Sydney back into the vestry, where the priest rummaged through one of his many useful cabinets. Little Maisie and her brother were already slumped against a wall, looking as hollowed out and gray as an old hornet's nest, but they perked up right quick when the priest pulled a handful of blocky parcels.
+What he produced was mostly hardtack biscuits that could've doubled as roofing shingles, as well as strips of dried meat that looked like shoe leather and tasted roughly the same. Banjo and I fell upon it like starving wolves, but the children were less enthused and only nibbled at the edges as if they were doing the food a favor.
+"I apologize for not seeing to your attire sooner, Mr. Trip," Father Sydney said between bites. "So much has happened so fast, but with the dawn, we have a respite. Gnolls despise the sun, being creatures of the Everdark. They almost never attack in daylight, so we are safe until the evening." He wiped the crumbs off his cassock and looked around at his useful cabinets and chests. "Let us find you some dignity."
+Dignity came in the form of a thick, green-and-brown flannel shirt, a pair of sturdy woolen breeches, and some heavy leather boots. By some small grace, the boots were a fair fit for my freshly healed feet. I stripped off the foul-smelling gnoll leathers with absolute prejudice and pulled on the clean clothes. The flannel was a mite scratchy, but to a man who'd spent the night freezing in the altogether, it felt like fine silk. I stamped my boots on the stone floor and felt like a brand-new man.
+A snicker drew my attention. Dougal and Maisie were whispering to each other, gesturing at my new outfit, and doing a terrible job of hiding their amusement. 
+"What's so funny?" I asked, looking down to make sure I hadn't put the breeches on backward.
+"Ye look ridiculous, Mr. Trip," Dougal proclaimed. "Wearin' them tight Corvishman breeks when ye could be in a proper kilt." He gestured proudly to his own tartan kilt. "A proper man needs to let himself air out, ye ken? Else your courage'll be smothered."
+Maisie giggled. "He looks like a prancy southerner! It's a grand disguise, Mr. Trip. Nae a soul will suspect your Might attribute is as high as it is, seein' as you look too fancy for a scrap!"
+Banjo trotted over and gave my new boots a thorough sniffing. He sneezed before looking looked up at me.
+*Don't let 'em get you down,* he said, sitting back on his haunches. *You smell like a dead possum's ass, but at least you don't look like a plucked chicken no more. That's* *a step in the right direction.*
+"I appreciate the vote of confidence from the peanut gallery," I said, letting that serve as answer to children and hound alike.
+Before Banjo could fire back, a commotion started up outside. The muffled sound of shouting drifted through the empty window frames, and it sounded like voices. One raised above the others.
+"Ho, the church! Father Sydney, are ye hale?"
+"The village musters at last," Father Sidney said. He moved quickly toward the sanctuary, then looked back to me. "Would you mind helping me with the door?"
+Together we laid hands on the heavy timber beam securing the front doors and lifted it clear of the iron brackets. The priest heaved the heavy oak doors open, letting the bright, cold light of morning spill across the bloody stone steps.
+Sure enough, the gnolls were entirely gone. The valley was bathed in the pale gold of the rising sun, and the only evidence of the nocturnal raiders were the bodies we'd left scattered across the grass and the lingering plumes of gray smoke rising from distant farmsteads.
 """,
 )
 
@@ -409,4 +435,5 @@ act_one_chapters: list[Chapter] = [
     chapter_four,
     chapter_five,
     chapter_six,
+    chapter_seven,
 ]
