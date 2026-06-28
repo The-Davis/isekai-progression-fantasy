@@ -174,7 +174,7 @@ I turned back to Maisie. The poor girl had followed my gaze up the hill, and she
 "Maisie!" I shouted. It snapped her out of the trance. "Listen to me now. We're gonna run for the church, and we ain't gonna stop for breath, bugs, or briars. Got it?"
 She blinked, tearing her eyes away from the gnolls, and gave me a jerky nod. "Aye, Mr. Trip."
 "Then go! Hell for leather, little miss! Scat!"
-With a quick not, Maisie hiked up her skirts and took off down the slope toward the huddled stone cottages like a rabbit flushed from the brush.
+With a quick nod, Maisie hiked up her skirts and took off down the slope toward the huddled stone cottages like a rabbit flushed from the brush.
 *I'll hold 'em off, Trip!* Banjo declared. *Take the pup and run! I'll bite 'em so hard their whelps'll feel it!* He turned to face the oncoming horde and bared his teeth, ready to launch himself into the jaws of certain death.
 "Banjo!" I shouted aloud, wishing I had a free hand to grab him by the scruff. "You stick by me, boy!"
 I couldn't wait to see if he obeyed, not with the unconscious boy in my arms and the girl running ahead of me. I plunged down into the basin, my breath burning in my lungs and the jagged stones tearing at my soles with every desperate stride. The gray slate roof of the church sat nestled in the center of the village, looking like a fortress, but it might as well have been built on the other side of the moon.
@@ -286,9 +286,9 @@ Instead of going for his medical supplies, the priest stared intently at me for 
 "Whoa there, Reverend" I held up my hands. "Slow your roll. Yes, there's loads of churches back home. I ain't never been to Jerusalem, seeing as it's a mighty long flight from West Virginia, but it's on the map. Those are real places, sure enough."
 He looked ready to weep with joy. I hated to interrupt the man's epiphany, but a puddle of my blood was expanding steadily across the floor.
 "I don't mean to be a bother," I said, pointing down at my feet, "but do you suppose I could get a drop or two of that blue healing juice you gave the boy?"
-"Ah. Yes. My apologies," he stammered, hurriedly turning to rummage through a cabinet. "A potion is out of the question, I'm afrai. They are exceedingly difficult to brew, incredibly expensive, and strictly reserved for life-threatening injuries. Young Dougal was moments from the grave."
+"Ah. Yes. My apologies," he stammered, hurriedly turning to rummage through a cabinet. "A potion is out of the question, I'm afraid. They are exceedingly difficult to brew, incredibly expensive, and strictly reserved for life-threatening injuries. Young Dougal was moments from the grave."
 "I understand," I sighed and braced myself for needle and thread. Recovery was going to be rough.
-"For severe lacerations such as yours, we have this." He turned around an held up a small clay jar. He popped the cork andd scooped out a dollop of thick, amber-colored salve on his fingers. "Saint Raphael's Pitch. It will seal the skin instantly so it may heal naturally underneath. I must warn you, it stings."
+"For severe lacerations such as yours, we have this." He turned around and held up a small clay jar. He popped the cork and scooped out a dollop of thick, amber-colored salve on his fingers. "Saint Raphael's Pitch. It will seal the skin instantly so it may heal naturally underneath. I must warn you, it stings."
 He knelt down and smeared the amber goo across the deepest gash on the sole of my left foot. The smell hit me first. It was a sharp odor that put me in mind of turpentine. A split second later, the pain arrived. It felt like he'd pressed a branding iron against my raw flesh. I bit down on my lip hard enough to draw blood, stifling a holler that would have surely scared the kids in the other room.
 When I finally managed to open my watered-up eyes, I watched in amazement as the torn edges of my skin rapidly knit themselves together, leaving behind a hard, amber-colored scar that didn't bleed a drop.
 "Lord Almighty," I gasped as he moved to the right foot. "That's got a kick, but I reckon it beats getting stitched up."
@@ -319,12 +319,85 @@ The gnolls had broken in.
 
 chapter_six = Chapter(
     title="Chapter Six",
-    content="""
+    content="""The brute hauling itself up into the sanctuary was the size of a black bear, and it was covered from snout to tail in a thick coat of gray dust. It shook itself and snarled, spraying a cloud of grave-dirt across the front pews. Behind it, the frantic scrabble of claws on stone and a chorus of yelping told me this fella was only the tip of a very ugly spear.
+Panic can seize the best of men, especially in the face of monsters erupting out of the floor of your home and sanctuary, but Father Sydney turned out to be made of stern stuff. Whatever liquor had been slowing his wits in the moment we'd met was now well and truly burned away. He seized Maisie and Dougal by their shoulders and practically threw them toward the open vestry door. 
+"Back to the vestry!" the priest bellowed. "We can barricade the door and use the militia weapons!"
+"Banjo! Fall back!" I hollered.
+*Fall back?* The hound's voice echoed incredulously. *I was just fixing to tenderize this big coon! You can't invite a fella to a dance and then tell him to go wait in the truck!*
+"Move it, you stubborn mule!"
+Banjo let out a frustrated huff but obeyed, backing toward the vestry. He kept snapping at the empty air with a ferocious clack of jaws that made the giant gnoll hesitate.
+That hesitation didn't extend to the creature's friends. A second gnoll, a leaner and meaner-looking specimen, scrambled up out of the hole. It didn't pause to take in the beauty of the sanctuary. It took one look at me, let out a hiss, and bypassed Banjo entirely, lunging straight for my throat.
+I was caught flat-footed with my hands as empty as a beggar's tin cup, and my fists were a poor match for a jaw full of yellow fangs.
+"Mr. Trip!" Father Sydney shouted.
+I glanced over just in time to see a flintlock pistol sailing through the air toward me. I reached out and snatched it from the air, and the heavy wood smacked solidly into my palm like a well-thrown baseball.
+My granddaddy always said a man shouldn't hesitate when the target presents itself. I didn't. I stepped inside the reach of the lunging nightmare. Before its snapping jaws could find my neck, I shoved the barrel of the pistol squarely under its chin and pulled the trigger.
+The heavy gun roared like a clap of summer thunder, and the heavy lead ball blew the monster's head apart in a grisly spray. The beast's momentum carried its ruined body forward, and it slumped heavily against my legs before sliding to the floor. I didn't pause to admire my handiwork. I ducked straight into the vestry, trading the smoking pistol for a fresh musket off the militia rack.
+Father Sydney hadn't been twiddling his thumbs. He, young Dougal, and little Maisie were putting their backs into shoving one of the vestry cabinets across the doorway. They had it done in moments, creating a barricade with just enough of a gap near the top for a man to rest a musket barrel. By my reckoning, it'd take a half-dozen of those overgrown hyenas to break through, and I fully intended to make sure any beast that tried got a lead ball for its trouble.
+I settled the heavy musket barrel into the gap above the fallen cabinet. Father Sydney stepped up right behind me, a loaded flintlock clutched firmly in each fist.
+"I will keep you fresh, Mr. Trip," he declared. He glanced back over his shoulder. "Children, do you know your way around powder and shot?"
+Dougal scooped up the pistol I'd just fired. "Aye, Father. Da drilled me with the militia since I was knee-high."
+Down by my knee, Banjo sat with his thick tail thumping restlessly. *This ain't right, Trip,* he grumbled. *A hound's teeth are wasted hiding behind a piece of furniture. Let me out there. I'll chew 'em down to the gristle.*
+*Hold your horses, buddy,* I thought back at him. *You'll get your turn soon enough.*
+I had barely finished the thought before the first gnolls crashed into our barricade. The heavy wooden cabinet shuddered violently, sliding a fraction of an inch across the flagstones. A chorus of snarls erupted as the creatures fought one another to squeeze through the opening we'd left.
+A muzzle the size of a coal bucket forced its way into the gap, snapping wildly. I didn't even need to aim. I shoved the barrel straight into that mess of fur and teeth and pulled the trigger.
+The musket roared, and the beast vanished in a shower of blood and a cloud of sulfurous smoke.
+I thrust the smoking gun backward without taking my eyes off the gap. A pair of small hands—little Maisie's, bless her heart—snatched it away, and instantly Father Sydney shoved a fresh piece into my waiting grip.
+I leveled it and fired again as another horrific face filled the breach. This time, my aim was off. The heavy lead ball took the gnoll in the shoulder, tearing a chunk from its hide but failing to drop it. The sheer weight of the horde pushing from behind forced the wounded brute right through the opening, and he tumbled onto the vestry floor in a tangle of limbs and snarls.
+He didn't have time to right himself before Banjo hit him like a falling pine tree. His jaws locked onto the back of the monster's thick neck, and he savagely shook his head until the gnoll stopped thrashing.
+By and by, the firing cycle became a mechanical blur. Fire, pass back, receive, aim, fire. The vestry quickly filled with sulfurous white smoke that stung the eyes and burned the back of the throat. The enclosed space turned the musket reports into a deafening thunder that rattled my teeth and left a shrill ringing in my ears. I was sweating bullets, the foul-smelling rawhide harness was chafing my skin, and my right shoulder felt like it had been worked over by a prize fighter.
+Through the blinding haze and noise, I caught snippets of the priest talking to the youngsters as they scrambled to keep the guns fed.
+"Merciful Saints, look at him!" Father Sydney marveled. "I've never seen a man aim and fire so swiftly! His Alacrity and Agility scores must rival an elf's!"
+I didn't have the breath to tell him he was comparing apples to bowling balls. We were losing ground. The heavy cabinet shoved backward another full inch, scraping loudly across the stone. We were dropping them as fast as the kids could pour powder, but the gnolls were seemingly endless. The sheer weight of the pack pressing against the other side was going to crush our barricade in short order, and then there'd be nothing left to do but bravely die.
+"Reverend!" I hollered over the din with a throat raw from the gunsmoke. "Do your militia boys keep bulk powder in here?"
+Father Sydney pointed toward a dark corner of the room. "There! Two kegs!"
+"I need a fuse!" I shouted, handing back my empty musket.
+Sydney stared at me, bewildered. "A fuse? I... I have matches!" He rummaged frantically in his cassock, producing a small tin, and then snatched a thick beeswax altar taper from a nearby shelf. "Will a candle serve?"
+"It'll have to!"
+I snatched the taper and the tin. I realized a candle flame wouldn't blow a sealed keg of black powder on its own, but I spotted the cleaver I'd looted off the first gnoll sitting on the cot. Maisie must've dropped it there. I snatched it up, stepped over to the nearest powder keg, and went to work. I brought the cleaver down on the wooden bung plugging the top, then pried and twisted with all my might until the stopper popped free.
+A fine trickle of black powder spilled out onto the floor. Perfect.
+I hefted the heavy wooden keg under my left arm, then struck a match and lit the beeswax taper with my free hand. The little flame danced cheerfully, oblivious to the carnage surrounding us.
+I looked down at the floor, where Banjo was sitting atop the beast he'd shaken to death.
+*Banjo,* I called to him in my mind. *I need some elbow room! Clear that gap!*
+The hound's ears perked up, and he let out a thunderous bay that cut right through the ringing in my ears. *Comin' right up, Boss!*
+Banjo scrambled up the back of the cabinet and squeezed himself right through the narrow gap like water through a cracked jug and exploded into the sanctuary, a blur of ticked fur, muscle, and fury. He hit the mass of gnolls clustering the other side of the door so hard and fast that he completely scattered their vanguard, sending half a dozen of the brutes tumbling backward in surprise.
+He bought me a precious window of open air, and I didn't waste it. I shoved past the heavy cabinet, charged out into the smoke-filled sanctuary, and sprinted straight for the ruined altar.
+Reaching the shattered wood of the altar, I looked down into the crypt. There was a sturdy wooden ladder leading down into the dark, alongside the splintered remains of a heavy trapdoor. I reckon that setup was originally designed for ease-of-access back when it was built, but right then it was serving as a mighty convenient highway for the monsters trying to eat us. The crypt below was packed tight with a seething mass of gnolls, all clawing and climbing over one another to get a turn at the ladder.
+I heaved the open keg straight down the shaft.
+As the heavy wooden barrel tumbled into the dark, a cascade of loose black powder trailed behind it. Without missing a beat, I pitched the burning taper after it.
+Banjo trotted up to the lip of the hole beside me, having successfully hamstrung or thoroughly chewed up the last of the standing gnolls in the sanctuary. He peered down into the crypt, watched the tumbling keg with a mild curiosity, and then looked up at me.
+*Hey, you want me to fetch that?*
+My eyes went wide as dinner plates. "NO!"
+I grabbed a thick fistful of the hound's scruff and heaved all seventy pounds of him backward. I threw myself right after him, diving headlong behind the thickest pew I could find.
+A heartbeat of silence stretched out, to the point that I wondered if I'd gone and screwed it all up.
+Then, the world ended.
+A cataclysmic *BOOM* rocked the foundations of the church. The floor bucked violently beneath my belly, and a shockwave of blistering heat and suffocating dust rolled right over our pew. High above, well out of reach of any climbing gnoll, the few colorful stained-glass windows blew outward into the night, shattering into a million brilliant shards.
+With a crunch that rattled my teeth, the stone floor around the altar gave up the ghost. Tons of heavy flagstone and ruined timber dropped straight down into the crypt, swallowing the horde and permanently sealing the tunnel under a mountain of rubble. The stout walls of the church stood firm against the blast, but I lay there reflecting on the folly of what I'd just done. I'm a general contractor by trade, which is about as far from an explosives expert as one can get. I could just as easily have blown the main supports and brought the roof down on top of us, burying the reverend, the youngsters, and my dog along with the monsters. I reckon the Lord looks out for fools and West Virginians, though I suspect there's a fair bit of overlap.
+By and by, the dust began to settle, leaving behind a ringing silence. I pushed myself to my knees and coughed up a lungful of pulverized stone. When I wiped at my face, my hand came away with a smear of blood. My ears were leaking a little from the force of the blast.
+Beside me, Banjo stood up and gave himself a full-body shake, sending up a dust storm of his own. He followed it up with a series of wet sneezes.
+*Holy Moses, Trip,* he complained, rubbing his wet nose with a dusty paw. *It ain't the fourth of July, is it? Let's not do that again 'till we got some hotdogs on the grill.*
+"Amen to that, buddy."
+I peered over the top of the pew. The fighting wasn't entirely finished. Two of the gnolls had been on the outskirts of the blast when the sanctuary blew. They were wandering the aisles now, deafened, dazed, and trailing dark blood from where Banjo had already worked them over.
+It seemed only right to put them out of their misery. I reached down and hefted a fist-sized chunk of heavy masonry that had blown clear of the altar. I stepped up behind the nearest staggering brute and brought the stone down hard over its skull. It crumpled to the floor and went still. Banjo happily pounced on the other, finishing the job with a brutal shake of his jaws.
+With the last of the monsters dead, I dropped the bloody rock. I leaned heavily against the back of a pew, totally spent.
+The vestry door creaked open an inch, and Father Sydney slowly peeked out into the settling dust. Behind him, wide-eyed and trembling, were Dougal and little Maisie.
+I smiled at the trio and gave them a thumbs up. We'd held the line.
 """,
 )
 
 chapter_seven = Chapter(
     title="Chapter Seven",
+    content="""
+""",
+)
+
+chapter_eight = Chapter(
+    title="Chapter Eight",
+    content="""
+""",
+)
+
+chapter_nine = Chapter(
+    title="Chapter Nine",
     content="""
 """,
 )
@@ -335,4 +408,5 @@ act_one_chapters: list[Chapter] = [
     chapter_three,
     chapter_four,
     chapter_five,
+    chapter_six,
 ]
