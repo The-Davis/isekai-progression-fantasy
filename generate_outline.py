@@ -4,7 +4,7 @@ from prompts.outline import generate_outline_prompt
 from util.files import write_file
 
 
-next_section = """Let's work out the outline for chapter six. This will be a desperate defense of the church.
+next_section = """Let's work out the outline for chapter seven. This is the aftermath of the church defense, recovery, and planning next steps.
 I think this should cover it, but see if it needs anything more, please:
 As the altar shatters and the first gnoll hauls itself up from the crypt, Father Sydney rushes the children back into the vestry. He calls to Trip to help him barricade the door. Trip, who still has the shot and powder but no loaded musket, quickly follows, hollering for Banjo to come with him.
 When he dashes into the vestry, the priest tosses him a loaded pistol. Trip doesn't hesitate. He whirls and shoves it right in the face of a pursuing gnoll and blasts it, but two more immediately scramble up from below.
@@ -30,43 +30,11 @@ I figure we have three to four chapters of material:
 I think working in an undead leader of the gnolls as a hook for future adventures and the reason the military actually comes instead of leaving the militia to fend for itself would be good.
 
 
-We can keep the chapter brief and action-packed, then have a brief chance to rest in the next chapter, build the world a bit, and introduce more of the litrpg and fantasy elements.
-
-Trip and Banjo are in the Bannoch region of the Corvish Isles. They don't know this and won't learn it right away.
-This is where we reveal the stat system and Lachlan's motivation. If Trip has high enough stats and potential stats, he could serve in the army. If he qualifies for one of the king's elite units, he could be Glenrowan's entire levy for the year.
-1. 
-
-4. 
-Trip tests high enough to qualify for army service. His physical stats are enough to qualify for dragoon or ranger training. We can world build and discuss the army roles here. Trip, being a hunter, gravitates towards the rangers.
-Lachlan strikes a bargain: serve as Glenrowan's levy, and he will be found not guilty of trafficking. The sentence for the other two crimes will be his first year's wages in the army.
-Trip asks what the sentence would be otherwise. Lachlan reveals the stick to the earlier carrot: trafficking is a capital crime. He'd have to be shipped to a proper magistrate in Wodenburgh for sentencing, where he'd face anything from mutilation and transportation to death by hanging.
-When Lachlan puts it that way, Trip accepts. He's locked up for the night and will be shipped off to the army in the morning.
-Throughout this chapter, he should get a mental tugging telling him Banjo isn't far, but he can't hear the hound's thoughts. This builds up some of the limitations of their bond and keeps Banjo in mind.
 
 
 
-
-
-
-
-
-
-
-
-Here is an outline for the next four chapters that fits your "cozy violence," episodic progression fantasy tone, leaning into the Napoleonic/Georgian combat style while respecting your worldbuilding and character dynamics.
-
-### Chapter Six: The Vestry Stand and the Crypt Collapse
-**Focus: Chokepoint combat, quick thinking, and a localized explosive climax.**
-*   **The Breach:** As the gnolls shatter the altar and pour up from the crypt, Trip and Father Sydney scramble to grab Dougal and Maisie, rushing them into the vestry. Trip snatches up the remaining muskets in the armory.
-*   **Chokepoint:** Trip and Banjo hold the narrow vestry doorway. We get some solid *Sharpe’s Rifles*-style action. Trip fires, hands the empty musket to Father Sydney to reload, and takes a fresh one. Banjo is at Trip’s feet, viciously hamstringing any "giant coon" that tries to squeeze past the doorframe. Banjo complains that the meat is getting tough and he's not getting paid enough in snacks for this.
-*   **The Pushback:** The gnolls are relentless, and ammunition in the vestry is getting low. Father Sydney mentions the militia stores a heavy keg of black powder in the back of the armory. Trip gets an idea that would make his granddaddy proud.
-*   **The Blast:** Trip uses his high physical stats (Sydney might gasp at Trip's "Might" and "Vigor") to heave the heavy powder keg. Trip, Banjo, and the priest coordinate a violent push, driving the gnolls back into the sanctuary just long enough. Trip rolls the powder keg down the splintered hole into the crypt, strikes a spark to a makeshift fuse (or shoots it with a musket), and dives for cover.
-*   **Resolution:** The explosion rocks the stone church, deafening them and collapsing the crypt tunnel entirely, crushing the gnolls inside. The remaining few in the sanctuary are quickly dispatched by a soot-covered Trip and a very grumpy, dust-sneezing Banjo. The church is secure from the inside, but the main horde is still outside the front doors.
-
-### Chapter Seven: Pants, Plans, and the Breakout
-**Focus: Looting/restocking, slice-of-life breather, and a high-stakes escape.**
-*   **The Breather:** With the immediate threat neutralized, the adrenaline wears off. Trip is shivering and bleeding again. Father Sydney accesses a locked militia chest in the vestry.
-*   **Loot & Pants:** Praise the Saints, there are clothes. Trip is outfitted in a spare Bannish militia uniform: sturdy wool trousers (breeches), a thick green-and-brown flannel shirt, and a pair of heavy leather boots. He marvels at the quality of the "loot." Banjo sniffs the boots, noting they smell like sheep, but admits Trip looks less like a plucked chicken now. Trip also restocks his powder horn, shot, and grabs a bayonet.
+With the immediate threat neutralized, the adrenaline wears off. Trip is shivering and bleeding again. Father Sydney accesses a locked militia chest in the vestry.
+Praise God, there are finally clothes. Trip is outfitted in a spare Bannish militia uniform: sturdy wool trousers (breeches), a thick green-and-brown flannel shirt, and a pair of heavy leather boots. He marvels at the quality of the "loot." Banjo sniffs the boots, noting they smell like sheep, but admits Trip looks less like a plucked chicken now. Trip also restocks his powder horn, shot, and grabs a bayonet.
 *   **The Plan:** The church is safe, but it’s a tomb if they stay. Trip volunteers to go for the army. Father Sydney gives him directions to *Fortress Varn*, a Corvish military outpost on the Bannoch border, about ten miles across the moors.
 *   **The Breakout:** Trip and Banjo need to draw the horde away so the church can remain unbothered. They unbar the front door. Trip unleashes a devastating volley into the mob, screams a wild Appalachian rebel yell, and Banjo bays like a demon. They sprint into the night.
 *   **The Chase:** The gnolls take the bait. What follows is a tense, tactical cross-country chase. Trip uses his woodsman tracking skills and Banjo’s incredible nose to break line of sight, kite the gnolls through the freezing lochs and glens, and finally lose them in the heather. 
