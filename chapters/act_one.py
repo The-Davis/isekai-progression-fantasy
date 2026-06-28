@@ -386,18 +386,98 @@ I smiled at the trio and gave them a thumbs up. We'd held the line.
 
 chapter_seven = Chapter(
     title="Chapter Seven",
-    content="""
+    content="""With the fighting well and truly settled, the ledger of my bodily debts came due all at once. For the second time that night, adrenaline reminded me it was a deceitful lender. It might've fronted me all the strength and courage I could ask for, but when it packed up and left, it took everything I owned and a fair bit I didn't know I had as payment. My knees gave out, I plopped to the floor, and I started shivering so violently my teeth rattled like dice in a tin cup.
+Through the settling haze of pulverized stone and black powder smoke, I noticed a change in the air. The bruised-plum nightmare and its dusty yellow twin had finally sunk below the horizon, and the pale light of morning was beginning to stream through the shattered frames of the stained-glass windows.
+Father Sydney picked his way through the rubble and knelt beside me. His lips were moving at a frantic clip, but all I could hear was the aftermath of the blast ringing in my head. My eardrums were busted up bad, and through the haze of my thoughts I vaguely worried I might never hear again.
+The priest took a look at my bloodied face and the terrible shivering that had taken hold of my limbs, and his expression became alarmed. He practically flew back into the vestry and returned a moment later clutching a small glass vial. Without bothering to ask permission, he popped the cork and tipped the vial against my lips, pouring a good dollop of the shimmering blue liquid down my throat. To my surprise, he also let my hound have a few precious drops.
+If you've never had the pleasure of drinking a bonafide magical healing potion, I highly recommend it. It tasted like clover honey and a warm summer breeze, making it a sight more pleasant than the burning salve he'd used on my feet. The moment it hit my stomach, a rush of heat blossomed outward. The screeching locomotive in my head vanished. My eardrums knit themselves shut with a soft *pop*, bringing the sounds of the drafty church rushing back in. It didn't help the bone-weary exhaustion, as I still felt like I could sleep a year, but all the pain was gone.
+Beside me, Banjo gave himself a ferocious shake. The bloody gashes along his leg closed up tight beneath his ticked coat, leaving him right as rain.
+*Well, how 'bout that!* he hollered in my head, his tail wagging so hard it slapped rhythmically against the pew. *I feel like a brand-new puppy, Trip! If your Nana's yellow pills worked like that, she'd have been out running deer with us!*
+"Lord have mercy," I said, testing my own voice and finding it steady. "Much obliged, Reverend. That stuff is better than a pot of strong black coffee."
+"Think nothing of it, Mr. Trip," Father Sydney said, sagging against the pew beside me. "It was the very least the Church could offer the man who saved our lives." He rose and beckoned us back towards the useful little closet of the vestry. "The potion heals the flesh, but it demands a terrible toll on the body's humors. You must replace what was spent. Shall we break our fast?"
+*Did he just say break our fast?* Banjo demanded. *Tell him I'm right on board with that, Trip! I been fasting since we crossed over, and it's about ready to break me!*
+"I reckon that's the best idea I've heard all night, Reverend," I said.
+We followed Father Sydney back into the vestry, where the priest rummaged through one of his many useful cabinets. Little Maisie and her brother were already slumped against a wall, looking as hollowed out and gray as an old hornet's nest, but they perked up right quick when the priest pulled a handful of blocky parcels.
+What he produced was mostly hardtack biscuits that could've doubled as roofing shingles, as well as strips of dried meat that looked like shoe leather and tasted roughly the same. Banjo and I fell upon it like starving wolves, but the children were less enthused and only nibbled at the edges as if they were doing the food a favor.
+"I apologize for not seeing to your attire sooner, Mr. Trip," Father Sydney said between bites. "So much has happened so fast, but with the dawn, we have a respite. Gnolls despise the sun, being creatures of the Everdark. They almost never attack in daylight, so we are safe until the evening." He wiped the crumbs off his cassock and looked around at his useful cabinets and chests. "Let us find you some dignity."
+Dignity came in the form of a thick, green-and-brown flannel shirt, a pair of sturdy woolen breeches, and some heavy leather boots. By some small grace, the boots were a fair fit for my freshly healed feet. I stripped off the foul-smelling gnoll leathers with absolute prejudice and pulled on the clean clothes. The flannel was a mite scratchy, but to a man who'd spent the night freezing in the altogether, it felt like fine silk. I stamped my boots on the stone floor and felt like a brand-new man.
+A snicker drew my attention. Dougal and Maisie were whispering to each other, gesturing at my new outfit, and doing a terrible job of hiding their amusement. 
+"What's so funny?" I asked, looking down to make sure I hadn't put the breeches on backward.
+"Ye look ridiculous, Mr. Trip," Dougal proclaimed. "Wearin' them tight Corvishman breeks when ye could be in a proper kilt." He gestured proudly to his own tartan kilt. "A proper man needs to let himself air out, ye ken? Else your courage'll be smothered."
+Maisie giggled. "He looks like a prancy southerner! It's a grand disguise, Mr. Trip. Nae a soul will suspect your Might attribute is as high as it is, seein' as you look too fancy for a scrap!"
+Banjo trotted over and gave my new boots a thorough sniffing. He sneezed before looking looked up at me.
+*Don't let 'em get you down,* he said, sitting back on his haunches. *You smell like a dead possum's ass, but at least you don't look like a plucked chicken no more. That's* *a step in the right direction.*
+"I appreciate the vote of confidence from the peanut gallery," I said, letting that serve as answer to children and hound alike.
+Before Banjo could fire back, a commotion started up outside. The muffled sound of shouting drifted through the empty window frames, and it sounded like voices. One raised above the others.
+"Ho, the church! Father Sydney, are ye hale?"
+"The village musters at last," Father Sidney said. He moved quickly toward the sanctuary, then looked back to me. "Would you mind helping me with the door?"
+Together we laid hands on the heavy timber beam securing the front doors and lifted it clear of the iron brackets. The priest heaved the heavy oak doors open, letting the bright, cold light of morning spill across the bloody stone steps.
+Sure enough, the gnolls were entirely gone. The valley was bathed in the pale gold of the rising sun, and the only evidence of the nocturnal raiders were the bodies we'd left scattered across the grass and the lingering plumes of gray smoke rising from distant farmsteads.
+Standing on the threshold was a handful of tough-looking men clutching muskets and pikes. At their head stood a burly fellow with a beard like a briar patch and shoulders broad as a barn door.
+"Praise the Saints, Father," the big man rumbled, doffing his woolen cap. "When we heard the blast and saw the windows blow, we feared the worst. Would that we'd come sooner."
+"God Himself watched over us, Hamish," Father Sydney said, clasping the man's forearm. "Though He employed earthly instruments. Hamish, this man held the door after bringing young Dougal and Maisie from their burned farmstead. We owe him our lives."
+Hamish turned his pale blue eyes on me, taking in my blood-streaked face and the pristine militia clothes I was wearing. "I am Hamish, village chief. Any man who defends Bannish blood is a friend to the glen. I dinna ken your face, stranger."
+"Wayne Coberly, at your service," I said, offering my hand. "Folks mostly call me Trip."
+Hamish chewed on my introduction. "Trip?" he repeated, furrowing his thick brow. "What sort of name is 'Trip'? I've never heard such a nickname."
+"Well, my dad and grandaddy were both Wayne, so I'm Wayne the Third, and 'Trip' is just short for 'triple'," I explained cheerfully. "It's a common enough thing where I'm from, seeing as—"
+"Mr. Trip hails from a very distant southern shire!" Father Sydney interjected loudly, stepping squarely on the toes of my sentence. He shot me a look. "Very peculiar customs down in... in the deep south! Isn't that right, Mr. Trip?"
+I caught his drift. For whatever reason, the priest didn't want me jawing that I was an Outworlder. I figured there was a good reason for it, or at least a reason that made sense to him, so I nodded. "That's right. You'd see us as mighty peculiar, and fair enough."
+"Aye, southerners are strange beasts," Hamish agreed before dismissing the matter entirely. He gestured to a man behind him. "Father, ye'll be pleased to know I found your porter. Safe and hale, mostly."
+The man stepped out from behind Hamish. This fellow was older, with a face carved out of granite and a gray mustache that drooped over his scowl. He held a musket in one hand and sported a bloody bandage wrapped tight around his abdomen. He smelled strongly of spent powder and sweat.
+"Bider John," Father Sydney greeted the man warmly. "I feared you'd fallen when you didn't hearken to the bells."
+"Nae, Father," the older man grunted. "I was tendin' to the Widow MacGregor on account of the grip that plagues her. I hear the bells, but the beasties swarmed her farmstead before I could march, so I held them at the door 'till the sun came up and chased 'em off." He cast a dark look at the ruined doors. "I should have been here to guard the church."
+"You guarded the widow, John," the priest said gently. "The flock is the Church."
+I couldn't help but be impressed. Standing off against those hyena-monsters all by your lonesome took a stern spine.
+Father Sydney and the burly village chief fell into an urgent discussion about how to best sweep the outlying farmsteads for survivors. Bider John grunted and pushed past me into the sanctuary. His face fell as soon as he caught sight of the damage.
+Seeing as I was the one who'd converted the church's crypt into a smoking crater, I reckoned I owed the man an apology, or at least a contractor's assessment of the structural integrity, so I followed him inside.
+"I know it looks a mite severe," I began, trying for a placating tone as I gestured to the smoking hole in the floor. "I reckon the foundation is still mostly sound, though you'll likely need to sister a few joists..."
+I trailed off when I realized the dour man wasn't listening to a word I said. His gaze was locked on a patch of floor near the crater. Specifically, he was staring dead at the gnoll I'd brained with a chunk of masonry.
+The brute was twitching.
+I knew for a fact I'd caved its skull in with a rock heavy enough to anchor a bass boat, yet its clawed hands were scrabbling against the stone. Slowly, with a jerky, unnatural rhythm, it was dragging its heavy carcass across the floor.
+Banjo trotted up to my side and let out a low rumble. *Well... that don't look right.* *Even the meanest coon shouldn't move without a brain tellin' it what to do. Coons is mostly just ornery clever, you see, not proper smart, but they still need a head to get up to mischief.*
+A cold shiver worked its way down my spine as little Maisie's warning came to mind, how the violet moon and the bad magic that made the worst beasties, the ones that used to be dead, come out to play.
+"Necromancy!" Bider John hissed. He lunged forward and grabbed the beast by a thick hind leg. "Help me! We must drag the foul thing into the sunlight before it fully wakes!"
+I lunged forward to grab a thick, furry arm, and Banjo darted in right beside me, baring his teeth for a fight.
+"Nae, keep your hound back!" John yelled, waving a frantic hand at the dog. "Its flesh is blighted! If he bites it, the rot will take him!"
+*You heard the man, buddy!* I shouted in my head. *Back off!*
+Banjo skidded to a halt and let out a frustrated whine, but he had the sense to keep his teeth to himself. Working together, Bider John and I burst through the ruined front doors and hauled the creature out onto the steps, throwing it bodily into the golden light of the morning sun.
+I expected the creature to fry up like bacon on a hot skillet the moment the sun touched it, but my education in Everdark monsters was proving sorely inadequate. Even bathed in the pale gold of the morning, the undead gnoll continued to snap and snarl, twisting violently in our grip as it tried to tear my arm off. Hamish and Father Sydney rushed to join us, and the village chief grabbed the dead thing's other arm.
+"Hold it steady!" Father Sydney commanded. "I can deal with this."
+The priest reached into his cassock and withdrew a small golden tin. He popped it open and retrieved a white communion wafer. Banjo, who had followed us out onto the steps to watch the proceedings, perked up.
+*Hey now,* the hound thought, his tail giving a tentative wag. *Is the preacher man handing out snacks? Ask him if he's got one for a brave dog.*
+The priest held the wafer aloft over the thrashing monster. "By the sword of Saint Michael, return to the dust!" the priest roared, and he shoved his entire fist into the beast's snapping maw.
+The moment the wafer touched the creature's tongue, the gnoll let out a shriek, and a blinding white light replaced unholy violet light in its eyes. The holy fire erupted from every orifice in its head and swiftly spread to consume the beast from the inside out. In the span of three heartbeats, the monster had been reduced to a pile of greasy ash that the morning breeze scattered.
+Banjo sneezed as a flake of ash drifted past his nose. *On second thought,* he noted, *I'll pass. I don't want a snack that does that to a body.*
 """,
 )
 
 chapter_eight = Chapter(
     title="Chapter Eight",
-    content="""
+    content="""Hamish's broad chest heaved as he stared at the scorch mark on the stone steps. The village chief looked as though he'd been hit between the eyes with a mallet. He looked from the swiftly-scattering remains to the priest.
+"I dinna ken..." Hamish breathed, wiping a thick forearm across his brow. "I've fought gnolls all my life, Father. They're mean, aye, but they bleed and they die like anything else. What in God's name was that?"
+Father Sydney carefully closed the golden box and tucked it away before exchanging a knowing look with Bider John. "It's a rare and terrible thing, Hamish, but some creatures possess the cunning to harness the magic of the violet moon. They use it to raise and direct the dead as their puppets." The priest looked out over the valley, where the smoke of ruined farms still curled into the sky. "I thought this to be an unusually large and persistent raid, for gnolls are cowards by nature. If their dead are animated and driven by foul magic, then I fear something far worse than a pack alpha is driving them out of the Everdark."
+Hamish wrung his thick hands. "My militia lads are brave, Father. We can hold a line against regular beasties. But we canna fight an army of monsters that refuse to stay dead. If they come back tonight..." He swallowed hard. "We must abandon the glen. We evacuate the survivors and make for Glenrowan. Laird MacTavish has a stout stone wall and proper men-at-arms."
+"Nae, Hamish, ye canna mean it," Bider John countered. He gestured at the distant columns of smoke. "Think on it, man! The Widow MacGregor is bedridden with the grip, and only God and His angels know how many outlying crofters took grievous wounds in the night. They canna march at speed. If we abandon the village, the slow and the infirm will be caught on the open moor when the violet moon rises tonight. It will be a slaughter."
+Hamish looked torn. I thought John had the right of it, but I kept my thoughts to myself. This wasn't my home to defend or flee.
+Father Sydney squared his shoulders. "I will travel to Glenrowan myself. I can cross the moor at speed. I will petition Lachlan MacTavish for aid." He stood a little taller, and his voice gained confidence as he went on. "The laird has a company of dragoons among his men at arms. If they cannot defend our glen and put down this necromancer, they can at least provide a formidable escort for our people as we evacuate the infirm."
+"It's a perilous road for one man alone, Father," John warned.
+"He won't be alone," I said, and the words were out of my mouth before I realized it.
+The three men turned to look at me, perhaps as surprised as I was. My conscience hadn't let me stay silent. Sometimes a man's code demands he sees a job through to the end, and leaving these folks to fend for themselves just didn't sit right. More than that, however, I needed a long, uninterrupted walk to ask Father Sydney some very pointed questions about this world, the magic moons, and precisely why he felt the urgent need to keep my Outworlder identity a secret from his own neighbors.
+"I'll see the reverend to Glenrowan," I repeated. "I'm a fair hand with a musket, and my dog here has a nose that'll keep us from stumbling across any nasty critters unawares."
+Banjo let out a hearty bark of agreement. *You betcha!* His tail started wagging with renewed fervor. *If we're going to see a Laird, I'm all in. Any fella with a fancy title like that is bound to have a well-stocked kitchen.*
+"It is a perilous road, Mr. Trip," Father Sydney warned, though relief was plain on his face. 
+"I've walked worse," I told him. "Let's go fetch your dragoons."
 """,
 )
 
 chapter_nine = Chapter(
     title="Chapter Nine",
+    content="""
+""",
+)
+
+chapter_ten = Chapter(
+    title="Chapter Ten",
     content="""
 """,
 )
@@ -409,4 +489,6 @@ act_one_chapters: list[Chapter] = [
     chapter_four,
     chapter_five,
     chapter_six,
+    chapter_seven,
+    chapter_eight,
 ]

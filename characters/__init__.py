@@ -26,16 +26,15 @@ When the flintlocks start firing and the bayonets are fixed, Banjo is a guided m
 
 lachlan_mactavish = Character(
     name="Lachlan MacTavish",
-    description="""Lachlan MacTavish is the clan laird of Glenrowan, a picturesque but poor highland valley in the Bannoch, where he serves as Justice of the Peace. He is also retired Captain of an infantry company who has previously served in Corvland's wars.
-Lachlan is a barrel-chested man in his late fifties who looks like he has enjoyed a lifetime of hearty stews and good ale, yet still retains the dense, bullish muscle of a former soldier. He boasts a wild, mutton-chop beard the color of rusted iron and a nose that has clearly been broken at least twice. He dresses in a blend of aristocratic and rustic: a finely tailored, double-breasted woolen tailcoat of forest green worn over a traditional Bannish tartan waistcoat and riding breeches. Lachlan speaks with a rolling, amiable brogue. He has a habit of clasping his hands over his stomach when pleased and frequently invokes Canthican saints to justify his whims.
-Lachlan views Trip's arrival in his pasture as God providing him with an expendable body to fulfill his military quota so he doesn't have to send any of his own people to die in the mud. Lachlan is so low in the noble pecking order that he can get away with openly supporting the church.
-King Calador is perpetually preparing for the next inevitable, bloody clash with the mainland elves, and the Crown demands levies. Glenrowan's quota is coming due. The elves use devastating magic; the Corvish counter with disciplined volley fire, bayonet charges, and sheer bloody-minded endurance. The casualty rates are horrific. Lachlan loves his tenants. If he can fill his levy quota with robust "vagabonds" like Trip, he will.
+    description="""Lachlan MacTavish is the clan laird over Glenrowan and the surrounding shire in the Bannoch, where he serves as Justice of the Peace. He is also retired Captain of an infantry company who has previously served in Corvland's wars.
+Lachlan is a barrel-chested man in his late fifties who looks like he has enjoyed a lifetime of hearty stews and good ale, yet still retains the dense, bullish muscle of a former soldier. He boasts a wild, mutton-chop beard the color of rusted iron and a nose that has clearly been broken at least twice. He dresses in a blend of aristocratic and rustic: a finely tailored, double-breasted woolen tailcoat of forest green worn over a traditional Bannish tartan waistcoat and kilt. Lachlan speaks with a rolling, amiable brogue. He has a habit of clasping his hands over his stomach when pleased and frequently invokes Canthican saints to justify his whims.
 """
 )
 
 _characters: list[Character] = [
     wayne_coberly,
     banjo,
+    lachlan_mactavish,
 ]
 
 
