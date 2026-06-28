@@ -331,6 +331,8 @@ I was caught flat-footed with my hands as empty as a beggar's tin cup, and my fi
 "Mr. Trip!" Father Sydney shouted.
 I glanced over just in time to see a flintlock pistol sailing through the air toward me. I reached out and snatched it from the air, and the heavy wood smacked solidly into my palm like a well-thrown baseball.
 My granddaddy always said a man shouldn't hesitate when the target presents itself. I didn't. I stepped inside the reach of the lunging nightmare. Before its snapping jaws could find my neck, I shoved the barrel of the pistol squarely under its chin and pulled the trigger.
+The heavy gun roared like a clap of summer thunder, and the heavy lead ball blew the monster's head apart in a grisly spray. The beast's momentum carried its ruined body forward, and it slumped heavily against my legs before sliding to the floor. I didn't pause to admire my handiwork. I ducked straight into the vestry, trading the smoking pistol for a fresh musket off the militia rack.
+Father Sydney hadn't been twiddling his thumbs. He, young Dougal, and little Maisie were putting their backs into shoving one of the vestry cabinets across the doorway. They had it done in moments, creating a barricade with just enough of a gap near the top for a man to rest a musket barrel. By my reckoning, it'd take a half-dozen of those overgrown hyenas to break through, and I fully intended to make sure any beast that tried got a lead ball for its trouble.
 """,
 )
 
