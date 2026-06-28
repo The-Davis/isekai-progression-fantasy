@@ -500,6 +500,30 @@ Father Sydney smiled. "I have given that some thought, Mr. Trip. To an educated 
 "A boggy, miserable, and isolated western region of Corvland," Sydney explained. "It boasts a population of fewer than five hundred souls. They are entirely cut off from polite society, making them famously peculiar and exceedingly rough-around-the-edges. It is highly unlikely anyone in the Bannoch has ever met a Fenshire man to call your bluff, and your general ignorance of the wider world will be viewed as a charming regional defect rather than proof of otherworldly origins."
 I couldn't help but grin. "So, I'm a weird swamp-dweller who talks funny."
 "I wouldn't say that exactly," the priest said, his eyes twinkling just a bit. "But yes. From this moment on, Wayne Coberly is a proud son of the Fenshire bogs."
+"Well," I chuckled, "I reckon I can play that tune without missing too many notes."
+We walked a spell in silence, settling into the business of eating up miles. The sun climbed higher and chased away the bone-deep chill of the night. With the heather brushing against my sturdy new breeches, I could almost fool myself into thinking I was out for a brisk hike back home.
+"There's another thing on my mind," I told the preacher after close to an hour had passed. "Your church..."
+"The Sancta Canthica," Father Sydney supplied.
+"Right. The Canthica," I nodded. "Now, I'm a long way from home, yet I find a familiar-looking church on an alien planet and hear folks talking about the Almighty and putting their faith in the good Lord. I saw the crucifix, Reverend. How in the world did a bonafide Christian church get here?"
+"It did not merely get here, Mr. Trip," Father Sydney corrected. "It has endured here for nearly two thousand years." 
+"That's a long time to keep the fire burning far from home."
+"A fire the elves tried desperately to extinguish," he said, his expression turning solemn. "They despised us. To the elves, the idea of a Creator who favored anything other than themselves was an affront. They outlawed the Church and violently persecuted the faith. They burned our texts and claimed that the Outworld, and Christ Himself, were nothing but pathetic myths we invented to comfort ourselves in our lowly state."
+"Seems to me," I mused, "if you tell a man he ain't allowed to pray, he'll just take his prayers underground and say 'em twice as hard."
+"Precisely," Father Sydney smiled. "The Church survived in secret. Our monks and priests kept the faith alive through oral traditions and hymns passed down in the shadows. We call those traditions the *Canthica*. They kept the light alive during centuries of darkness. They are the foundation of our theology today."
+*They sound like a bunch of mean-spirited snobs,* Banjo chimed in. He paused to hike his leg against a patch of gorse, claiming it in the name of West Virginia. *You point one of these elf fellas out to me, Trip, and I'll tree him right quick. Let's see how high and mighty they feel when they got a blue tick barking up their tailpipe.*
+"I'll keep that in mind, buddy," I muttered softly, earning a curious glance from the priest before I gestured for him to continue. "So, you stayed in the shadows. How'd you end up building proper churches with bells loud enough to wake the dead?"
+"When Corvland won its independence, the first Corvish kings finally legalized the faith," Sydney explained. "Though it is a fraught peace. King Calador Half-Elven permits our worship on the condition that we avoid any teachings regarding humanity's true origins as Outworlders. Compliance or defiance on that matter is a deeply divisive subject among the clergy."
+"Let me guess," I said, eyeing the man. "You lean toward the defiant side of the fence."
+"The truth is the truth, and I will not bury it to appease an elf," Sydney said simply. "Because we remember our roots, the Church maintains a sacred, secret mandate to this very day. We protect Outworlders from the elves, no matter the cost."
+I stopped walking. I took a long look at the priest, taking the full measure of the man. Here was a fellow who, not a handful of hours prior, had been sleeping off too much drink in an empty church. Yet, when the chips were down, he’d stood shoulder-to-shoulder with a stranger in his underwear to fight off a horde of monsters, and now he was calmly committing treason against magical tyrants to keep me breathing.
+I reached up and tipped my hat to him. "Well, Reverend. Whether you're helping me out of a sworn duty to the Almighty, or just out of plain old neighborly kindness, I am much obliged."
+Father Sydney bowed his head modestly. "It is my honor, Mr. Trip."
+We resumed our march, and we'd gone about another mile before my curiosity got the better of me again.
+"Say, Reverend," I began, shifting my heavy musket to my other shoulder. "There's one more thing that's been picking at my brain. When little Maisie first saw me fight, she said I must have a 'Might near thirty'. Later on, you mentioned something about my 'Endurance', and then my 'Alacrity' and 'Agility' being high."
+"Yes?" Sydney prompted, tilting his head.
+"Well, where I come from, those are just fancy words for being strong or quick," I explained. "But you folks talk about 'em like they're measurements on a ruler. We started to chat about it before the gnolls popped out of the floor, so would you mind telling me just what the Sam Hill they're all about?"
+Father Sydney turned to look at me, and he wore the bright-eyed smile of a schoolmaster who'd just been handed a shiny apple by his favorite pupil.
+"Now *that* is an interesting question."
 """,
 )
 
