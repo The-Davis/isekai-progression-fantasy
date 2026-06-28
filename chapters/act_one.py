@@ -288,7 +288,7 @@ He looked ready to weep with joy. I hated to interrupt the man's epiphany, but a
 "I don't mean to be a bother," I said, pointing down at my feet, "but do you suppose I could get a drop or two of that blue healing juice you gave the boy?"
 "Ah. Yes. My apologies," he stammered, hurriedly turning to rummage through a cabinet. "A potion is out of the question, I'm afrai. They are exceedingly difficult to brew, incredibly expensive, and strictly reserved for life-threatening injuries. Young Dougal was moments from the grave."
 "I understand," I sighed and braced myself for needle and thread. Recovery was going to be rough.
-"For severe lacerations such as yours, we have this." He turned around an held up a small clay jar. He popped the cork andd scooped out a dollop of thick, amber-colored salve on his fingers. "Saint Raphael's Pitch. It will seal the skin instantly so it may heal naturally underneath. I must warn you, it stings."
+"For severe lacerations such as yours, we have this." He turned around an held up a small clay jar. He popped the cork and scooped out a dollop of thick, amber-colored salve on his fingers. "Saint Raphael's Pitch. It will seal the skin instantly so it may heal naturally underneath. I must warn you, it stings."
 He knelt down and smeared the amber goo across the deepest gash on the sole of my left foot. The smell hit me first. It was a sharp odor that put me in mind of turpentine. A split second later, the pain arrived. It felt like he'd pressed a branding iron against my raw flesh. I bit down on my lip hard enough to draw blood, stifling a holler that would have surely scared the kids in the other room.
 When I finally managed to open my watered-up eyes, I watched in amazement as the torn edges of my skin rapidly knit themselves together, leaving behind a hard, amber-colored scar that didn't bleed a drop.
 "Lord Almighty," I gasped as he moved to the right foot. "That's got a kick, but I reckon it beats getting stitched up."
@@ -319,7 +319,7 @@ The gnolls had broken in.
 
 chapter_six = Chapter(
     title="Chapter Six",
-    content="""
+    content="""The brute hauling itself up into the sanctuary was the size of a black bear, and it was covered from snout to tail in a thick coat of gray dust. It shook itself and snarled, spraying a cloud of grave-dirt across the front pews. Behind it, the frantic scrabble of claws on stone and a chorus of yelping told me this fella was only the tip of a very ugly spear.
 """,
 )
 
@@ -335,4 +335,5 @@ act_one_chapters: list[Chapter] = [
     chapter_three,
     chapter_four,
     chapter_five,
+    chapter_six,
 ]
