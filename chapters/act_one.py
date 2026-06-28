@@ -467,6 +467,11 @@ The three men turned to look at me, perhaps as surprised as I was. My conscience
 Banjo let out a hearty bark of agreement. *You betcha!* His tail started wagging with renewed fervor. *If we're going to see a Laird, I'm all in. Any fella with a fancy title like that is bound to have a well-stocked kitchen.*
 "It is a perilous road, Mr. Trip," Father Sydney warned, though relief was plain on his face. 
 "I've walked worse," I told him. "Let's go fetch your dragoons."
+Things moved right quick after that. 
+Hamish and Bider John gathered the able-bodied men and set about organizing them to fetch the wounded and ill, like the Widow MacGregor (who I reckoned Bider John was sweet on), and haul them back to the sturdy walls of the church. Those who stayed behind fell to tearing down what ruined timber they could salvage to throw up barricades.
+For our part, Father Sydney and I made ready for the cross-moor trek to Glenrowan. The priest figured it to be about half a day's hike, but there were no roads to speak of, nor even a decent wagon track. He'd be navigating by dead reckoning. To that end, he packed a canvas satchel with a few meager supplies and saw to it that I was furnished with a travel pack of my own, heavy with hardtack and dried meat, along with a sturdy woolen cloak to ward off the chill.
+The crowning glory of my new outfit came as an unexpected gift from a militiaman I had never laid eyes on before. He pressed a leather tricorn hat into my hands and tried to scurry off without a word of explanation, but I managed to get out of him that he was Dougal and Maisie's uncle and was right grateful I'd saved 'em. He was a shy fellow and hurried off right quick, but I decided he was a king among gift givers.
+As I've noted, a man's dignity is tied to his trousers, but what I failed to mention is that his soul is reflected in his hat. I settled that tricorn onto my head, adjusted the brim so it sat just right, and felt an immediate transformation. It kept the wind off my neck, shaded my eyes, and made me feel like a bonafide frontiersman out of a history book. I was absolutely thrilled with it. I reckon if a man's got to fight monsters on an alien world, he ought to look good doing it.
 """,
 )
 
