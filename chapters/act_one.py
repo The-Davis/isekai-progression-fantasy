@@ -453,7 +453,20 @@ Banjo sneezed as a flake of ash drifted past his nose. *On second thought,* he n
 
 chapter_eight = Chapter(
     title="Chapter Eight",
-    content="""
+    content="""Hamish's broad chest heaved as he stared at the scorch mark on the stone steps. The village chief looked as though he'd been hit between the eyes with a mallet. He looked from the swiftly-scattering remains to the priest.
+"I dinna ken..." Hamish breathed, wiping a thick forearm across his brow. "I've fought gnolls all my life, Father. They're mean, aye, but they bleed and they die like anything else. What in God's name was that?"
+Father Sydney carefully closed the golden box and tucked it away before exchanging a knowing look with Bider John. "It's a rare and terrible thing, Hamish, but some creatures possess the cunning to harness the magic of the violet moon. They use it to raise and direct the dead as their puppets." The priest looked out over the valley, where the smoke of ruined farms still curled into the sky. "I thought this to be an unusually large and persistent raid, for gnolls are cowards by nature. If their dead are animated and driven by foul magic, then I fear something far worse than a pack alpha is driving them out of the Everdark."
+Hamish wrung his thick hands. "My militia lads are brave, Father. We can hold a line against regular beasties. But we canna fight an army of monsters that refuse to stay dead. If they come back tonight..." He swallowed hard. "We must abandon the glen. We evacuate the survivors and make for Glenrowan. Laird MacTavish has a stout stone wall and proper men-at-arms."
+"Nae, Hamish, ye canna mean it," Bider John countered. He gestured at the distant columns of smoke. "Think on it, man! The Widow MacGregor is bedridden with the grip, and only God and His angels know how many outlying crofters took grievous wounds in the night. They canna march at speed. If we abandon the village, the slow and the infirm will be caught on the open moor when the violet moon rises tonight. It will be a slaughter."
+Hamish looked torn. I thought John had the right of it, but I kept my thoughts to myself. This wasn't my home to defend or flee.
+Father Sydney squared his shoulders. "I will travel to Glenrowan myself. I can cross the moor at speed. I will petition Lachlan MacTavish for aid." He stood a little taller, and his voice gained confidence as he went on. "The laird has a company of dragoons among his men at arms. If they cannot defend our glen and put down this necromancer, they can at least provide a formidable escort for our people as we evacuate the infirm."
+"It's a perilous road for one man alone, Father," John warned.
+"He won't be alone," I said, and the words were out of my mouth before I realized it.
+The three men turned to look at me, perhaps as surprised as I was. My conscience hadn't let me stay silent. Sometimes a man's code demands he sees a job through to the end, and leaving these folks to fend for themselves just didn't sit right. More than that, however, I needed a long, uninterrupted walk to ask Father Sydney some very pointed questions about this world, the magic moons, and precisely why he felt the urgent need to keep my Outworlder identity a secret from his own neighbors.
+"I'll see the reverend to Glenrowan," I repeated. "I'm a fair hand with a musket, and my dog here has a nose that'll keep us from stumbling across any nasty critters unawares."
+Banjo let out a hearty bark of agreement. *You betcha!* His tail started wagging with renewed fervor. *If we're going to see a Laird, I'm all in. Any fella with a fancy title like that is bound to have a well-stocked kitchen.*
+"It is a perilous road, Mr. Trip," Father Sydney warned, though relief was plain on his face. 
+"I've walked worse," I told him. "Let's go fetch your dragoons."
 """,
 )
 
