@@ -320,6 +320,17 @@ The gnolls had broken in.
 chapter_six = Chapter(
     title="Chapter Six",
     content="""The brute hauling itself up into the sanctuary was the size of a black bear, and it was covered from snout to tail in a thick coat of gray dust. It shook itself and snarled, spraying a cloud of grave-dirt across the front pews. Behind it, the frantic scrabble of claws on stone and a chorus of yelping told me this fella was only the tip of a very ugly spear.
+Panic can seize the best of men, especially in the face of monsters erupting out of the floor of your home and sanctuary, but Father Sydney turned out to be made of stern stuff. Whatever liquor had been slowing his wits in the moment we'd met was now well and truly burned away. He seized Maisie and Dougal by their shoulders and practically threw them toward the open vestry door. 
+"Back to the vestry!" the priest bellowed. "We can barricade the door and use the militia weapons!"
+"Banjo! Fall back!" I hollered.
+*Fall back?* The hound's voice echoed incredulously. *I was just fixing to tenderize this big coon! You can't invite a fella to a dance and then tell him to go wait in the truck!*
+"Move it, you stubborn mule!"
+Banjo let out a frustrated huff but obeyed, backing toward the vestry. He kept snapping at the empty air with a ferocious clack of jaws that made the giant gnoll hesitate.
+That hesitation didn't extend to the creature's friends. A second gnoll, a leaner and meaner-looking specimen, scrambled up out of the hole. It didn't pause to take in the beauty of the sanctuary. It took one look at me, let out a hiss, and bypassed Banjo entirely, lunging straight for my throat.
+I was caught flat-footed with my hands as empty as a beggar's tin cup, and my fists were a poor match for a jaw full of yellow fangs.
+"Mr. Trip!" Father Sydney shouted.
+I glanced over just in time to see a flintlock pistol sailing through the air toward me. I reached out and snatched it from the air, and the heavy wood smacked solidly into my palm like a well-thrown baseball.
+My granddaddy always said a man shouldn't hesitate when the target presents itself. I didn't. I stepped inside the reach of the lunging nightmare. Before its snapping jaws could find my neck, I shoved the barrel of the pistol squarely under its chin and pulled the trigger.
 """,
 )
 
