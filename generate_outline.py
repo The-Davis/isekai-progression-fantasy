@@ -4,19 +4,21 @@ from prompts.outline import generate_outline_prompt
 from util.files import write_file
 
 
-next_section ="""Let's work out the outline for chapter nine. This will deal with Trip, Banjo, and Sydney crossing the moor, discussing attributes, from this unnamed village to the larger town of Glenrowan.
+next_section ="""Let's work out the outline for chapter ten. This will deal with Trip, Banjo, and Sydney resolving the standoff with the dragoons, meeting the clan laird, and getting help for the unnamed village.
 I think this should cover it, but see if it needs anything more, please:
-Father Sydney explains the atrributes as a natural philosophy of measuring capability. He explains that trained clerics and mages can use a specialized lens (a "coda glass") or specific diagnostic spells to measure a person's raw capabilities on a standardized scale.
-He explains the 3x5 grid: Physical, Mental, and Magical attributes, each measured by Power, Control, Speed, Capacity, and Recovery (e.g., Might is Physical Power, Endurance is Physical Capacity).
-The average adult human baseline is around 10, representing a healthy but lazy adult. People who work hard can easily double that, while athletes and trained soldiers are often triple. Sydney suggests that Trip's Physical stats are likely in that range, as he fights with such ease.
-Banjo completely misunderstands the concept, insisting his "Snack Capacity" is at least a hundred, and arguing that "Snooze Recovery" is the only metric that matters for a working hound.
-Throughout this, Trip pays attention and asks relevant questions. He learns the theoretical maximum is 100, but this is exceedingly rare. A paragon among elves might have Finesse of 100, while the hardiest dwarf might have Endurance of 100, but both are unlikely for either and nigh impossible for humans. Trip is interested that dwarves are a thing. He knows such things appear in books and fairy tales on Earth, and he wonders if other beings out of tales are on Rhule.
-One thing learned through questioning is that while the typical way to increase these attributes is through rigorous hard work, aging, and training, there are rumorsthat the elves have magical means of artificially enhancing attributes. Sydney has never witnessed it and does not know the details.
-Give Banjo at least one other thing to comment on during this sequence.
-The trip comes to an end when Banjo alerts to a scent. Horses and black powder.
-A pair of horsemen crest a hill, cutting off their path. They are rough-looking cavalrymen armed with carbines and sabers. 
-The men are in uniform, and Sydney recognizes them as Corvish Dragoons, but they do not know or recognize him. The lead rider demands Trip hand over his musket and submit to being bound for the ride to the Laird. 
-Trip reacts poorly to the demand, leading the men to draw their carbines. Banjo moves to Trip's side, a low growl rumbling in his chest. We end on a standoff cliffhanger.
+While Father Sydney tries to broker peace, it doesn't get the dragoons to give in. Trip is moved by the priest's words and decides to deescalate. He leans into his new "Fenshire" identity and claims that over a gun to a stranger is a severe breach of manners where he comes from.
+He offers a compromise: he'll unprime his pan and hand over his powder horn. A gun without powder is just a club, and Corvish dragoons ain't afraid of a man with naught but a club, are they?
+With their courage on the line, the dragoons grudgingly accept this display of good faith, though they also take Trip's bag of shot.
+They are escorted the rest of the way to Glenrowan. Banjo trots alongside the cavalry horses, critiquing the dragoons' to Trip and providing running commentary.
+They arrive at a fortified manor house sitting on the outskirts of a mid-sized town and surrounded by a small military camp. We get a little slice-of-life scene: soldiers cleaning muskets, campfires, the drone of distant bagpipes, and the smell of roasting meats. Banjo nearly loses his mind at the scent of the mess tents.
+They are brought into the manor house and presented to Laird Lachlan MacTavish. The Laird is barrel-chested, mutton-chopped, eating a hearty stew, and blending aristocratic authority with rustic Bannish charm. Unlike the dragoons, he recognizes and respect's Father Sydney's position, though he doesn't know the man personally.
+MacTavish is sympathetic to the village's plight, but deploying his dragoons is a risk. He explains that gnolls hit his own lands and many surrounding farms, and he fears it may happen again.
+He interrogates Trip, testing the man's mettle. He tries to browbeat Trip, but Trip's lack of modern deference—meeting the Laird eye-to-eye and speaking plainly—wins MacTavish's respect.
+Trip describes the necromancy. MacTavish stops eating. Sydney confirms the use of violet moon magic. 
+MacTavish realizes this isn't a mere raid but an Everdark incursion. He orders the dragoons to saddle up.
+MacTavish fishes a thick chunk of venison from his stew and tosses it to Banjo, praising the dog's markings. Banjo instantly declares MacTavish the greatest human alive (next to Trip).
+The laird notes the poor quality of Trip's musket and asks if he's a marksman. Trip says that he usually hits what he aims at, but without proper rifling he can't do much at range. MacTavish proudly reports that he has some of the new Strohl-Martin rifles (a Corvish equivalent to the Baker rifle), which is highly accurate but slower to load. He suggests that Trip carry one on their foray.
+Lachlan offers Trip and Father Sydney horses. Trip admits he's no rider, but the priest gives him a basic lesson. The laird and the two men ride out with twenty dragoons to save the glen, just as the sun begins to set.
 """
 
 
