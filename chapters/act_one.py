@@ -514,7 +514,7 @@ We walked a spell in silence, eating up the miles. The sun climbed and chased aw
 "The first Corvish kings finally legalized the faith," Sydney explained. "It is a fraught peace. King Calador Half-Elven permits our worship on the condition that we avoid any teachings regarding humanity's true origins as Outworlders. Compliance or defiance on that matter is a deeply divisive subject among the clergy."
 "Let me guess," I said, eyeing the man. "You lean toward the defiant side of the fence."
 "The truth is the truth, and I will not bury it to appease an elf," Sydney said simply. "Because we remember our roots, the Church maintains a sacred, secret mandate to this very day. We protect Outworlders from the elves, no matter the cost."
-I stopped walking. I took a long look at the priest, taking the full measure of the man. Here was a fellow who, not a handful of hours prior, had been sleeping off too much drink in an empty church. Yet, when the chips were down, he’d stood shoulder-to-shoulder with a stranger in his underwear to fight off a horde of monsters, and now he was calmly committing treason against magical tyrants to keep me breathing.
+I stopped walking. I took a long look at the priest, taking the full measure of the man. Here was a fellow who, not a handful of hours prior, had been sleeping off too much drink in an empty church. Yet, when the chips were down, he'd stood shoulder-to-shoulder with a stranger in his underwear to fight off a horde of monsters, and now he was calmly committing treason against magical tyrants to keep me breathing.
 I reached up and tipped my hat to him. "Well, Reverend. Whether you're helping me out of a sworn duty to the Almighty, or just out of plain old neighborly kindness, I am much obliged."
 Father Sydney bowed his head modestly. "It is my honor, Mr. Trip."
 We resumed our march, and we'd gone about another mile before my curiosity got the better of me again.
@@ -528,7 +528,59 @@ Father Sydney turned to look at me, and he wore the bright-eyed smile of a schoo
 
 chapter_nine = Chapter(
     title="Chapter Nine",
-    content="""
+    content=""""I recall you said the Outworld knows nothing of our natural philosophy," the priest began, settling into a lecturing cadence as we crunched through the heather. "People on Rhule view these attributes as measurable properties of a person's being. Think of it like measuring the weight a man can carry or how swiftly he can run a mile, but the attribute is distilled to his absolute potential."
+"I ain't sure I follow," I admitted. "A man's strength ain't a fixed point. Some days you wake up ready to wrestle a bear, and other days you pull a muscle tying your boots."
+"Exactly so!" Sydney beamed. "The mortal coil is fraught with the distractions of fatigue, a poor night's sleep, or a touch of the ague. A man might hoist three hundred pounds one day, but struggle with two hundred and ninety-five the following. Yet, his underlying *Might* has not changed. It remains a steadfast thirty both days. The attribute measures the capability lying beneath the flesh."
+I turned that over in my head. "If you can't judge it by how much a fellow can carry, how do you measure it? It's not like a fella walks around with a number stamped on his forehead."
+"Not quite on his forehead," the priest chuckled. "But it can be seen clearly by those trained to look. Scholars and clerics can use an alchemically treated lens called a 'coda glass' to read a person's raw capabilities on a standardized scale, while mages can cast spells that achieve the same."
+The priest held up three fingers. "The scale covers three pillars of a soul's capabilities: Physical, Mental, and Magical. Every pillar is divided into five aspects: Power, Control, Speed, Capacity, and Recovery." He ticked his fingers down as he rattled off the names. "For the Physical pillar, the aspects are Might, Finesse, Agility, Endurance, and Vigor."
+"I think I follow," I said, quickly translating it in my head into terms suited to a general contractor. "If I'm swinging a sledgehammer to knock down a wall, Might is how hard I can hit, Finesse is making sure I don't strike my own thumb, Agility is how fast I can swing, Endurance is how long I can keep swinging, and Vigor is whether I can manage to crawl out of bed to do it all again the next morning."
+"Well done, Mr. Trip! Perfectly reasoned. You have a swift mind." He clapped his hands before continuing, and I felt a little proud of myself.. "The Mental attributes follow the same pattern: Intellect, Focus, Wit, Memory, and Lucidity. Finally, there are the Magical attributes: Essence, Dominion, Alacrity, Vessel, and Resonance."
+*What a load of bunk.* Banjo suddenly interjected with a scoff. *That 'Focus' thing he just mentioned? Total myth.*
+*I don't know about that, buddy,* I thought back. *I've seen you lock onto a bowl of bacon grease like it was the holy grail.*
+*That's dedication, Trip, not focus,* Banjo argued with the authority of the confidently ignorant. *You ever try to focus on sitting perfectly still when there's a fresh coon track in the mud? Can't be done. Any man who says he can focus when there's coons about is a liar or a cat, and I don't trust neither.*
+I couldn't help but grin, though I kept my eyes on the priest. "So, where does a regular fellow sit on this scale of yours?"
+"A healthy human adult, untested and largely given to a lazy existence, rests around a baseline of ten in their physical stats," Sydney explained. "Hard laborers, farmers, and those who earn their bread by the sweat of their brow routinely push into the twenties."
+"And the thirties?" I prompted. "Like Miss Maisie thought I had?"
+"The thirties are the domain of trained soldiers, veteran men-at-arms, and elite athletes," he said, casting a glance at my shoulders. "Given how easily you dispatched those gnolls and how long you maintained the fight without collapsing, several of your physical attributes must be in the thirties. When this business is settled, we shall visit a proper parish church rather than my little chapel of ease. I will borrow a coda glass, and we can take your exact measure."
+"I'd be mighty curious to see the numbers," I admitted. Finding out what I was made of held a certain appeal. "How high does this scale go? Can a fella reach a hundred?"
+"The theoretical limit is indeed one hundred," Sydney confirmed. "However, it is nigh impossible for a human to reach such heights. Such heights are the domain of non-human paragons. An elven blademaster who has practiced his art for a thousand years might boast a Finesse of one hundred. A dwarf of the deep mountains might possess an Endurance of one hundred, allowing him to strike the anvil without rest for a month."
+I stopped dead in my tracks. "Hold on a second. Dwarves?"
+Sydney paused and looked back at me, puzzled by my sudden halt. "Yes. Also called Zweger or duergar. Why?"
+I pushed the brim of my tricorn hat up a fraction. When little Maisie had mentioned elves, I'd thought of it as one odd aspect of this world, perhaps a term for an alien species these folk didn't properly know how to describe, but the mention of mountain dwarves changed my perception. I tried to explain. "In the Outworld, elves and dwarves are bedtime stories you tell kids about magic rings and folks living under mountains. The only folks on Earth are people. Are all Earth myths just walking around on Rhule?"
+Sydney shrugged and looked apologetic. "Rhule is a vast and ancient world, Mr. Trip, and I am a humble country priest. I know there are many other races inhabiting distant continents and deep oceans, but I am no expert on their varieties."
+*Wait a minute,* Banjo chimed in as he paused to look back at me. *Are these dwarves the little fellas with the pickaxes that sing in that cartoon picture-show your Nana liked?*
+*I reckon they might be.*
+*If they are the same fellas,* Banjo's voice took on an edge of sullen suspicion, *then I don't like 'em one bit.*
+*Why's that, buddy?* I asked. *They're just little guys digging for gems.*
+*It's insulting,* Banjo huffed. *Singing while you dig? You don't whistle a happy tune when you're going after a buried bone or trying to root out a stubborn groundhog. It shows a profound lack of respect for the dirt.*
+"I ain't following, buddy," I muttered out loud. "What's wrong with a little music while you work?"
+Banjo shot me a look over his shoulder. *It's a hound thing. Deal with it.*
+I reckon a man's got a right to be puzzled when his dog takes a hard stance against fairy-tale creatures, but I decided it was best to let sleeping dogs lie. I turned my attention back to the priest and started walking again.
+"Assuming I don't live for five hundred years like an elf, how does a fella like me go about putting points on the board? Just hard practice?"
+"That is indeed how God intends us to grow." The priest then lowered his voice, as if the moor might be eavesdropping. "There are rumors that the elven nobility have a magical means of enhancing their attributes. They cheat the natural order to ensure their physical and mental supremacy over humanity remains absolute."
+"Is that a fact?" I frowned. "How do they manage that?"
+"I do not know, and I pray I never do," the priest said. "It is an abomination. All elvish sorcery turns to cruelty in the end."
+"I've known folks who'd cut corners on a foundation just to save a buck," I said quietly. "If you build your house on a cheat, eventually the rot finds its way into the floorboards."
+The priest didn't answer. His expression darkened, and his thoughts seemed to be a thousand miles away. Other questions whirled in my mind, but I already had a lot to absorb. I'd already figured I was here for the long haul, seeing as hundreds of people from Earth had appeared here in the past, but I hadn't once heard of anyone back home speaking even a whisper of this "Rhule" place. I needed to ply Father Sydney with more questions to build my cover and new identity, but it would have to wait until he was in a talkative mood once more.
+Our path got a little harder as the gentle rolling of the moor gave way to a rocky rise. The wind picked up, biting at the edges of my new cloak, and I focused my breath on the climb. My legs were feeling the toll of the night's violence, but the quiet of the wild country offered a peace that my soul sorely needed.
+Banjo kept his spot in the lead and was busy musing in my skull over whether gnolls had their own special 'Thieving' stats, seeing as they were just giant coons in his estimation, when he suddenly froze mid-stride. His snout went high in the air, testing the breeze.
+*Hold up,* Banjo warned. *I smell horses. Sweat, too. And black powder.*
+I didn't doubt him for a second. I slipped my musket off my shoulder and rested my thumb near the hammer. I nudged the thoughtful priest with my elbow.
+"My hound looks agitated," I said by way of explanation. "I think he's scented something."
+Father Sydney nodded. "It's early for gnolls. Cu Sith, perhaps?"
+I considered telling him about my ability to speak to the hound and that Banjo smelled horses and gunpowder, but for some reason I hesitated. A moment later, two horsemen crested the rocky ridge ahead of us, making the point moot. They effectively cut off the narrow path when they reined in their mounts to block our way. They were rough-hewn men, wearing double-breasted military tailcoats of deep green. Sunlight glinted off the hilts of the cavalry sabers strapped to their saddles, but what held my attention were the nasty-looking carbines resting casually across their laps.
+The priest let out a breath, and the tension drained from his shoulders. "All is well. Those are Corvish Dragoons. They are surely part of Laird MacTavish's company from Glenrowan. We are well met!" The priest stepped forward and raised a hand. "Ho there, friends! I am Father Sydney, vicar to the parish's chapel of ease! We march for Glenrowan to petition the Laird for—"
+"Save your breath, old man," one of them snapped.
+The man's eyes were locked squarely onto me. I suppose I painted a mighty suspicious picture. I was a tall, armed stranger sporting a face crisscrossed with dried blood. Add in the seventy-pound hunting dog baring his teeth at their horses, and I didn't exactly scream "innocent bystander."
+"You there," he shouted, pointing a gloved finger at me. "Hand over the piece, stranger, and put your hands out. You'll be bound for the ride back to the Laird, and he'll sort out what manner of vagabond you are."
+I stared back at the man. Under most circumstances, I reckon I might've obeyed, but I'd spent the night freezing in the altogether, running barefoot across thistles, and bleeding to save lives from monsters that burst out of a church floor. I was bone-tired and running on borrowed energy. To be treated like a highwayman by the very cavalry I was marching to fetch just didn't sit well.
+A man's code demands a certain amount of respect.
+I squared my shoulders and offered the soldier a polite but entirely unyielding smile. "I reckon my hands'll stay right where they are, friend."
+The dragoons did not take kindly to my defiance. In practiced unison, they brought their short carbines up to their shoulders. The metallic *clack-clack* of twin flintlocks cocking back followed, and both barrels were soon leveled dead at the center of my chest.
+Banjo stepped squarely in front of me, planting himself between me and the riders. His lips curled back to expose his white teeth, and a vicious, rattling snarl erupted from deep in his chest.
+*Say the word, Trip,* Banjo called. *You just say the word, and I'll pull 'em right off those tall horses.*
+I stared down the black muzzles of the Corvish carbines, letting my thumb slowly pull back the hammer of my own musket until it locked into place. We all stared at each other, waiting for someone to make the first move.
 """,
 )
 
@@ -547,4 +599,5 @@ act_one_chapters: list[Chapter] = [
     chapter_six,
     chapter_seven,
     chapter_eight,
+    chapter_nine,
 ]
