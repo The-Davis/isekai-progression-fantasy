@@ -4,21 +4,13 @@ from prompts.outline import generate_outline_prompt
 from util.files import write_file
 
 
-next_section ="""Let's work out the outline for chapter ten. This will deal with Trip, Banjo, and Sydney resolving the standoff with the dragoons, meeting the clan laird, and getting help for the unnamed village.
+next_section ="""Let's work out the outline for chapter eleven. This will deal with Trip, Banjo, and Sydney resolving the standoff with the dragoons, meeting the clan laird, and getting help for the unnamed village.
 I think this should cover it, but see if it needs anything more, please:
-While Father Sydney tries to broker peace, it doesn't get the dragoons to give in. Trip is moved by the priest's words and decides to deescalate. He leans into his new "Fenshire" identity and claims that over a gun to a stranger is a severe breach of manners where he comes from.
-He offers a compromise: he'll unprime his pan and hand over his powder horn. A gun without powder is just a club, and Corvish dragoons ain't afraid of a man with naught but a club, are they?
-With their courage on the line, the dragoons grudgingly accept this display of good faith, though they also take Trip's bag of shot.
-They are escorted the rest of the way to Glenrowan. Banjo trots alongside the cavalry horses, critiquing the dragoons' to Trip and providing running commentary.
-They arrive at a fortified manor house sitting on the outskirts of a mid-sized town and surrounded by a small military camp. We get a little slice-of-life scene: soldiers cleaning muskets, campfires, the drone of distant bagpipes, and the smell of roasting meats. Banjo nearly loses his mind at the scent of the mess tents.
-They are brought into the manor house and presented to Laird Lachlan MacTavish. The Laird is barrel-chested, mutton-chopped, eating a hearty stew, and blending aristocratic authority with rustic Bannish charm. Unlike the dragoons, he recognizes and respect's Father Sydney's position, though he doesn't know the man personally.
-MacTavish is sympathetic to the village's plight, but deploying his dragoons is a risk. He explains that gnolls hit his own lands and many surrounding farms, and he fears it may happen again.
-He interrogates Trip, testing the man's mettle. He tries to browbeat Trip, but Trip's lack of modern deference—meeting the Laird eye-to-eye and speaking plainly—wins MacTavish's respect.
-Trip describes the necromancy. MacTavish stops eating. Sydney confirms the use of violet moon magic. 
-MacTavish realizes this isn't a mere raid but an Everdark incursion. He orders the dragoons to saddle up.
-MacTavish fishes a thick chunk of venison from his stew and tosses it to Banjo, praising the dog's markings. Banjo instantly declares MacTavish the greatest human alive (next to Trip).
-The laird notes the poor quality of Trip's musket and asks if he's a marksman. Trip says that he usually hits what he aims at, but without proper rifling he can't do much at range. MacTavish proudly reports that he has some of the new Strohl-Martin rifles (a Corvish equivalent to the Baker rifle), which is highly accurate but slower to load. He suggests that Trip carry one on their foray.
-Lachlan offers Trip and Father Sydney horses. Trip admits he's no rider, but the priest gives him a basic lesson. The laird and the two men ride out with twenty dragoons to save the glen, just as the sun begins to set.
+The dragoons arrive at the ridge overlooking the village at dusk. The barricades Hamish and Bider John built are under heavy assault by a massive horde of gnolls and a pile of their bodies are glowing with violet magic and starting to twitch. In the back line stands an indistinct creature in a dark robe, sending purple light from a staff into the pile.
+Lachlan prepares for a heavy cavalry charge down the basin, but notes how horses are easily spooked by dark magic. It'd be a whole lot better if that necromancer were destracted. Trip volunteers to take out the magic-user.
+Trip and Banjo slip through the dark, bypassing the main horde. We see the synergy of Earth-hunting tactics applied to fantasy warfare. Banjo causes a distraction by tearing through the necromancer's bodyguard while Trip sets up a sniper position. He uses his new rifled musket, takes a breath, and puts a lead ball cleanly through the necromancer's chest.
+It doesn't fall, but its magic fails. The undead gnolls collapse into lifeless ash and bone, while the wounded necromancer flees into the night. Trip feels certain it will return eventually. Not for any particular reason, he just knows it in his gut. The regular gnolls panic, moreso when Lachlan and the dragoons thunder down the hill and break the horde in a glorious clash.
+The aftermath is full of camaraderie, smoking powder, and back-slapping. Hamish and the village are saved. Lachlan MacTavish shares a flask of good whiskey with Trip. He asks Trip about his attributes, which Trip admits he doesn't know. He improvises the excuse that Fenshire doesn't do much in the way of testing. Lachlan suggests he get himself tested. If his attributes are sufficient, there's a future for a man of his talent in the Corvish Army.
 """
 
 
