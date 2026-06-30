@@ -662,6 +662,12 @@ I stepped up and gave the stock of my new rifle a gentle pat. "What say you hold
 Lachlan's bushy eyebrows knotted together. "Ye mean to shoot the mage? Look closely, Mr. Trip. He's nae standing alone."
 I took another look, and sure enough, lurking in the shadows just at the edge of the necromancer's purple glow was a ring of bodyguards. There were at least a dozen, and they weren't your run-of-the-mill gnolls. These fellas were absolute brutes, sporting heavier shoulders, bits and pieces of actual armor, and wicked-looking halberds.
 "A full squad of line infantrymen could take them, aye," Lachlan mused. "And in the broad daylight, I dinna doubt a good marksman could manage to pick the wizard off at a distance. In this dark, ye'd never get close enough to see your iron sights before those brutes caught your scent and tore ye apart. We'll just have to chance the charge."
+"Laird, I've spent my whole life hunting in the hollers... er... fens," I explained. "When the sun goes down back home, it gets so dark you can't find your own nose with both hands. Banjo and I can slip close enough for sure. I'll pick that fella off from a distance, and he won't ever know what hit him."
+"And if his guards catch wind of ye?"
+"Well," I smiled and glanced down at my hound. "Banjo'll see that they don't."
+Lachlan chewed on his lip for a heavy moment, weighing the lives of his men against the confidence of a stranger. "Ten minutes, Mr. Trip," he finally declared. "I give ye ten minutes. If the wizard nae falls by then, I'll chance the charge and damn the horses."
+"Ten minutes is plenty."
+We didn't waste a second and slipped away from the restless horses. We quickly made our way into the basin that housed the village, giving the barricades and the furious fighting a wide berth. The battle, with its crack of musketry, roaring of the gnolls, and frantic shouts of the militia, echoed loudly across the basin, providing convenient cover for our approach.
 """,
 )
     
