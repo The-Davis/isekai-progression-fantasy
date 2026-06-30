@@ -611,7 +611,7 @@ Seated at the head of the table was a man who had to be the clan laird. He was a
 He looked up with his spoon hovering halfway to his mouth. He took one look at me and his thick brows knit together like two fighting caterpillars. "What's this, then? Now my dragoons drag blood-painted vagabonds into my dining room while I'm at my supper? And armed? Ye'd better explain—"
 Father Sydney stepped out from behind my shoulder, and the scowl instantly melted from the laird's face. He hastily set his spoon down and wiped his mouth with the back of his hand.
 "Father Sydney!" He bellowed in greeting and hastily pushed his chair back to stand respectfully. "I didna see ye behind the stranger. By the Saints, man, ye look as though ye've run the whole length of the glen! Sit, sit! I'll have the kitchens bring up fresh bowls. We've a venison stew that'll put the life right back in ye." He turned his gaze on the dragoons and the scowl returned. "The father is my guest. Clear off."
-*Trip,* Banjo whined, d*id he say venison? Tell him I've been a very good boy who loves venison. Tell him I'm practically starving to death right here on his rug. You gotta ask him for a bowl. In fact, just ask him for the pot.*
+*Trip,* Banjo whined, *did he say venison? Tell him I've been a very good boy who loves venison. Tell him I'm practically starving to death right here on his rug. You gotta ask him for a bowl. In fact, just ask him for the pot.*
 "You are too kind, Laird MacTavish, but I must respectfully decline," Father Sydney said. "We are not here for hospitality."
 *Noo!* My dog lamented. *The priest is robbing us, Trip! That's like... taxation without representation or something. You gotta stop him!*
 I pointedly ignored him and waited politely while the reverend went through the niceties involved in calling on a noble, though this particular example of the breed didn't seem to stand all that much on ceremony.
@@ -646,7 +646,10 @@ I took the rifle and tested its balance. The weight felt uncannily similar to my
 
 chapter_eleven = Chapter(
     title="Chapter Eleven",
-    content="""
+    content="""If a man tries to convince you that riding a horse is easy, I promise you it's because he's about to try and sell you a horse. I can drive a pickup through a bog and negotiate an ATV up a forty-five-degree incline, but strapping myself to the back of a thousand-pound animal with a mind of its own was a humbling experience. If Father Sydney hadn't given me a hasty lesson on how to hold the reins and shift my weight with the animal's gait, I reckon I'd have snapped my neck before we even cleared the laird's front gates.
+As it was, I managed to stay in the saddle right up until our company crested the ridge overlooking the chapel glen. We arrived just as the sun gave up the ghost for the day. Darkness was getting settled, and the sky bruised purple and dusty yellow as those two peculiar moons hoisted themselves over the horizon.
+Down in the basin, things had gone downright biblical.
+The village was putting up a spirited fight. Flashes of yellow light and the sharp *crack* of smoothbore muskets sparked from behind the makeshift barricades, answering the furious snarls of the horde. There were a sight more gnolls swarming the makeshift walls as we'd seen the night before, however. The heavy-shouldered brutes were throwing themselves at the wood in a frenzy, but what truly chilled my blood was their dead.
 """,
 )
     
@@ -661,4 +664,5 @@ act_one_chapters: list[Chapter] = [
     chapter_eight,
     chapter_nine,
     chapter_ten,
+    chapter_eleven,
 ]
