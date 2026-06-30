@@ -586,6 +586,66 @@ I stared down the black muzzles of the Corvish carbines, letting my thumb slowly
 
 chapter_ten = Chapter(
     title="Chapter Ten",
+    content=""""Hold your fire!" Father Sydney bellowed, stepping forward with his hands raised. He drew himself up to his full height, which made him suddenly look every inch the preacher man. "In the name of God, men, do not shed the blood of your brothers! Night comes swiftly and you will have to stand together or fall alone!"
+The dragoon who'd been snapping at us flinched a little, but he didn't lower his weapon. "I hear ye, Father, but we fought Everdark beasties 'till the sun came up and have been dealing with vagabonds and looters looking to pick the bones of the dead ever since. This tall rogue is painted in blood, and I'll not take chances with my neck."
+Sydney puffed himself up. "This man stood alone against a gnoll pack. He is a hero, not a vagabond!"
+Listening to the priest's earnest defense of me, I felt a prick of shame. I'd let my dander get up over a slight, acting like a proud fool. I took a breath, lowered the muzzle of my musket just a fraction, and tried to summon the sort of patience my granddaddy used to handle damn Yankees when they drove their shiny cars up in the holler.
+"Now, fellas," I said, pitching my voice into an amiable drawl. "Where I come from, pointing a loaded weapon at a man on the road is a severe breach of manners. As we've had a long night and are likely to have another one, why don't we forgive each other and come to an arrangement?"
+*I don't know about that, Trip,* Banjo chimed in. *Didn't your Nana point her scattergun at that fella from the electric company just last spring?*
+*There is a world of difference between a man trespassing on your porch and folks meeting out on the public road,* I corrected him. *Hush your mouth.*
+"Tell you what," I offered, raising my free hand palm-out. "I'll unprime my pan and toss you my powder horn. A gun without powder's nothing but an awkward club, and two brave Corvish dragoons ain't afraid of a tired man with a wooden stick, are they?"
+The riders exchanged a look. I'd effectively pricked their pride, and refusing my offer would make them look cowardly. The lead dragoon scowled and lowered his carbine to show he wasn't overly concerned.
+"Aye, that's a fair display of good faith," he grunted. "Ye'll hand over your pouch of shot as well. I'll nae take chances on ye having spare powder tucked away."
+"You've got a deal."
+I brushed the frizzen open, dumped my priming powder into the wind, and pointed the barrel squarely at the sky. I pulled the trigger. The flint struck the steel with a shower of bright sparks, but the gun stayed dead silent. With the weapon rendered useless, I unslung my horn and the heavy leather bag of shot, tossing them underhanded to the lead dragoon. He caught them neatly and tucked them away in his saddlebags.
+Arrangements thus made, we resumed our trek across the heather. The dragoons didn't offer us a ride or make introductions, both of which were fine by me, but they kept their horses at a slow walk to escort us the rest of the way.
+Banjo trotted alongside the horses, sniffing the air and maintaining a running commentary.
+*Look at the size of 'em, Trip*. *They smell like big, dumb cows that only eat salad. What good is an animal that don't eat meat? And all that prancing... I bet you my favorite collar they couldn't hunt a half-dead goose.*
+*They're cavalry horses, Banjo,* I replied. *They're built for charging, not hunting.*
+*Charging what? A patch of clover?* Banjo snorted, which made the nearest horse twitch nervously. *Useless. Plants don't run.*
+I stifled a laugh and managed to turn it into a cough behind my fist. Father Sydney glanced at me, then looked down at Banjo, who was trotting along with his tail high. The priest's brow furrowed. He didn't say anything, but I got the feeling that he saw more than he let on. I'd need to let him in on my ability to speak with Banjo eventually, seeing as he was the only soul I knew willing to share information freely, but I felt strangely reluctant. Would he see it as some foul magic? Would I lose my best ally in this world if he thought my hound had unnatural powers?
+I didn't have long to dwell on it, as once we crested the ridge, the sweeping expanse of Glenrowan town came into view.
+It was a fine-looking town in a fertile crook of a valley, but the centerpiece was a fortified stone manor house that sat upon a gentle rise, watching over the town like a mother hen keeping an eye on her chicks. Its grounds sported a waist-high masonry wall that looked thick enough to stop a cannonball. Arrayed just outside those walls was a military encampment bustling with perhaps a hundred men and horses.
+Our escorts bypassed the camp and went straight for the manor house. Inside, they brushed past a couple of annoyed-looking servants and led us to what must have been the dining hall, judging by the long table.
+Seated at the head of the table was a man who had to be the clan laird. He was a barrel-chested man in his late fifties who spent most of that time enjoying hearty meals if his paunch was any indicator, though he carried muscle like he'd been active in his youth. With his bristly, rust-colored muttonchops, he put me in mind of a boar, especially given how he was enthusiastically doing battle with a bowl of stew when we entered.
+He looked up with his spoon hovering halfway to his mouth. He took one look at me and his thick brows knit together like two fighting caterpillars. "What's this, then? Now my dragoons drag blood-painted vagabonds into my dining room while I'm at my supper? And armed? Ye'd better explain—"
+Father Sydney stepped out from behind my shoulder, and the scowl instantly melted from the laird's face. He hastily set his spoon down and wiped his mouth with the back of his hand.
+"Father Sydney!" He bellowed in greeting and hastily pushed his chair back to stand respectfully. "I didna see ye behind the stranger. By the Saints, man, ye look as though ye've run the whole length of the glen! Sit, sit! I'll have the kitchens bring up fresh bowls. We've a venison stew that'll put the life right back in ye." He turned his gaze on the dragoons and the scowl returned. "The father is my guest. Clear off."
+*Trip,* Banjo whined, d*id he say venison? Tell him I've been a very good boy who loves venison. Tell him I'm practically starving to death right here on his rug. You gotta ask him for a bowl. In fact, just ask him for the pot.*
+"You are too kind, Laird MacTavish, but I must respectfully decline," Father Sydney said. "We are not here for hospitality."
+*Noo!* My dog lamented. *The priest is robbing us, Trip! That's like... taxation without representation or something. You gotta stop him!*
+I pointedly ignored him and waited politely while the reverend went through the niceties involved in calling on a noble, though this particular example of the breed didn't seem to stand all that much on ceremony.
+"Our glen is sorely pressed," Sydney continued. "A massive gnoll pack burned half the crofts in the basin last night. We have wounded that cannot travel, so I have come to beg you to send your dragoons to relieve our village."
+Lachlan's jovial smile faded. He sighed and sank back into his heavy oak chair. "I hear your plea, Father, I truly do. But ye must understand, Glenrowan was nae spared the Everdark's wrath. We fought off a pack of our own last night. If I send my cavalry across the moor, I leave my walls terribly thin. I canna risk my dragoons when I will need them here upon sunset."
+"There is far worse than gnolls lurking in my glen, Laird," Sydney warned. He turned to me. "This is Wayne Coberly, a brave fighter from the southern fens, though we call him "Trip". Mr. Trip, kindly tell the laird what you saw."
+I took my new hat off out of respect. "Well, sir, we had gnolls bust through the floor of the church, and after we blew up the crypt and caved the roof in on the pack that attacked us, there was a gnoll left behind. I bashed its skull in with a rock, and I swear I saw it die, but by and by, it started twitching again. It had no brains left to govern its limbs, but it started dragging itself across the flagstones, scratching and clawing like it was still looking for a fight."
+"We dragged it into the sunlight," Sydney added. "It did not burn until I struck it with the Host. It was animated by the foul magic of the violet moon."
+The clan laird stared at us, and the blood drained from his ruddy face. He muttered a prayer, mostly in musical syllables that sounded suspiciously like the Elvish tongue Father Sydney had used earlier, but he finished it by crossing himself and dropping into heavy Latin. "*Sancte Michael Archangele, defende nos in proelio!*" He pushed himself up from the table and bellowed at the top of his lungs. "Dragoons! Where are ye? Get back in here, ye lazy scoundrels!"
+The heavy doors of the dining hall swung wide, and the dragoons who'd held us up on the moor hurried into the room.
+"Fetch Captain MacFarlane!" the laird roared. "Tell him I want a score of our best men saddled, primed, and ready before the shadows touch the eastern wall! We ride for the chapel glen!"
+The dragoons threw crisp salutes and spun on their heels, dashing off to raise the camp.
+With the orders given, Lachlan sank back down into his chair. His eyes fell on Banjo, who was sitting perfectly still while staring hard enough at the laird's bowl of stew to bore holes in it. With an easy grin on his broad face, the laird scooped up the bowl and set it in front of the hound.
+"There ye go, my handsome fellow," Lachlan cooed, clasping his hands over his stomach in satisfaction as Banjo dove into the stew. "By Saint Roch, I've nae seen such a magnificent beast in all my days. Look at the breadth of that chest! And those markings! He's got the look of a proper bear dog. What did ye call him?"
+*Trip. Trip, listen to me. This is the greatest man who has ever lived, aside from you. You'd better be nice!*
+"Banjo, sir," I said.
+"He has a grand appetite," Lachlan chuckled and gave Banjo a scratch behind the ears. "Tell me, Mr. Trip, would ye be opposed to runnin' this beast on a hunt with me once this Everdark business is settled? I've a mind to see how he tracks."
+*Yes!* Banjo practically screamed in my head. *Trip, I will never ask for another thing so long as I live if you say yes!* *Tell him I'll tree a coon for him! I'll tree a bear! I'll tree a fish if he wants one!*
+I grinned at the dog's enthusiasm. "I'd be mighty honored, Laird, and Banjo here would love nothing more. If you don't mind my saying so, I reckon we ought to secure the village and put this necromancer in the ground before we go making weekend plans."
+"Aye, ye have the right of it," Lachlan nodded gravely. "There is fighting to be done." The laird stood up and gestured at the smoothbore militia musket I carried. "That's a sturdy piece for a militiaman, but I've seen better. Tell me, Mr. Trip, are ye much of a marksman?"
+"I do alright," I replied. My granddaddy used to say a man who brags on his shooting is usually trying to compensate for something. "I usually hit what I aim at, but a smoothbore is a fickle friend. I wouldn't bet my own money on a clean shot much past fifty yards."
+Lachlan's eyes lit up. "A man who kens the value of a grooved barrel? Ye'll appreciate this. Come, come!"
+He rose from the table once more and moved with a purpose to the hallway. He was swift for a man his size, but a sheen of sweat coated his brow before we reached our destination, a small room with a locked door. There were several signs posted, all with words written in an alphabet I couldn't read. The laird unlocked the door and led me inside, where there were dozens of muskets, sabers, and pikes. He gestured at a sturdy wooden crate right by the door.
+"The Saints themselves must have guided your steps to Glenrowan today. I recently acquired a crate of Strohl-Martin rifles from the capital."
+He popped the latch on the crate and lifted out a weapon that made my heart skip a beat. It was a beautiful piece, sporting a polished walnut stock and a heavy octagonal barrel of blued steel. He held it out to me, and I took it with the reverence a man owes a fine piece of craftsmanship.
+"These take a fair bit more elbow grease and time to load, seeing as ye have to force the patched ball down the tight rifling, so my dragoons despise them. Cavalrymen prefer a short carbine they can load in the saddle. If ye value precision, I think ye can put it to good use when we ride."
+I took the rifle and tested its balance. The weight felt uncannily similar to my grandpa's lever-action Winchester. It was only a single-shot muzzleloader, but looking down the iron sights, I knew I could thread a needle with it at a hundred yards.
+"She's a beauty," I said, lowering the barrel. "I promise to put it to good use."
+"See that ye do," Lachlan grunted. "Now, come along. My men had better be ready to ride by now."
+""",
+)
+
+chapter_eleven = Chapter(
+    title="Chapter Eleven",
     content="""
 """,
 )
@@ -600,4 +660,5 @@ act_one_chapters: list[Chapter] = [
     chapter_seven,
     chapter_eight,
     chapter_nine,
+    chapter_ten,
 ]

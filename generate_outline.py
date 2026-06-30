@@ -4,19 +4,13 @@ from prompts.outline import generate_outline_prompt
 from util.files import write_file
 
 
-next_section ="""Let's work out the outline for chapter nine. This will deal with Trip, Banjo, and Sydney crossing the moor, discussing attributes, from this unnamed village to the larger town of Glenrowan.
+next_section ="""Let's work out the outline for chapter eleven. This will deal with Trip, Banjo, and Sydney resolving the standoff with the dragoons, meeting the clan laird, and getting help for the unnamed village.
 I think this should cover it, but see if it needs anything more, please:
-Father Sydney explains the atrributes as a natural philosophy of measuring capability. He explains that trained clerics and mages can use a specialized lens (a "coda glass") or specific diagnostic spells to measure a person's raw capabilities on a standardized scale.
-He explains the 3x5 grid: Physical, Mental, and Magical attributes, each measured by Power, Control, Speed, Capacity, and Recovery (e.g., Might is Physical Power, Endurance is Physical Capacity).
-The average adult human baseline is around 10, representing a healthy but lazy adult. People who work hard can easily double that, while athletes and trained soldiers are often triple. Sydney suggests that Trip's Physical stats are likely in that range, as he fights with such ease.
-Banjo completely misunderstands the concept, insisting his "Snack Capacity" is at least a hundred, and arguing that "Snooze Recovery" is the only metric that matters for a working hound.
-Throughout this, Trip pays attention and asks relevant questions. He learns the theoretical maximum is 100, but this is exceedingly rare. A paragon among elves might have Finesse of 100, while the hardiest dwarf might have Endurance of 100, but both are unlikely for either and nigh impossible for humans. Trip is interested that dwarves are a thing. He knows such things appear in books and fairy tales on Earth, and he wonders if other beings out of tales are on Rhule.
-One thing learned through questioning is that while the typical way to increase these attributes is through rigorous hard work, aging, and training, there are rumorsthat the elves have magical means of artificially enhancing attributes. Sydney has never witnessed it and does not know the details.
-Give Banjo at least one other thing to comment on during this sequence.
-The trip comes to an end when Banjo alerts to a scent. Horses and black powder.
-A pair of horsemen crest a hill, cutting off their path. They are rough-looking cavalrymen armed with carbines and sabers. 
-The men are in uniform, and Sydney recognizes them as Corvish Dragoons, but they do not know or recognize him. The lead rider demands Trip hand over his musket and submit to being bound for the ride to the Laird. 
-Trip reacts poorly to the demand, leading the men to draw their carbines. Banjo moves to Trip's side, a low growl rumbling in his chest. We end on a standoff cliffhanger.
+The dragoons arrive at the ridge overlooking the village at dusk. The barricades Hamish and Bider John built are under heavy assault by a massive horde of gnolls and a pile of their bodies are glowing with violet magic and starting to twitch. In the back line stands an indistinct creature in a dark robe, sending purple light from a staff into the pile.
+Lachlan prepares for a heavy cavalry charge down the basin, but notes how horses are easily spooked by dark magic. It'd be a whole lot better if that necromancer were destracted. Trip volunteers to take out the magic-user.
+Trip and Banjo slip through the dark, bypassing the main horde. We see the synergy of Earth-hunting tactics applied to fantasy warfare. Banjo causes a distraction by tearing through the necromancer's bodyguard while Trip sets up a sniper position. He uses his new rifled musket, takes a breath, and puts a lead ball cleanly through the necromancer's chest.
+It doesn't fall, but its magic fails. The undead gnolls collapse into lifeless ash and bone, while the wounded necromancer flees into the night. Trip feels certain it will return eventually. Not for any particular reason, he just knows it in his gut. The regular gnolls panic, moreso when Lachlan and the dragoons thunder down the hill and break the horde in a glorious clash.
+The aftermath is full of camaraderie, smoking powder, and back-slapping. Hamish and the village are saved. Lachlan MacTavish shares a flask of good whiskey with Trip. He asks Trip about his attributes, which Trip admits he doesn't know. He improvises the excuse that Fenshire doesn't do much in the way of testing. Lachlan suggests he get himself tested. If his attributes are sufficient, there's a future for a man of his talent in the Corvish Army.
 """
 
 
