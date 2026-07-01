@@ -686,6 +686,25 @@ Banjo burst out of the brush and crossed the open ground between my rock and the
 The gnoll let out a gargling shriek and tumbled backward. Banjo instantly let go and took off back into the dark, zigzagging through the heather and barking insults that I could only imagine.
 The gnolls, proving that extra muscle doesn't necessarily come with extra brains, took the bait hook, line, and sinker. Infuriated, all but two of them broke rank, snarling as they plunged into the dark to chase my hound.
 It wasn't a perfect clearing of the board, but I reckoned it was the best hand I was going to get. I decided to chance it.
+I tuned out the crackle of muskets and the shrieks of gnolls, letting the whole world shrink down to the front post of that blued steel barrel. I let out a long, steady breath and squeezed the trigger.
+The Strohl-Martin roared. It kicked into my shoulder and spat a thick cloud of sulfurous smoke over the jagged rock. For a fleeting second, it felt like my soul chased right after that heavy lead ball. I could almost trace its path, zipping across that football-field-and-a-half of empty night. It flew true and struck the necromancer dead center.
+A flare of violet light erupted on impact, bright as a busted lantern catching fire, and the robed figure was thrown off its feet. Limbs flailed in every direction as it tumbled to the turf, putting an end to my ridiculous theory that the fiend was flock of ducks standing on each other's shoulders, seeing as there wasn't a single feather drifting on the wind. The twisted staff clattered to the rocks, its malicious glow abruptly snuffed out.
+I lowered the smoking rifle, expecting the job to be well and truly finished. To my shock, it wasn't. 
+The necromancer scrambled back to its feet like a kicked spider. Did that violet flash absorb the worst of my lead ball? I couldn't rightly tell. Without the glow of that staff to light the scene, the deep shadows swallowed the spellcaster whole. Whatever it really was beneath the robes, it didn't linger to bleed or boast. It snatched up its robes and scuttled backward into the dark, vanishing before I could so much as reach for my powder horn. It left me with a mighty uneasy feeling, the kind that says you ain't seen the last of a bad penny.
+There was a silver lining. Down at the barricades, the undead gnolls that had been clawing relentlessly at the timber suddenly collapsed into lifeless heaps of rotting meat. The puppeteer had dropped his strings. 
+Up on the ridge, a booming roar split the night. "For the Bannoch! Strike them down!"
+The dragoons thundered down the hillside. A magnificent wave of pounding hooves swept towards the attacking gnolls. With the sudden collapse of their undead meat-shields and the cowardly flight of their leader, the raiders completely lost their nerve. They broke and ran, but even hyena-men can't outrun a galloping horse. Heavy sabers flashed in the moonlight, and it was all over except for the dying.
+I slung the rifle over my shoulder and picked my way down from my rocky perch, feeling the ache in my bones settle in proper after far too long without rest. By the time my boots hit the turf, a familiar shape came trotting out of the dark. Banjo didn't have a scratch on him, though he looked mighty smug as he wagged his tail.
+*Like I told you, Trip,* the hound projected a voice practically dripping with satisfaction. *I ain't no garden-variety coon hound.*
+"I reckon you've proved that beyond a shadow of a doubt, buddy," I told him, giving his velvety ears a rough scratch. "You're one of a kind."
+We strolled down into the basin and slipped behind the barricades just as the dragoons were finishing up their pursuit. The militia boys were cheering and clapping each other on the back, and when they saw us emerge from the dark, a hearty hurrah went up. Hamish gave me a clap on the shoulder that nearly dislocated my collarbone, and Father Sydney looked at us with a beaming smile full of gratitude. We were welcomed like heroes.
+*Speaking of heroes,* Banjo broke in, d*o heroes get snacks? 'Cause I fought at least a dozen of them giant coons in the dark, and I've worked up a mighty heroic appetite.*
+
+I rubbed my gritty eyes. *I don't know about snacks, buddy,* *but this hero is about ready to fall over dead for want of a nap.*
+Banjo tilted his head to stare at me. *You got your priorities all out of whack, Trip. Since the old moon got himself a girlfriend, I've had like, a billion naps. You ought to be more like a hound.*
+I considered that for a moment.
+"You know what? I reckon you're right."
+With the sounds of victory ringing in the glen and the monsters pushed back into the shadows where they belonged, I decided to take my dog's advice. Tonight, Wayne Coberly was going to find a quiet corner and sleep.
 """,
 )
     
