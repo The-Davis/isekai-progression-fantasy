@@ -611,7 +611,7 @@ Seated at the head of the table was a man who had to be the clan laird. He was a
 He looked up with his spoon hovering halfway to his mouth. He took one look at me and his thick brows knit together like two fighting caterpillars. "What's this, then? Now my dragoons drag blood-painted vagabonds into my dining room while I'm at my supper? And armed? Ye'd better explain—"
 Father Sydney stepped out from behind my shoulder, and the scowl instantly melted from the laird's face. He hastily set his spoon down and wiped his mouth with the back of his hand.
 "Father Sydney!" He bellowed in greeting and hastily pushed his chair back to stand respectfully. "I didna see ye behind the stranger. By the Saints, man, ye look as though ye've run the whole length of the glen! Sit, sit! I'll have the kitchens bring up fresh bowls. We've a venison stew that'll put the life right back in ye." He turned his gaze on the dragoons and the scowl returned. "The father is my guest. Clear off."
-*Trip,* Banjo whined, d*id he say venison? Tell him I've been a very good boy who loves venison. Tell him I'm practically starving to death right here on his rug. You gotta ask him for a bowl. In fact, just ask him for the pot.*
+*Trip,* Banjo whined, *did he say venison? Tell him I've been a very good boy who loves venison. Tell him I'm practically starving to death right here on his rug. You gotta ask him for a bowl. In fact, just ask him for the pot.*
 "You are too kind, Laird MacTavish, but I must respectfully decline," Father Sydney said. "We are not here for hospitality."
 *Noo!* My dog lamented. *The priest is robbing us, Trip! That's like... taxation without representation or something. You gotta stop him!*
 I pointedly ignored him and waited politely while the reverend went through the niceties involved in calling on a noble, though this particular example of the breed didn't seem to stand all that much on ceremony.
@@ -646,7 +646,65 @@ I took the rifle and tested its balance. The weight felt uncannily similar to my
 
 chapter_eleven = Chapter(
     title="Chapter Eleven",
-    content="""
+    content="""If a man tries to convince you that riding a horse is easy, I promise you it's because he's about to try and sell you a horse. I can drive a pickup through a bog and negotiate an ATV up a forty-five-degree incline, but strapping myself to the back of a thousand-pound animal with a mind of its own was a humbling experience. If Father Sydney hadn't given me a hasty lesson on how to hold the reins and shift my weight with the animal's gait, I reckon I'd have snapped my neck before we even cleared the laird's front gates.
+As it was, I managed to stay in the saddle right up until our company crested the ridge overlooking the chapel glen. We arrived just as the sun gave up the ghost for the day. Darkness was getting settled, and the sky bruised purple and dusty yellow as those two peculiar moons hoisted themselves over the horizon.
+Down in the basin, things had gone downright biblical.
+The village was putting up a spirited fight. Flashes of yellow light and the sharp *crack* of smoothbore muskets sparked from behind the makeshift barricades, answering the furious snarls of the horde. There were a sight more gnolls swarming the makeshift walls as we'd seen the night before, however. The heavy-shouldered brutes were throwing themselves at the wood in a frenzy, but what truly chilled my blood was their dead.
+A fair-sized pile of gnoll corpses lying just beyond the barricade, proving the village boys were putting up a stiff fight, but that work was being undone right before them. The dead didn't have the common decency to lay still, having taken to twitching and thrashing something fierce. Their eyes had the same bruised glow I'd witnessed that morning.
+"The necromancer," Father Sydney announced, "is here. But where?"
+I narrowed my eyes and peered through the gloom, searching the backfield. By and by, I spotted him, mostly thanks to the weird purple glow he sported himself.
+Well behind the gnoll lines, a figure shrouded head-to-toe in dark robes stood atop a slight rise. He was holding a twisted staff aloft, and that was the source of the alien light. I squinted through the darkness, trying to get a read on the fella. I couldn't rightly tell if the thing beneath the hood was a mutated gnoll, a wicked human, or a flock of ducks standing on each other's shoulders.
+I'll concede the ducks were a mighty unlikely prospect, but as I'd spent the day learning about elves and mountain dwarves, and I was about to do battle with hyena-men, so I wasn't in a hurry to rule anything out.
+"By Saint Columba's holy bones," Laird Lachlan MacTavish swore, drawing a heavy cavalry saber that hissed cleanly from its scabbard. "The devil's work is being done. Dragoons! Form up! We ride them down!"
+He spurred his mount, as if he meant to lead a charge right down the throat of the valley, but his horse didn't share his enthusiasm. The great beast tossed its heavy head, stamped its hooves, and showed the whites of its eyes, fighting the bit with every ounce of its strength. Down the line, a few other cavalry horses were doing the same, whinnying and dancing in a panic that threatened to unseat half the company. My own borrowed mount let out a nervous whinny and tried to backpedal up the ridge, and I took the opportunity to jump off before she threw me.
+Lachlan grunted in profound frustration as he wrestled his mount back under control. "Steady, ye brute! Steady!" He looked over the line, and his ruddy face turned even redder with anger. "Blast and damnation! It's the necrotic rot on the wind, no doubt. Half these horses are newly broken. They're terrified and rightly so. If we force a charge, the inexperienced mounts will break formation, and we'll lose good men in the chaos."
+I stepped up and gave the stock of my new rifle a gentle pat. "What say you hold your horses a minute and let me cut the head off that snake?"
+Lachlan's bushy eyebrows knotted together. "Ye mean to shoot the mage? Look closely, Mr. Trip. He's nae standing alone."
+I took another look, and sure enough, lurking in the shadows just at the edge of the necromancer's purple glow was a ring of bodyguards. There were at least a dozen, and they weren't your run-of-the-mill gnolls. These fellas were absolute brutes, sporting heavier shoulders, bits and pieces of actual armor, and wicked-looking halberds.
+"A full squad of line infantrymen could take them, aye," Lachlan mused. "And in the broad daylight, I dinna doubt a good marksman could manage to pick the wizard off at a distance. In this dark, ye'd never get close enough to see your iron sights before those brutes caught your scent and tore ye apart. We'll just have to chance the charge."
+"Laird, I've spent my whole life hunting in the hollers... er... fens," I explained. "When the sun goes down back home, it gets so dark you can't find your own nose with both hands. Banjo and I can slip close enough for sure. I'll pick that fella off from a distance, and he won't ever know what hit him."
+"And if his guards catch wind of ye?"
+"Well," I smiled and glanced down at my hound. "Banjo'll see that they don't."
+Lachlan chewed on his lip for a heavy moment, weighing the lives of his men against the confidence of a stranger. "Ten minutes, Mr. Trip," he finally declared. "I give ye ten minutes. If the wizard nae falls by then, I'll chance the charge and damn the horses."
+"Ten minutes is plenty."
+We didn't waste a second and slipped away from the restless horses. We quickly made our way into the basin that housed the village, giving the barricades and the furious fighting a wide berth. The battle, with its crack of musketry, roaring of the gnolls, and frantic shouts of the militia, echoed loudly across the basin, providing convenient cover for our approach.
+The weird purple glow was like a lighthouse guiding us in, but I couldn't make out the bodyguards and their perimeter at all. Banjo was in his element though, so he dropped his nose to the turf and took the point as we drew closer.
+*I got 'em,* Banjo announced. *They're spread out in a ring, thick as fleas on a barn cat. Follow me and mind your step. We go left.*
+*Lead the way, buddy*.
+By and by, Banjo guided me to a jagged spine of rock jutting up from the heather maybe a hundred fifty yards off from the robed figure. It was a difficult climb up the backside of the stone, but I managed to drag myself to the top without dislodging so much as a pebble.
+I settled the barrel of the rifle onto a notch in the stone and pulled the stock snug against my shoulder. Thanks to that unholy purple glow radiating from the robed figure's twisted staff, I had a crystal-clear view of the target and his bodyguards. The latter were constantly sweeping their snouts back and forth to test the wind. I frowned.
+*We got a problem, Banjo*.
+*What, did you forget to load that fancy gun?*
+*No, she's primed. But the second I pull this trigger, the barrel's gonna spit a cloud of smoke thick enough to choke a horse. It'll point them right at this rock.*
+I didn't like my chances. A hundred fifty yards was nothing. The bodyguards would swarm my perch before I could reload even once, let alone scramble down and make a run for the dragoons.
+Banjo's tail thumped. *That ain't a problem, Trip. I got this. Give me a holler when you're sighted in.*
+*Be careful, buddy*. *Those fellas ain't your garden-variety coons.*
+*Well, I ain't your garden-variety coon hound*.
+I settled my cheek against the rifle stock and peered down the barrel. The iron sights lined up beautifully with the robed figure dead center.
+*I'm on him,* I thought.
+Banjo burst out of the brush and crossed the open ground between my rock and the bodyguard's perimeter with astonishing speed. He unleashed a thunderous bay that drowned out the sounds of battle, not bothering with a lick of stealth. He snapped his jaws viciously around the heel of the nearest brute and dug his teeth in deep.
+The gnoll let out a gargling shriek and tumbled backward. Banjo instantly let go and took off back into the dark, zigzagging through the heather and barking insults that I could only imagine.
+The gnolls, proving that extra muscle doesn't necessarily come with extra brains, took the bait hook, line, and sinker. Infuriated, all but two of them broke rank, snarling as they plunged into the dark to chase my hound.
+It wasn't a perfect clearing of the board, but I reckoned it was the best hand I was going to get. I decided to chance it.
+I tuned out the crackle of muskets and the shrieks of gnolls, letting the whole world shrink down to the front post of that blued steel barrel. I let out a long, steady breath and squeezed the trigger.
+The Strohl-Martin roared. It kicked into my shoulder and spat a thick cloud of sulfurous smoke over the jagged rock. For a fleeting second, it felt like my soul chased right after that heavy lead ball. I could almost trace its path, zipping across that football-field-and-a-half of empty night. It flew true and struck the necromancer dead center.
+A flare of violet light erupted on impact, bright as a busted lantern catching fire, and the robed figure was thrown off its feet. Limbs flailed in every direction as it tumbled to the turf, putting an end to my ridiculous theory that the fiend was flock of ducks standing on each other's shoulders, seeing as there wasn't a single feather drifting on the wind. The twisted staff clattered to the rocks, its malicious glow abruptly snuffed out.
+I lowered the smoking rifle, expecting the job to be well and truly finished. To my shock, it wasn't. 
+The necromancer scrambled back to its feet like a kicked spider. Did that violet flash absorb the worst of my lead ball? I couldn't rightly tell. Without the glow of that staff to light the scene, the deep shadows swallowed the spellcaster whole. Whatever it really was beneath the robes, it didn't linger to bleed or boast. It snatched up its robes and scuttled backward into the dark, vanishing before I could so much as reach for my powder horn. It left me with a mighty uneasy feeling, the kind that says you ain't seen the last of a bad penny.
+There was a silver lining. Down at the barricades, the undead gnolls that had been clawing relentlessly at the timber suddenly collapsed into lifeless heaps of rotting meat. The puppeteer had dropped his strings. 
+Up on the ridge, a booming roar split the night. "For the Bannoch! Strike them down!"
+The dragoons thundered down the hillside. A magnificent wave of pounding hooves swept towards the attacking gnolls. With the sudden collapse of their undead meat-shields and the cowardly flight of their leader, the raiders completely lost their nerve. They broke and ran, but even hyena-men can't outrun a galloping horse. Heavy sabers flashed in the moonlight, and it was all over except for the dying.
+I slung the rifle over my shoulder and picked my way down from my rocky perch, feeling the ache in my bones settle in proper after far too long without rest. By the time my boots hit the turf, a familiar shape came trotting out of the dark. Banjo didn't have a scratch on him, though he looked mighty smug as he wagged his tail.
+*Like I told you, Trip,* the hound projected a voice practically dripping with satisfaction. *I ain't no garden-variety coon hound.*
+"I reckon you've proved that beyond a shadow of a doubt, buddy," I told him, giving his velvety ears a rough scratch. "You're one of a kind."
+We strolled down into the basin and slipped behind the barricades just as the dragoons were finishing up their pursuit. The militia boys were cheering and clapping each other on the back, and when they saw us emerge from the dark, a hearty hurrah went up. Hamish gave me a clap on the shoulder that nearly dislocated my collarbone, and Father Sydney looked at us with a beaming smile full of gratitude. We were welcomed like heroes.
+*Speaking of heroes,* Banjo broke in, d*o heroes get snacks? 'Cause I fought at least a dozen of them giant coons in the dark, and I've worked up a mighty heroic appetite.*
+
+I rubbed my gritty eyes. *I don't know about snacks, buddy,* *but this hero is about ready to fall over dead for want of a nap.*
+Banjo tilted his head to stare at me. *You got your priorities all out of whack, Trip. Since the old moon got himself a girlfriend, I've had like, a billion naps. You ought to be more like a hound.*
+I considered that for a moment.
+"You know what? I reckon you're right."
+With the sounds of victory ringing in the glen and the monsters pushed back into the shadows where they belonged, I decided to take my dog's advice. Tonight, Wayne Coberly was going to find a quiet corner and sleep.
 """,
 )
     
@@ -661,4 +719,5 @@ act_one_chapters: list[Chapter] = [
     chapter_eight,
     chapter_nine,
     chapter_ten,
+    chapter_eleven,
 ]
