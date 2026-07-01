@@ -668,6 +668,24 @@ I took another look, and sure enough, lurking in the shadows just at the edge of
 Lachlan chewed on his lip for a heavy moment, weighing the lives of his men against the confidence of a stranger. "Ten minutes, Mr. Trip," he finally declared. "I give ye ten minutes. If the wizard nae falls by then, I'll chance the charge and damn the horses."
 "Ten minutes is plenty."
 We didn't waste a second and slipped away from the restless horses. We quickly made our way into the basin that housed the village, giving the barricades and the furious fighting a wide berth. The battle, with its crack of musketry, roaring of the gnolls, and frantic shouts of the militia, echoed loudly across the basin, providing convenient cover for our approach.
+The weird purple glow was like a lighthouse guiding us in, but I couldn't make out the bodyguards and their perimeter at all. Banjo was in his element though, so he dropped his nose to the turf and took the point as we drew closer.
+*I got 'em,* Banjo announced. *They're spread out in a ring, thick as fleas on a barn cat. Follow me and mind your step. We go left.*
+*Lead the way, buddy*.
+By and by, Banjo guided me to a jagged spine of rock jutting up from the heather maybe a hundred fifty yards off from the robed figure. It was a difficult climb up the backside of the stone, but I managed to drag myself to the top without dislodging so much as a pebble.
+I settled the barrel of the rifle onto a notch in the stone and pulled the stock snug against my shoulder. Thanks to that unholy purple glow radiating from the robed figure's twisted staff, I had a crystal-clear view of the target and his bodyguards. The latter were constantly sweeping their snouts back and forth to test the wind. I frowned.
+*We got a problem, Banjo*.
+*What, did you forget to load that fancy gun?*
+*No, she's primed. But the second I pull this trigger, the barrel's gonna spit a cloud of smoke thick enough to choke a horse. It'll point them right at this rock.*
+I didn't like my chances. A hundred fifty yards was nothing. The bodyguards would swarm my perch before I could reload even once, let alone scramble down and make a run for the dragoons.
+Banjo's tail thumped. *That ain't a problem, Trip. I got this. Give me a holler when you're sighted in.*
+*Be careful, buddy*. *Those fellas ain't your garden-variety coons.*
+*Well, I ain't your garden-variety coon hound*.
+I settled my cheek against the rifle stock and peered down the barrel. The iron sights lined up beautifully with the robed figure dead center.
+*I'm on him,* I thought.
+Banjo burst out of the brush and crossed the open ground between my rock and the bodyguard's perimeter with astonishing speed. He unleashed a thunderous bay that drowned out the sounds of battle, not bothering with a lick of stealth. He snapped his jaws viciously around the heel of the nearest brute and dug his teeth in deep.
+The gnoll let out a gargling shriek and tumbled backward. Banjo instantly let go and took off back into the dark, zigzagging through the heather and barking insults that I could only imagine.
+The gnolls, proving that extra muscle doesn't necessarily come with extra brains, took the bait hook, line, and sinker. Infuriated, all but two of them broke rank, snarling as they plunged into the dark to chase my hound.
+It wasn't a perfect clearing of the board, but I reckoned it was the best hand I was going to get. I decided to chance it.
 """,
 )
     
