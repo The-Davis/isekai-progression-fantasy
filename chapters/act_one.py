@@ -678,7 +678,7 @@ I settled the barrel of the rifle onto a notch in the stone and pulled the stock
 *No, she's primed. But the second I pull this trigger, the barrel's gonna spit a cloud of smoke thick enough to choke a horse. It'll point them right at this rock.*
 I didn't like my chances. A hundred fifty yards was nothing. The bodyguards would swarm my perch before I could reload even once, let alone scramble down and make a run for the dragoons.
 Banjo's tail thumped. *That ain't a problem, Trip. I got this. Give me a holler when you're sighted in.*
-*Be careful, buddy*. *Those fellas ain't your garden-variety coons.*
+*Be careful, buddy. Those fellas ain't your garden-variety coons.*
 *Well, I ain't your garden-variety coon hound*.
 I settled my cheek against the rifle stock and peered down the barrel. The iron sights lined up beautifully with the robed figure dead center.
 *I'm on him,* I thought.
@@ -699,7 +699,6 @@ I slung the rifle over my shoulder and picked my way down from my rocky perch, f
 "I reckon you've proved that beyond a shadow of a doubt, buddy," I told him, giving his velvety ears a rough scratch. "You're one of a kind."
 We strolled down into the basin and slipped behind the barricades just as the dragoons were finishing up their pursuit. The militia boys were cheering and clapping each other on the back, and when they saw us emerge from the dark, a hearty hurrah went up. Hamish gave me a clap on the shoulder that nearly dislocated my collarbone, and Father Sydney looked at us with a beaming smile full of gratitude. We were welcomed like heroes.
 *Speaking of heroes,* Banjo broke in, d*o heroes get snacks? 'Cause I fought at least a dozen of them giant coons in the dark, and I've worked up a mighty heroic appetite.*
-
 I rubbed my gritty eyes. *I don't know about snacks, buddy,* *but this hero is about ready to fall over dead for want of a nap.*
 Banjo tilted his head to stare at me. *You got your priorities all out of whack, Trip. Since the old moon got himself a girlfriend, I've had like, a billion naps. You ought to be more like a hound.*
 I considered that for a moment.
