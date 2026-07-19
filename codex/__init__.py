@@ -25,6 +25,7 @@ Stick with stuff that'd be at home in 80s D&D or Tolkien rather than in modern "
 
 _entries: list[CodexEntry] = [
     litrpg_elements,
+    fantasy_elements,
 ] + corva_entries + religion_entries
 
 
