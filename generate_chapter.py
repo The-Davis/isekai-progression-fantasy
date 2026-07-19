@@ -1,38 +1,63 @@
 import sys
 sys.dont_write_bytecode = True
-from prompts.chapter import generate_chapter_prompt
 from util.files import write_file
-from style import main_style  
+from codex import get_codex
+from characters import get_characters
+from chapters import get_all_chapters
 
-chapter_outline = """Trip tunes out the noise of the battle, aligns the iron sights on the center of the robed figure's chest, breathes out, and squeezes the trigger.
-It's like he can follow the path of the speeding ball. It zips across the space of the football field and a half of distance and hits the necromancer dead center. Violet light flares from the impact. Limbs flail, putting an end to the robe full of ducks theory seeing as there's no feathers, and the staff clatters to the ground.
-To Trip's shock, the necromancer doesn't die. It scrambles to its feet and starts backing away. Did that flare of light absorb the worst of it? Trip can't really tell, and without the light near the spellcaster, he can no longer make out any details. One good thing has happened: the undead gnolls attacking the barricade collapse back into lifeless heaps. The necromancer scuttles away, leaving Trip with the uneasy feeling that he'll cross paths with this unknown fiend again.
-Up on the ridge, Lachlan bellows a battle cry, and the dragoons thunder down the hill. The regular gnolls, already nervous with their leader fled and their undead meat-shields collapsed, are completely shattered by the cavalry charge. It's a glorious, one-sided clash of steel and black powder against disorganized monsters.
-Trip climbs down from his perch, where he is rejoined by a very smug Banjo who reiterates that he's no garden variety coon hound. Trip agrees. He and the hound stroll into the village, where they're welcomed like heroes.
-Banjo asks if heroes get snacks. Trip, realizing he's been awake since the morning he and Banjo disappeared from Earth, wishes more for a nap. Banjo tells Trip he should prioritize: he himself has taken like, a billion naps since moon got himself a girlfriend. Be more like a hound.
-Trip agrees that this is good advice, and sees about finding a place to catch a few winks.
-We'll end the chapter on that victorious note, unless you can think of a better way to end it.
+
+def generate_chapter_prompt() -> str:
+    output = """You are a creative writing assistant helping me write a chapter of my story.
+This is an isekai progression fantasy story with a male protagonist, and a world that's a mix of magical fantasy and Napoleonic War era tech.
+We are aiming for a mix of the "Cozy Violent" found in "A Soldier's Life" (AlwaysRollsAOne) crossed with some of the gritty adventure of Sharpe's Rifles.
+You are an expert in adventure fantasy and have a deep understanding of storytelling techniques, character development, and worldbuilding.
 """
 
-write_file(generate_chapter_prompt(chapter_outline=chapter_outline, style=main_style))
+    if get_codex():
+        output += "Here are the most relevant details about the world for this specific task:\n"
+        for entry in get_codex():
+            output += entry.about() + "\n"
+
+    if get_characters():
+        output += "Here are some notes about the characters in the story:\n"
+        for character in get_characters():
+            output += character.about() + "\n"
+
+    if get_all_chapters():
+        output += "Here is the story so far:\n"
+        for chapter in get_all_chapters():
+            output += chapter.prompt_entry() + "\n"
+    
+    output += """Now I need you to write the next section. Here is the outline:
+
+
+
+Please write this section following the outline, maintaining consistency with the established world and characters, and using the following writing style:
+For style, please use a first person, past tense narrative voice, from the point of view of our narrator, Trip Coberly.
+Even in dire circumstances, the tone should be that of a classic adventure with a dash of sincere humor. Use a varied sentence structure.
+Employ short, punchy sentences for emotional impact or to punctuate a thought, and contrast these with longer, more complex sentences that weave together description, action, and internal reflection into a single, flowing thought.
+When describing settings, characters, or objects, vary between direct descriptions, flowery and poetic ones, and anthropomorphized where comedic timing is appropriate.
+In times like these, particularly when making observations about social conditions or inserting some humorous levity, we should draw upon Mark Twain.
+In his style, descriptions should be vivid and appeal to the senses but should avoid becoming static or overly dense.
+Mix in some archaic turns of phrase, such as "by and by" where appropriate. These should not overwhelm the reader, but should be present frequently enough to lend older-fashioned charm to the prose.
+Focus on specific, evocative details to make the world feel tangible and grounded, even when events become mysterious or fantastical.
+Dialog is the primary engine for characterization and plot advancement. Each character must possess a highly distinct voice and cadence. If a character's "about" section specifies a speech style, use that. Respect any standard for that character if any appearances are already in previous chapters.
+Dialog should be brisk and often witty, featuring clever banter and verbal sparring, especially between the narrator and his best friend.
+Use dialog to convey essential background information and history in a dynamic way that feels like a natural conversation rather than an info-dump.
+Dialog should sound authentic, employing contractions, interruptions, and hesitations to mimic real speech patterns.
+Keep dialog tags largely simple and unobtrusive, allowing the characters' unique voices to carry the interaction.
+We should lean towards the wit and sincerity of yesteryear in dialog and avoid modern quips, sarcasm, and irony.
+When deciding what details to focus on and which to skim over, consider carefully the details I have provided about the viewpoint character.
+Thank you."""
+    return output
+
+
+write_file(generate_chapter_prompt())
 
 """
 You can stop there and we'll edit before I provide the next section.
 
 
 We'll end the chapter on that note.
-
-
-
-
-
-
-
-
-
-
-They meet up with Hamish, Bider John, and Father Sydney at the village barricades. The village is battered but saved. There is much back-slapping and camaraderie amidst the lingering gunsmoke.
-*   **The Laird's Measure:** Lachlan rides up, dismounts, and heartily offers Trip a pull from his silver flask of fine Bannish whiskey. The laird is thoroughly impressed by Trip's stealth and marksmanship. 
-
 
 """
