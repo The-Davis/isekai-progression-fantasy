@@ -5,12 +5,13 @@ from codex import get_codex
 from characters import get_characters
 from chapters import get_all_chapters
 from outline import get_outline
-
+from constants import STORY_DESCRIPTION
 
 def generate_outline_prompt() -> str:
-    output = """You are a worldbuilding and storytelling assistant helping me, an author, develop my fictional world and story.
-I am working on a planar progression fantasy adventure story with no working title. We're setting up a larger story where Earth is being integrated into a multi-planar economy and society, but our introduction story is much more down-to-Earth.
-Other dimensions are real. Magic is real. The vastness of the cosmos is overwhelming. This is pretty much Planescape/Spelljammer with the labels peeled off and replaced."""
+    output = f"""You are a worldbuilding and storytelling assistant helping me, an author, develop my fictional world and story.
+{STORY_DESCRIPTION}
+
+"""
     
     if get_codex():
         output += "Here are some details about the world our story is set in:\n"

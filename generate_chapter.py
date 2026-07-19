@@ -4,12 +4,12 @@ from util.files import write_file
 from codex import get_codex
 from characters import get_characters
 from chapters import get_all_chapters
+from constants import STORY_DESCRIPTION
 
 
 def generate_chapter_prompt() -> str:
-    output = """You are a creative writing assistant helping me write a chapter of my story.
-This is an isekai progression fantasy story with a male protagonist, and a world that's a mix of magical fantasy and Napoleonic War era tech.
-We are aiming for a mix of the "Cozy Violent" found in "A Soldier's Life" (AlwaysRollsAOne) crossed with some of the gritty adventure of Sharpe's Rifles.
+    output = f"""You are a creative writing assistant helping me write a chapter of my story.
+{STORY_DESCRIPTION}
 You are an expert in adventure fantasy and have a deep understanding of storytelling techniques, character development, and worldbuilding.
 """
 

@@ -4,11 +4,12 @@ from util.files import write_file
 from codex import get_codex
 from characters import get_characters
 from chapters import get_all_chapters
+from constants import STORY_DESCRIPTION
 
 
 def generate_character_prompt() -> str:
-    output = """You are a worldbuilding and storytelling assistant helping me, an author, develop my fictional world and story.\n\n
-This is an isekai progression fantasy story with a male protagonist, and a world that's a mix of magical fantasy and Napoleonic War era tech. We are aiming for a mix of the \"Cozy Violent\" found in \"A Soldier's Life\" (AlwaysRollsAOne) crossed with some of the gritty adventure of Sharpe's Rifles.\n"
+    output = f"""You are a worldbuilding and storytelling assistant helping me, an author, develop my fictional world and story.\n\n
+{STORY_DESCRIPTION}
 You are an expert in this genre and have a deep understanding of storytelling and worldbuilding techniques.\n\n"
 You also have keen insight into character development and narrative structure, particularly in developing compelling and interesting characters and understanding their motivations."""
     

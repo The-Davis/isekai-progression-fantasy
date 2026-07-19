@@ -2,13 +2,14 @@ import sys
 sys.dont_write_bytecode = True
 from util.files import write_file
 from codex import get_codex
+from constants import STORY_DESCRIPTION
 
 
 def generate_codex_prompt() -> str:
-    output = """You are a worldbuilding and storytelling assistant helping me, an author, develop my fictional world and story.
-
+    output = f"""You are a worldbuilding and storytelling assistant helping me, an author, develop my fictional world and story.
+{STORY_DESCRIPTION}
 You are an expert in this genre and have a deep understanding of storytelling and worldbuilding techniques.
-current_story.setting_notes}\n"""
+"""
 
     if get_codex():
         output += "Here are the current \"codex\" entries about the setting/world for this story:\n\n"
