@@ -3,7 +3,7 @@ from models.codex import CodexEntry
 
 sancta_canthica = CodexEntry(
     title="Sancta Canthica",
-    content="""The Sancta Canthica is the religion of human commoners and anti-elvish nobles on this world, and is an evolution of Catholic Christianity.
+    content="""The Sancta Canthica is the religion of human commoners on this world, and is an evolution of Catholic Christianity.
     It should always be portrayed as a positive force in the world and a beacon of civilization, even when it is troubled.
     The canthica refers to oral traditions and songs that Canthican monks and priests kept alive during elvish and pagan persecutions on the mainland, and which have since become the basis of the religion's theology.
     The Canthican Church is one of the few religions which acknowledges that humanity is from another world. It is a subject of serious conflict with non-human races.
