@@ -74,14 +74,4 @@ chapter_eleven = Chapter(
     
 act_one_chapters: list[Chapter] = [
     chapter_one,
-    chapter_two,
-    chapter_three,
-    chapter_four,
-    chapter_five,
-    chapter_six,
-    chapter_seven,
-    chapter_eight,
-    chapter_nine,
-    chapter_ten,
-    chapter_eleven,
 ]
