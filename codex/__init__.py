@@ -14,9 +14,12 @@ The magical attributes are Essence (Power), Dominion (Control), Alacrity (Speed)
 
 fantasy_elements = CodexEntry(
       title="Fantasy Elements of This Story",
-      content="""This world is geographically similar to ours, but is populated by many fantasy races. The elves are dominant in the "Europe" and "Asia" equivalent areas. Orcs dominate Ifria, the "Africa" equivalent areas. Goblins, gnomes, halflings, dwarves, and most other vanilla fantasy creatures can be found.
+      content="""The world, Aratta, is geographically similar to ours, but is populated by many fantasy races. The elves are dominant in the "Europe" and "Asia" equivalent areas.
+Orcs dominate Ifria, the "Africa" equivalent areas. Goblins, gnomes, halflings, dwarves, and most other vanilla fantasy creatures can be found in their own regions, but they are minor powers at best and not considered dominant.
+Humans can be found most everywhere and are dominant nowhere. The only "human" nation is the Corvish Isles, the equivalent to the British Isles, but even then the king is a half-elf.
 There is an "endless dark" of caverns that's basically the underdark. The dark shallows mostly conform to the continents, but the dark deeps can go under the oceans, and these can even extend to magma veins.
-Rarer are other more fantastic monsters you'd find in the D&D SRD. The really "out there" types, like Tieflings and Genasi, do not exist. Stick with stuff that'd be at home in 80s D&D or Tolkien rather than in modern "theater kids/sparkle trolls" D&D.
+Rarer are other more fantastic monsters you'd find in the D&D SRD. The really "out there" types, like Tieflings and Genasi, do not exist.
+Stick with stuff that'd be at home in 80s D&D or Tolkien rather than in modern "theater kids/sparkle trolls" D&D.
 """
 )
 
