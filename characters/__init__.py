@@ -9,29 +9,22 @@ tbd = Character(
 """,
 )
 
-
 talmon_sager = Character(
     name="Tal",
     description="""Tall, yellow-haired Talmon Sager, known as "Tallow" to his annoyance for his resemblance to a candle, is our viewpoint character.
 Tal's first memory, strangely, is of dying and being brought to the Rings of Aratta by a mysterious being. Throughout his youth, he has experienced vague dreams of a warm deific presence urging him to 
-
 **One-Sentence Summary of Tal's Storyline**:
 A reincarnated boy with a connection to a forgotten god must overcome his paralyzing guilt over a deadly secret to survive a murderer's revenge and earn his way into a magical academy.
-
 **Tal's Motivation (Abstract)**:
 He wants to understand his soul's divine connection and experience the wonders of the world. Driven by subconscious memories of Earth and a mysterious God, he feels alienated by the gods of Aratta and craves a sense of divine purpose, freedom, and exploration.
-
 **Tal's Goal (Concrete)**:
 Tal wants to become a delver and escape his destiny of working the logging barges. To do this, he must unlock an ability to channel mana and earn a coveted spot in the kingdom's training lyceum in the capital of Dornon.
-
 **Tal's Conflict**:
 **External:** He is trapped by his social station. His father is constantly away on the logging barges, his mother rules their meager household with an iron hand, and his older brother serves as a constant rival. He lacks the money, status, or magical ability to become the adventuring delver he wishes to be. Later, a murderer actively hunting him becomes a highly lethal roadblock.
 **Internal:** His instinct for self-preservation and fear of ruining his already slim chances at a future. When he witnesses the murder, his fear causes him to stay silent. He battles immense guilt as an innocent man takes the fall, torn between doing what is right (testifying) and keeping himself and his friends safe.
-
 **Tal's Epiphany**:
 Tal realizes one might find adventure through escaping a boring life to seek thrills, but a hero, the sort of man people remember, needs the courage to stand firm against injustice.
 He realizes that he cannot run away from danger. He must become an unshakeable rock and take moral responsibility even when he is terrified.
-
 **One-Paragraph Summary of Tal's Storyline**:
 Born into a poor family in a riverside logging town on the River Varn, Talmon—known to his adoring little sister and close friends as "Tallow"—spends his days dodging his strict mother, clashing with his rival older brother, and playing protective hero to his adoring younger sister.
 His days of cozy riverside mischief and exploring the local sawmills take a dark turn when he and his friends witness a murder and swear a pact of silence out of terror.
@@ -43,21 +36,41 @@ Emerging battered but victorious, Tal claims the dungeon's undiscovered treasure
 """,
 )
 
+tom_sager = Character(
+    name="Long Tom Sager",
+    description="""While he only makes brief appearances in the story, Tal's father, "Long" Tom Sager, is an important figure in Tal's life. The man works as a barge-man for the loggers of their town.
+He is usually downstream with a load of timber. The times when he returns are times of plenty and celebration for the Sager family.
+Tom is the source of Tal's height. He is not a particularly intelligent man, and he has little wisdom to pass on to his sons, but he does his best to set a good example of industry, sober living, and kind authority.""",
+)
+
+martha_sager = Character(
+    name="Martha Sager",
+    description="""Tal's mother is the primary source of Tal's domestic conflict before the murder plot kicks in. She is the one catching him sneaking out, assigning him chores as punishment, and constantly comparing him to his more compliant (and rival) older brother.
+When Tom is away on the river, she is the unquestioned ruler of the roost. However, beneath her scolding exterior is a woman who will defend her children and who worries that Tal's brilliant mind will get him killed in a world that doesn't take kindly to ambitious commoners.
+**One-Sentence Summary of Martha's Storyline**:
+Martha is a stern and overworked matriarch ruling her meager household with an iron hand. She tries everything she can to discipline her daydreaming middle son into accepting a safe, honest life on the logging barges, only to realize she must let him go when he proves he is meant for a life beyond the river.
+**Martha's Motivation (Abstract)**:
+She wants security, moral uprightness, and stability for her family. Martha is driven by an anxious love for her children. Deeply practical and fearful of the deadly perils of the wider world, she believes that hard work, strict discipline, and staying safely within their social station are the only ways to keep her children alive and out of poverty. She loves Tal fiercely, but expresses that love through scolding, chores, and trying to keep him grounded.
+**Martha's Goal (Concrete)**:
+She wants to squash Tal's foolish dreams of magic and adventuring before they get him killed. She wants to force him to behave, stop wandering off to explore caves and ruins, and accept his place working on the river alongside his father and older brother.
+**A few extra flavor notes to keep in mind**:
+*   **The Wooden Spoon:** Martha rules the roost with a heavy sigh and a wooden spoon. She constantly suspects Tal of mischief (usually correctly) but feels a pang of guilt whenever she has to punish him.
+*   **Hidden Softness:** Though she complains endlessly to her neighbors about her "wayward, yellow-haired trial of a boy," she is secretly proud of his sharp wits and is terrified of anything bad actually happening to him. 
+*   **Domestic General:** With her husband away on the barges for long stretches, Martha bears the load of keeping the children fed, clothed, and out of the river, which hardens her demeanor.
+""",
+)
+
 """
 
 
 
 
-Armed only with his wits and his raw, untested magic, Tal turns the dungeon's hazards against the assassin, claiming a hidden cache of treasure that finally secures his passage to Dornon and a seat at the royal training lyceum. 
-
-
-**A One-Paragraph Summary of the Character's Storyline**
-
-In doing so, he claims the dungeon's treasure, finally securing his ticket to the royal training lyceum in Dornon.
 """
-
 
 _characters: list[Character] = [
+    talmon_sager,
+    tom_sager,
+    martha_sager,
 ]
 
 
