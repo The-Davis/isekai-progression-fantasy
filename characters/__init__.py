@@ -110,7 +110,7 @@ Wicket finally steps out of Tal's shadow; using his perfect recall of an ancient
 
 rosamund_winslow = Character(
     name="Rosie Winslow",
-    description="""Rosamund Winslow is a girl who contrasts the muddy, rough-and-tumble of a river logging town. She has inquisitive hazel eyes, faint freckles across her nose that she tries to shade with a parasol, and rich chestnut hair kept in ribbon-tied curls. She favors pristine dresses in pastel blues, yellows, and greens—garments completely unsuited for exploring, though she hitches her skirts up to do just that anyway.
+    description="""Rosamund Winslow is an elfkin girl who contrasts the muddy, rough-and-tumble of a river logging town. This daughter of a human and a half-elf has inquisitive hazel eyes, faint freckles across her nose that she tries to shade with a parasol, gently-pointed ears from her mother's side, and rich chestnut hair kept in ribbon-tied curls. She favors pristine dresses in pastel blues, yellows, and greens—garments completely unsuited for exploring, though she hitches her skirts up to do just that anyway.
 **One-Sentence Summary of Rosie's Storyline**:
 The sheltered daughter of the new logging company foreman arrives from the capital, inadvertently inspiring Tal's heroic ambitions while discovering that the rustic "adventures" she romanticizes carry dangerous consequences.
 **Rosie's Motivation (Abstract)**:
@@ -121,7 +121,7 @@ Before her father's temporary contract ends and they return to Dornon, Rosie wan
 **External:** Her status-conscious father keeps her under a watchful eye, explicitly forbidding her from wandering the woods or fraternizing with "river rats" and common laborers. Furthermore, she lacks any practical survival skills; the actual dangers of the wilderness and the Everdark shallows are far more lethal than the sanitized adventures in her books.
 **Internal:** She battles her own naiveté and timidity. She likes the *idea* of adventure but is easily frightened by the reality of it. When the town is rocked by the murder plot, Rosie is forced to reconcile her romanticized view of the world with its violent realities, ultimately having to find her own brand of courage.
 Extra Flavor Notes for Integrating Rosie into the Story:
-Rosie should be the classic feminine ideal for this era—always wearing a clean ribbon in her hair, perhaps playing a spinet piano her father had shipped up the river, and smelling of lavender. Tal will absolutely try to "show out" for her, walking on fences, doing minor physical stunts and exaggerating his knowledge of the local caves to win her admiration.
+Rosie should be the classic feminine ideal for this era—always wearing a clean ribbon in her hair, perhaps playing a spinet piano her father had shipped up the river, and smelling of lavender. Her father treats her as an extension of the status her late mother imparted him, as elves and half-elves are of higher social class than humans. Tal will absolutely try to "show out" for her, walking on fences, doing minor physical stunts and exaggerating his knowledge of the local caves to win her admiration.
 *   **Tal's Moral Compass:** Rosie has a very black-and-white view of justice. When Tal is agonizing over his guilt and fear about testifying at the murder trial, Rosie can be the unknowing catalyst for his epiphany. He realizes he can't look her in the eye and pretend to be the brave hero she thinks he is if he lets an innocent man hang. He wants to *be* the man she believes him to be.
 *   **Relationship with Wicket:** Wicket probably thinks she's a prissy snob at first, but is quickly won over when he realizes she will sit in rapt attention to listen to his songs and folklore. She might even try to teach Wicket how to write his name, though this should comically fail.
 *   **Relationship with Elsie:** Rosie, having no siblings, likely finds Elsie adorable and treats her like a living doll, giving her hand-me-down ribbons or sneaking her sweets from the foreman's pantry. Elsie, in turn, idolizes Rosie and acts as Tal's wing-woman, constantly (and embarrassingly) telling Rosie how great her older brother is.
@@ -129,9 +129,30 @@ Rosie should be the classic feminine ideal for this era—always wearing a clean
 """,
 )
 
-"""
+
+clarice_cooper = Character(
+    name="Clary Cooper",
+    description="""Clarice Cooper is sturdy, healthy, and  pretty in a very grounded way. She has strong, capable hands from working alongside her father (the town's barrel-maker), and thick chestnut-brown hair that she keeps tied back in a messy braid. She usually smells of toasted oats, river-reeds, and fresh sawdust.
+**One-Sentence Summary of Clary's Storyline:** 
+A pragmatic local girl with a long-standing crush on Tal watches her childhood bond unravel when a wealthy city girl arrives, forcing her to accept that the boy she envisioned a happy future with is destined for a life she cannot share.
+**Clary's Motivation (Abstract)**:
+She desires stability, community, and the quiet of a life well-lived among her own people. Unlike Tal, who looks at the river and wonders where it goes, Clary looks at the river and is grateful for the life it provides. Having grown up in the same muddy streets as Tal, she values loyalty, shared history, and the comfort of the familiar, believing that the best things in life are built through honest work rather than chasing foolish fantasies.
+**Clary's Goal (Concrete)**:
+She wants to eventually marry Tal, combine their families' meager resources, and build a comfortable, respectable life in the logging town. She actively tries to pull Tal back down to earth, poking fun at his grand ambitions in hopes that he will outgrow his "delver phase," accept a job on the logging barges, and settle down with her.
+**Clary's Conflict:** 
+**External:** The arrival of Rosie Winslow, the elfkin girl who captivates Tal and feeds his dreams of magic and adventuring. Clary lacks the money, the delicate beauty, and the worldly education to compete for Tal's attention in the same way. Clary lacks the magic, the wealth, or the desire to follow Tal into the life he desires.
+**Internal:** Her pride prevents her from chasing after a boy who is clearly starry-eyed over someone else. She refuses to change who she is, put on "airs," or pretend to care about magic and ruins just to win him back, masking her quiet heartbreak with biting sarcasm and eye-rolling.
+**Extra Flavor Notes for Integrating Clary into the Story*:
+**Mutual Jealousy:** The dynamic between Clary and Rosie is a great source of friction. Clary is deeply jealous of Rosie's wealth, her pristine dresses, and the way Tal trips over his own feet to impress her. *However*, Rosie is secretly jealous of Clary, too. Rosie envies Clary's easy, unfiltered camaraderie with Tal and Wicket, their shared jokes, and the fact that Clary can effortlessly hike up her skirts and jump across river stones without fear of ruining her clothes or breaking a sweat.
+**Wicket's Confidante:** Because Clary is part of their original trio/social circle, Wicket complains to her about Tal's new obsession with Rosie. Clary and Wicket share a mutual exasperation over Tal acting like an idiot for the new elfkin city girl, giving them a fun, commiserating dynamic.
+**Martha's Favorite:** Martha Sager absolutely adores Clary. In Martha's eyes, Clary is the ideal match for Tal in her eyes thanks to her work ethic and lack of interest in magic. Martha likely invites Clary over for supper frequently, intentionally trying to push the two together, which deeply embarrasses Tal now that he's trying to impress Rosie.
+""",
+)
+
 
 """
+"""
+
 
 _characters: list[Character] = [
     talmon_sager,
@@ -140,6 +161,8 @@ _characters: list[Character] = [
     simmon_sager,
     elsie_sager,
     wicket_tully,
+    rosamund_winslow,
+    clarice_cooper,
 ]
 
 
