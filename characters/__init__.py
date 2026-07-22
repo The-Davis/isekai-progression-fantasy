@@ -82,7 +82,7 @@ She wants to protect her favorite brother from their mother's wooden spoon by he
 
 wicket_tully = Character(
     name="Wicket Tully",
-    description="""Wicket is Tal's best friend and compatriot.
+    description="""Wicket is Tal's best friend and compatriot. He's Talmon's physical counterpart: short and dark-haired with curls and a sallow complexion.
 **One-Sentence Summary of Wicket's Storyline**:
 A superstitious, music-loving boy with a deadbeat father is dragged into a deadly murder plot by his adventurous best friend, forcing him to face his deepest fears of magic and monsters to save their lives.
 **Wicket's Motivation (Abstract)**:
