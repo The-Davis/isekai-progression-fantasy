@@ -60,10 +60,28 @@ She wants to squash Tal's foolish dreams of magic and adventuring before they ge
 """,
 )
 
+simmon_sager = Character(
+    name="Simmon Sager",
+    description="""Simmon, or "Simm", is Tal's smug, rule-abiding older brother who relishes his role as the "perfect son" and constantly attempts to get Tal in trouble.
+**Simm's Motivation (Abstract)**:
+He desires approval, stability, and a sense of superiority over his younger brother. Lacking Tal's imagination and secretly intimidated by the world, Simm embraces the life of the logging town because it offers a clear hierarchy where he can succeed simply by doing as he is told.
+**Simm's Goal (Concrete)**:
+He wants to secure his place as his father's reliable right-hand man on the logging barges, and he actively looks for ways to tattle on Tal—ensuring their mother catches Tal in every rule-breaking scheme so Simm looks better by comparison.
+""",
+)
+
+elsie_sager = Character(
+    name="Elsie Sager",
+    description="""Elsie is Tal's sweet-tempered and loyal younger sister who  serves as his biggest cheerleader and moral anchor. Her unwavering belief in his innate goodness pushes him to actually become the brave hero she already thinks he is.
+**Elsie's Motivation (Abstract)**:
+She wants harmony, love, and joy within her family. She possesses a deep well of empathy and a romanticized view of the world that aligns with Tal's dreams. She wants to see the good in everyone and desperately wants her family to stop arguing.
+**Elsie's Goal (Concrete)**:
+She wants to protect her favorite brother from their mother's wooden spoon by helping him finish his chores and hiding his muddy boots from their mother's sight. She eagerly awaits the stories he brings back from his secret explorations of the local ruins and caves.
+""",
+)
+
+
 """
-
-
-
 
 """
 
@@ -71,6 +89,8 @@ _characters: list[Character] = [
     talmon_sager,
     tom_sager,
     martha_sager,
+    simmon_sager,
+    elsie_sager,
 ]
 
 
