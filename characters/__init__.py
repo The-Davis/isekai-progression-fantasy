@@ -129,7 +129,6 @@ Rosie should be the classic feminine ideal for this era—always wearing a clean
 """,
 )
 
-
 clarice_cooper = Character(
     name="Clary Cooper",
     description="""Clarice Cooper is sturdy, healthy, and  pretty in a very grounded way. She has strong, capable hands from working alongside her father (the town's barrel-maker), and thick chestnut-brown hair that she keeps tied back in a messy braid. She usually smells of toasted oats, river-reeds, and fresh sawdust.
@@ -149,6 +148,26 @@ She wants to eventually marry Tal, combine their families' meager resources, and
 """,
 )
 
+cordin_cooper = Character(
+    name="Cord Cooper",
+    description="""Corwdin Cooper is Clary's older brother by just eleven months (making them "Galish twins," a Corvish term for siblings born within a year of each other). He shares Clary's sturdy build and thick chestnut-brown hair, which he keeps tied back with a leather cord. He has a quiet gaze and moves with a grace unlike Tal's impulsive energy or Wicket's frantic fidgeting. He wears homespun wool and usually smells of pine resin and damp earth.
+**One-Sentence Summary of Cord's Storyline**:
+A pragmatic local boy witnesses a murder after being dragged into an adventure by his ambitious best friend, forcing him to use his wilderness skills to keep them alive and realize that protecting those he loves requires facing the darkness he'd rather avoid.
+**Cord's Motivation (Abstract)**:
+He desires stewardship, localized mastery, and a balance between woodland thrills and domestic peace. Cord loves the idea of delving and adventuring, but only in his own backyard. He feels a connection to the River Varn and the surrounding forests. He doesn't want to conquer the world or see Dornon; he just wants to know every cave, deer trail, and shallow ruin within a ten-mile radius of his home.
+**Cord's Goal (Concrete)**:
+Cord wants to become the town's premier tracker and woodsman. He wants to map the local woods and the safest upper fringes of the Everdark shallows to harvest magically infused timber for his father's coopering business. He wants to make a respectable living locally so he can stay close to his family.
+**Cord's Conflict**:
+**External**: The murder rips him out of his comfortable routine. When they are forced to flee into the wilderness, the burden of actually keeping Tal and Wicket from starving to death or being eaten by local wildlife falls on his shoulders.
+**Internal**: He battles resentment toward Tal for disrupting their peaceful lives. Cord is torn between his loyalty to his friends and his desire to just stay out of trouble. He struggles with the fact that Tal's boundless ambition and Rosie's romanticized foolishness have brought danger to his family's doorstep.
+**Cord's Epiphany**:
+Cord realizes that you cannot build a fence around your home and expect evil to respect the boundary. He learns that true stewardship is about protecting the life you love by stepping into the dark to hunt the monsters before they can reach your home. He also learns to accept that letting his friend go is an act of brotherly love he needs to make.
+**One-Paragraph Summary of Cord's Storyline**:
+While Cord enjoys local delves into shallow caves and ruins, he is frustrated by Tal's obsession with leaving their logging town for the capital. When the trio witnesses a brutal murder, it is Cord's survival skills that keep them alive when they flee into the treacherous wilderness.
+The realities of life on the run strain his friendship with Tal, as Cord resents being dragged into a conspiracy that threatens his family and his sister, Clary. However, when Tal decides they must return to free an innocent man, Cord reluctantly steps up as their protector.
+In the aftermath, as Tal secures his ticket to Dornon, Cord chooses to remain behind, parting ways with Tal on good terms.
+""",
+)
 
 """
 """
@@ -163,6 +182,7 @@ _characters: list[Character] = [
     wicket_tully,
     rosamund_winslow,
     clarice_cooper,
+    cordin_cooper,
 ]
 
 
