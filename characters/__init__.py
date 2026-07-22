@@ -108,6 +108,27 @@ Wicket finally steps out of Tal's shadow; using his perfect recall of an ancient
 """,
 )
 
+rosamund_winslow = Character(
+    name="Rosie Winslow",
+    description="""Rosamund Winslow is a girl who contrasts the muddy, rough-and-tumble of a river logging town. She has inquisitive hazel eyes, faint freckles across her nose that she tries to shade with a parasol, and rich chestnut hair kept in ribbon-tied curls. She favors pristine dresses in pastel blues, yellows, and greens—garments completely unsuited for exploring, though she hitches her skirts up to do just that anyway.
+**One-Sentence Summary of Rosie's Storyline**:
+The sheltered daughter of the new logging company foreman arrives from the capital, inadvertently inspiring Tal's heroic ambitions while discovering that the rustic "adventures" she romanticizes carry dangerous consequences.
+**Rosie's Motivation (Abstract)**:
+She desires intellectual freedom, a sense of wonder, and to experience the "romance" of the world. Raised on a diet of imported books and societal expectations, Rosie yearns to step out of the rigid confines of upper-middle-class expectations and experience the unpolished world for herself. She wants to see the magic and history she has only ever read about.
+**Rosie's Goal (Concrete)**:
+Before her father's temporary contract ends and they return to Dornon, Rosie wants to catalog the local flora, map the nearby shallow ruins, and record the regional folklore. To do this, she enlists Tal and Wicket as her "local guides," treating them as her own personal adventuring party, which gives Tal the perfect excuse to show off, act brave, and spend time with her.
+**Rosie's Conflict**: 
+**External:** Her status-conscious father keeps her under a watchful eye, explicitly forbidding her from wandering the woods or fraternizing with "river rats" and common laborers. Furthermore, she lacks any practical survival skills; the actual dangers of the wilderness and the Everdark shallows are far more lethal than the sanitized adventures in her books.
+**Internal:** She battles her own naiveté and timidity. She likes the *idea* of adventure but is easily frightened by the reality of it. When the town is rocked by the murder plot, Rosie is forced to reconcile her romanticized view of the world with its violent realities, ultimately having to find her own brand of courage.
+Extra Flavor Notes for Integrating Rosie into the Story:
+Rosie should be the classic feminine ideal for this era—always wearing a clean ribbon in her hair, perhaps playing a spinet piano her father had shipped up the river, and smelling of lavender. Tal will absolutely try to "show out" for her, walking on fences, doing minor physical stunts and exaggerating his knowledge of the local caves to win her admiration.
+*   **Tal's Moral Compass:** Rosie has a very black-and-white view of justice. When Tal is agonizing over his guilt and fear about testifying at the murder trial, Rosie can be the unknowing catalyst for his epiphany. He realizes he can't look her in the eye and pretend to be the brave hero she thinks he is if he lets an innocent man hang. He wants to *be* the man she believes him to be.
+*   **Relationship with Wicket:** Wicket probably thinks she's a prissy snob at first, but is quickly won over when he realizes she will sit in rapt attention to listen to his songs and folklore. She might even try to teach Wicket how to write his name, though this should comically fail.
+*   **Relationship with Elsie:** Rosie, having no siblings, likely finds Elsie adorable and treats her like a living doll, giving her hand-me-down ribbons or sneaking her sweets from the foreman's pantry. Elsie, in turn, idolizes Rosie and acts as Tal's wing-woman, constantly (and embarrassingly) telling Rosie how great her older brother is.
+*   **Martha's View:** Martha Sager would be conflicted by Rosie. On one hand, she demands Tal show the girl the utmost respect due to her father's station. On the other hand, she resents Rosie for putting "airs and foolishness" into Tal's head and making him dream of a life in Dornon that Martha feels he can never safely achieve.
+""",
+)
+
 """
 
 """
