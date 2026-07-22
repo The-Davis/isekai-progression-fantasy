@@ -80,6 +80,33 @@ She wants to protect her favorite brother from their mother's wooden spoon by he
 """,
 )
 
+wicket_tully = Character(
+    name="Wicket Tully",
+    description="""Wicket is Tal's best friend and compatriot.
+**One-Sentence Summary of Wicket's Storyline**:
+A superstitious, music-loving boy with a deadbeat father is dragged into a deadly murder plot by his adventurous best friend, forcing him to face his deepest fears of magic and monsters to save their lives.
+**Wicket's Motivation (Abstract)**:
+He desires an escape from his miserable home life. He uses stories, songs, and superstitions as a shield against the world and his father's neglect. Deep down, he yearns for the warmth and stability of a real family, which he vicariously experiences by shadowing Tal and spending time at the Sager household.
+**Wicket's Goal (Concrete)**: 
+While not afraid of throwing hands against boys twice his size, Wicket wants to survive his childhood without getting eaten by a monster or cursed by a witch, and eventually earn a cushy position as a resident bard in a warm tavern. To do this, he actively tries to talk Tal out of his foolish dreams of magic and delving, hoping to keep his best friend safely grounded in their mundane but familiar hometown.
+**Wicket's Conflict**:
+**External:** His father is the town drunk, meaning Wicket lives in abject poverty and relies on scraps and the charity of Tal's mother, Martha. Furthermore, he is severely hindered by his illiteracy and inability to do basic math. Later, he is hunted by a very real murderer and forced into the Everdark, bringing him face-to-face with the hazards he has spent his whole life singing cautionary tales about.
+**Internal:** His deep-seated superstitions paralyze him whenever magic or monsters are involved. Wicket wears a dozen protective charms (most of them useless junk like river-stones and dried frog bones) and is terrified of the "evil eye." He deeply fears that he is destined to be a worthless, cowardly failure like his father, and worries that when the time comes, his terror will cause him to abandon Tal.
+**Wicket's Epiphany**:
+He realizes that the legendary heroes in his favorite songs were terrified, ordinary people who stepped forward anyway for the sake of the people they loved. He also learns that the ancient lore, nursery rhymes, and songs he thought were just "tavern fluff" hold practical power in the dangerous world of Aratta, proving he isn't just a useless tagalong.
+**One-Paragraph Summary of Wicket's Storyline**:
+Wicket Tully is the son of the town drunk, a boy who compensates for his mother's death and his father's neglect by filling his head with every song, myth, and fireside superstition he can memorize from the passing river bargemen.
+While he is hopeless at reading or doing basic math, he can perfectly recall a ballad or a piece of local lore after hearing it only once. He acts as a colorful, bardic counterpart to his best friend Tal, though he is terrified of Tal's ambitions regarding magic and the Everdark.
+When he and Tal witness a brutal murder, Wicket's terror drives him to beg Tal for their pact of silence, desperate to keep the killer's gaze off them.
+When the boys flee into the wilderness, Wicket's superstitions pale in comparison to the very real dangers of starvation. When Tal's conscience demands they return to save a framed man, Wicket reluctantly follows his best friend back into the jaws of danger.
+When the escaped killer returns months later and hunts the boys into the magically active, monster-filled Everdark shallows, Wicket is trapped in his literal worst nightmare.
+Wicket finally steps out of Tal's shadow; using his perfect recall of an ancient dwarven song about the cavern's echoes, he helps Tal lay a trap that defeats their pursuer, proving he is no coward and earning his own ticket to Dornon alongside his best friend.
+**Extra Flavor Notes for Wicket**:
+*   **The Superstitions:** Wicket can be a great vehicle for worldbuilding. Instead of info-dumping, you can have Wicket frantically reciting Corvish superstitions: *"Don't whistle near a cave mouth, Tal, you'll wake the knockers!"* or *"Cross your fingers when you mention the Everdark, or the shadows will hear you."*
+*   **The Foil to Simm:** While Simm (Tal's brother) is a rule-abiding kiss-up with a stable home who secretly resents Tal, Wicket is a rule-breaking outcast with a broken home who deeply loves Tal. This creates a great dynamic where Wicket is a better "brother" to Tal than his actual brother.
+*   **Elsie's Ally:** Because Wicket practically lives at the Sager house to avoid his own father, he and Elsie likely have a very sweet relationship. He sings her the songs he learns on the docks, and she likely sneaks him extra food when Martha isn't looking (though Martha definitely knows and pretends not to notice, feeling pity for the motherless boy).
+""",
+)
 
 """
 
@@ -91,6 +118,7 @@ _characters: list[Character] = [
     martha_sager,
     simmon_sager,
     elsie_sager,
+    wicket_tully,
 ]
 
 
