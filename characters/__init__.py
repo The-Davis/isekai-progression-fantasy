@@ -185,9 +185,37 @@ Hollis makes the ideal patsy for the real killer. He owns an array of sharp wood
 """,
 )
 
+jasper_moray = Character(
+    name="Jasper Moray",
+    description="""Jasper is a tall, lean man in his thirties. He wears fancy slacks, a plum-colored pinstripe vest, and a leather bandolier slotted with a few low-grade mana crystals.
+With a pair of wire-rimmed spectacles and a neatly trimmed goatee, he looks more like a roguish scholar or a traveling gambling dandy than a mage, but he does have a bit of hedge wizardry about him.
+**One-Sentence Summary of Jasper's Storyline:**
+A charismatic but morally flexible hedge wizard arrives in a quiet logging town to unearth a forgotten magical artifact, only to be betrayed and murdered during a midnight grave-robbing, unwittingly thrusting the local boys who idolized him into a deadly conspiracy.
+**How He Fits the Story (Brief Context):**
+*   **The Sager Household:** He arrives on Long Tom's returning logging barge and rents Martha's spare room. Martha tolerates him because he pays in silver, has charming manners, and wipes his boots before entering.
+*   **Tal's Idol:** He is absolute catnip to Tal. Jasper is just boastful enough to indulge the boy, perhaps showing off by channeling a bit of mana to light his pipe or floating a coin across his knuckles. He represents everything Tal wants: magic, freedom, and worldly knowledge.
+*   **The Murder:** Jasper is smart but greedy. Tracing a piece of obscure Corvish lore to the town's graveyard, he decides to keep his prize off the official Kingdom ledgers. He hires Old Man Hollis (who is too drunk to ask questions) and Goblin Dob (a dangerous local scallywag) to do the heavy digging. When the artifact is pulled from the dirt, Goblin Dob slits Jasper's throat for it, leaving Hollis covered in blood to take the fall while Tal, Wicket, and Cord watch in terror from the bushes.
 """
-"""
+)
 
+goblin_dob = Character(
+    name="Goblin Dob",
+    description="""Urian Dobbin, universally known as "Goblin Dob", has unnaturally long, spindly arms and bandy, bowed legs that make him walk with a loping, side-to-side gait.
+Despite his awkwardness on the ground, his crooked limbs possess immense strength, allowing him to scale the massive pines with squirrel-like speed.
+He has a sallow, leathery complexion, sparse and greasy dark hair, and a mouth full of yellowed teeth. His pale, beady eyes are constantly shifting, and he always smells of sour sweat, cheap chewing tobacco, and pine tar.
+To the local children, he is a walking nightmare.
+**One-Sentence Summary of Dob's Storyline**:
+A cruel, nimble-limbed logger driven by festering greed murders a visiting hedge wizard for a magical artifact, eventually returning to ruthlessly hunt the local boys who witnessed his crime into the perilous depths of the Everdark.
+**One-Paragraph Summary of Dob's Storyline**:
+"Goblin Dob" is a bitter, outcast logger whose unparalleled tree-topping skills are the only reason the town tolerates his vile temper and his nasty habit of terrorizing children.
+When hired as muscle by the hedge wizard Jasper Moray for a secret midnight excavation in the local graveyard, Dobbin's greed overtakes him; he slits Moray's throat to steal the unearthed artifact, leaving the blacked-out Old Man Hollis covered in blood to take the fall.
+Though Dobbin initially escapes town with his stolen prize, he blames Tal and his friends for testifying and returns months later to silence them permanently.
+Stalking the boys into the magically active Everdark shallows, Dobbin transitions from a cruel town bully into a relentless predator, ultimately meeting his end when the boys use their wits to turn the dungeon's own hazards against him.
+""",
+)
+
+"""
+"""
 
 _characters: list[Character] = [
     talmon_sager,
@@ -200,6 +228,8 @@ _characters: list[Character] = [
     clarice_cooper,
     cordin_cooper,
     hollis_tweed,
+    jasper_moray,
+    goblin_dob,
 ]
 
 
