@@ -47,6 +47,7 @@ martha_sager = Character(
     name="Martha Sager",
     description="""Tal's mother is the primary source of Tal's domestic conflict before the murder plot kicks in. She is the one catching him sneaking out, assigning him chores as punishment, and constantly comparing him to his more compliant (and rival) older brother.
 When Tom is away on the river, she is the unquestioned ruler of the roost. However, beneath her scolding exterior is a woman who will defend her children and who worries that Tal's brilliant mind will get him killed in a world that doesn't take kindly to ambitious commoners.
+To keep coin flowing, Martha rents out one room. The various tenants are subjects of interest in a couple of chapters. Early on, a professional delver captures Tal's imagination. Later, an adventuring wizard does the same, though the wizard will be our murder victim.
 **One-Sentence Summary of Martha's Storyline**:
 Martha is a stern and overworked matriarch ruling her meager household with an iron hand. She tries everything she can to discipline her daydreaming middle son into accepting a safe, honest life on the logging barges, only to realize she must let him go when he proves he is meant for a life beyond the river.
 **Martha's Motivation (Abstract)**:
@@ -169,6 +170,21 @@ In the aftermath, as Tal secures his ticket to Dornon, Cord chooses to remain be
 """,
 )
 
+hollis_tweed = Character(
+    name="Hollis Tweed",
+    description="""Old Man Hollis is in his mid-fifties but looks a decade older due to a lifetime of cheap ale and harsh weather.
+He has leathery skin, a bushy graying beard, and watery blue eyes. He is missing the top joint of his left ring finger (an accident from his logging days).
+He wears a patched wool coat with pockets that bulge with whittling knives, half-finished wooden figurines, fishing tackle, and a dented tin flask.
+**One-Sentence Summary of Hollis's Storyline**:
+A harmless old woodcarver and town drunk becomes the perfect scapegoat for a brutal murder, relying entirely on the courage of a guilt-ridden boy to save him from the gallows.
+**Brief Character Details:**
+Hollis is a fixture on the docks of the River Varn, usually found dozing with a fishing pole in his hand. He is largely ignored by the adults but beloved by the town's children.
+He happily trades his wooden carvings for minor favors, like the boys catching him the best fishing worms or Elsie fetching him a fresh tankard from the tavern.
+Tal's father, "Long" Tom, acts as Hollis's unofficial agent. Because Hollis is too drunk (and lazy) to travel, Tom takes Hollis's beautiful carvings downstream on the logging barges to sell in the larger markets, bringing back enough coin to keep Hollis comfortably inebriated until the next barge departs.
+Hollis makes the ideal patsy for the real killer. He owns an array of sharp woodworking blades, has zero social standing, and frequently blacks out on the riverbank with no memory of his nights. When he wakes up near the scene of the crime, covered in the blood of the victim, the kind-hearted man throws himself on the mercy of the King's justice in the false belief that he murdered a man.
+""",
+)
+
 """
 """
 
@@ -183,6 +199,7 @@ _characters: list[Character] = [
     rosamund_winslow,
     clarice_cooper,
     cordin_cooper,
+    hollis_tweed,
 ]
 
 
