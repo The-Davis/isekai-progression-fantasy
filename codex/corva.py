@@ -2,14 +2,12 @@ from models.codex import CodexEntry
 
 corvish_isles = CodexEntry(
     title="Corvish Isles",
-    content="""The Corvish Isles are this world's version of the British Isles. Corva is the largest of these islands, and it is also called "Corvland".
-    Corvland is the heart of the Corvish Kingdom and home to the Corvish ethnolinguistic group, which is by far the largest population in the isles. It is a land of rolling green hills, dense oak forests, and sprawling cities.
-    The capital city of Dornon sits in the northern-central region along the wide, mud-brown River Varn.
-    Corvland is historically the seat of royal power, and its MPs dominate the House of Commons. The northern part of Corvland is the Bannoch, home to the Bannish ethnolinguistic group.
-    The Bannish Lowlands are industrious, boasting textile mills that rival Dornon's output. Its Highlands are a wild, romantic expanse of sweeping glens, deep, freezing lochs, and jagged, snow-capped mountains. Bannish Highlanders are fearsome, fiercely loyal infantry regiments who march to war to the drone of Bannish bagpipes.
-    The mountainous western expanse of Corvland is Rhondda Taf, home to the Rhondish ethnolinguistic group. It is a land of deep, rain-swept valleys, jagged peaks, and ancient stone. Rhondda Taf is the mining capital of Corva; its mountains are dotted with colossal headframes where generations of Rhondish men have dug out iron, slate, and coal reserves. The Rhondish people are proud, culturally distinct, and highly musical.
-The island of Galidon is often called "The Emerald Isle" for its vibrant greenery. It is the most fertile of the Corvish Isles. Galidon is predominantly agricultural. It produces the famous "Galish Wool" and provides much of the Kingdom's basic foodstuffs. Historically, Galidor had a fraught, rebellious relationship with the Crown, having endured several brutal pacifications in centuries past. Today, it is firmly under Crown rule, though resentments still simmer in its poorer, western counties, making it a volatile voting bloc in the House of Commons.
-The Corvish Isles are almost exclusively human. Non-humans are seldom welcome, but they can be found in ports. Inland, they're hunted as vagabonds.
+    content="""The Corvish Isles are the ringworld's version of the British Isles. Corva is the largest of these islands, and it is also called "Corvland".
+Corvland is the heart of the Corvish Kingdom and home to the Corvish ethnolinguistic group, which is by far the largest population in the isles. It is a land of rolling green hills, dense oak forests, and sprawling cities.
+The capital city of Dornon sits in the northern-central region along the wide, mud-brown River Varn. Corvland is historically the seat of royal power.
+The northern part of Corvland is the Bannoch, home to the Bannish ethnolinguistic group. The Bannish Lowlands are industrious, boasting textile mills that rival Dornon's output. Its Highlands are a wild, romantic expanse of sweeping glens, deep, freezing lochs, and jagged, snow-capped mountains.
+The mountainous western expanse of Corva is Rhondda Taf, home to the Rhondish ethnolinguistic group. It is a land of deep, rain-swept valleys, jagged peaks, and ancient stone. Rhondda Taf is the mining capital of Corva, and generations of Rhondish men have dug out iron, slate, and coal reserves.
+The island of Galidon is often called "The Emerald Isle" for its vibrant greenery. It is the most fertile of the Corvish Isles. Galidon is predominantly agricultural. It produces wool and much of the Kingdom's basic foodstuffs.
 """
 )
 

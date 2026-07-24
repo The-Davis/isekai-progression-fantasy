@@ -2,21 +2,29 @@ import sys
 sys.dont_write_bytecode = True
 from chapters import get_all_chapters
 from util.files import write_file
+from constants import STORY_DESCRIPTION
 
-output = """
-I am working on a Space Opera/Fantasy pseudo-19th-century colonialist military adventure story story with no working title. Have a read:
+output = f"""You are a worldbuilding and storytelling assistant helping me, an author, develop my fictional world and story.
+{STORY_DESCRIPTION}
 """
 
 for chapter in get_all_chapters():
     output += chapter.prompt_entry() + "\n"
 
-output += """From this, I'd like you to pick a scene that appeals to you and prepare an AI image prompt describing it. Please be sure to include style guidelines that would result in a Bruce Timm style of cartoon art, i.e.  a distinctive, highly stylized 2D animation aesthetic that blends classic American comic books, 1940s–1950s cartoon elegance, and Art Deco influences into a sleek, modern heroic look.
-Line work: Bold, confident black ink outlines with varying thickness (thicker on outer contours, thinner on interior details). Clean, graphic, and economical — no sketchy or painterly lines.
-Shapes and proportions: Highly exaggerated, idealized anatomy. Males have massive shoulders, narrow waists, long limbs, and square jaws. Females feature extreme hourglass figures (very small waists, broad hips, long legs) with elegant, stylized faces. Heads are relatively small compared to bodies.
-Color and shading: Flat, vibrant, limited color palettes with strong saturation. Minimal cell shading or simple gradients. Heavy use of solid blocks of color and high contrast. Dramatic, noir-influenced lighting with deep shadows and strong rim lighting.
-Facial features: Large, expressive eyes (often almond-shaped or angular), minimal nose detail (often just a simple L-shape or shadow), strong eyebrows, and stylized mouths. Faces feel both heroic and slightly retro.
-Overall aesthetic: Streamlined, graphic, and iconic. Think "comic book come to life" with a 1990s-early 2000s animation sensibility — elegant yet powerful, sexy without being crude, and always prioritizing strong silhouettes and readability.
-Texture and finish: Smooth, cel-shaded surfaces with almost no texture or painterly brushwork. Everything feels crisp and illustrative.
+output += """Your task is to create an image prompt for a scene from a chapter in the story.
+
+Your output should read like so:
+
+"Please create an image of a highly detailed fantasy scene.
+DESCRIPTION: [describe the specific moment in your words, including character poses, expressions, outfits, expression, accessories, and general appearance].
+SETTING: [This is at your discretion.]
+LIGHTING: [This is at your discretion.]
+ART STYLE: Bruce Timm style, 1990s classic American 2D animation. Bold, confident black ink outlines with varying thickness. Clean, graphic, and economical linework with no sketchy or painterly lines. Minimal nose detail with a simple L-shaped shadow, strong eyebrows, stylized mouth. Flat, vibrant, limited color palette with strong saturation. Heavy use of solid blocks of color and high contrast. Dramatic lighting. Smooth, cel-shaded surfaces with crisp, illustrative finish. Sleek, modern look."
+
+Fill out the character DESCRIPTION, SETTING, and LIGHTING based on your read of the chapter and scene I provided.
+
+The picture for this should chapter one, where the viewpoint character, Tal, meets the mysterious fire.
 
 Thank you!"""
+
 write_file(output)
