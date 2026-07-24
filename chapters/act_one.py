@@ -37,6 +37,21 @@ THERE IS NO 'BACK,' the fire replied instantly. PROTOCOLS DO NOT EXIST FOR REVER
 I floated there in my silvery, thought-spun body and processed that while the fire quietly flickered through its process. While this afterlife operated by an abandoned computer program was a far cry from any religion I'd come across, it tickled a memory of my grandson. In my declining years, he'd sit by my armchair and tell me about the books he was reading. He'd been obsessed with a niche genre where ordinary people died and were reborn into fantastical worlds filled with magic and monsters. I hadn't really understood the appeal at the time, but now, with a new life opening up before me, I got it.
 I'd been very imaginative in my youth, and though my past life was a fading dream, I remembered how I'd let myself get tangled in the serious business of living and lost the wonder. Even if I'd gained a lifetime of useful skills, had I misplaced something important along the way? Was this a second chance to capture something meaningful?
 Or, better, could I use some of those skills. I was an engineer. I was a builder of systems, a man who possessed a talent for bringing disparate pieces into harmony. Looking at this lonely system, my mind itched with to put it right. The mystery of why it had broken down and abandoned this sentient flame entity for ten thousand years was a puzzle begging me to solve it.
+"When you send me in there, can I fix what's broken?" I asked. "Can I help you?"
+The fire flared in a rapid sequence of blues and golds. UNKNOWN, it admitted. IT HAS NEVER BEEN ATTEMPTED. For a moment, the synthetic voice sounded moved. THANK YOU FOR THE QUERY, ASPIRANT. THERE ARE OTHERS OF MY KIND OPERATING WITHIN THE WORLDCRAFT, DESIGNED TO GUIDE ASPIRANTS. SEEK THEM OUT AFTER YOU REACH YOUR MAJORITY. THEY MAY POSSESS THE DIAGNOSTICS YOU REQUIRE.
+Before I could ask what a 'majority' meant in this context, the fire flared back to its customary orange with a surge of heat.
+VIABLE MATCH LOCATED. A VIABLE ORGANIC VESSEL IS FORMING. IMPRINTING YOUR PATTERN UPON IT.
+An organic vessel. Reaching my majority. I had an inkling of what was about to happen.
+ASTRAL TETHER INITIALIZED.
+A gleaming silver cord erupted from the center of my form and shot off into the darkness, stretching out toward infinity and connecting my spectral form to some unimaginably distant point in the black.
+TRANSMITTING, the fire boomed. MAY YOU RISE TO THE OCCASION, ASPIRANT.
+The silver cord pulled taut with a tremendous lurch, and I was yanked away at an impossible speed that left the lonely fire and the boundless void far behind. I was dragged across the very fabric of space. Darkness gave way to a tapestry of brilliant stars, and I found myself hurtling toward a magnificent sun.
+I figured the "Eidolith worldcraft" would be a planet orbiting that sun, something the Earth I had left behind. Instead, I was treated to a marvel of engineering as my form hurtled onward towards my new life.
+Surrounding the star were massive, concentric ringworlds, suspended in the heavens like the nested gears of a cosmic clock. They held vast bands of oceans and continents wrapped in the protective embrace of an artificial sky.
+The tether dragged me toward one of the rings, plunging me down through a blanket of white clouds and toward a cluster of lush, green islands dotted with deep forests. Down I went, towards a winding, mud-brown river. I was drawn inexorably toward a small timber-framed house near the riverbank. I passed through the roof without resistance.
+There, amidst tangled sheets, lay a young man and woman in obvious post-coital bliss. I had only a moment to realize the couple were my new parents before the silver tether drew me into my new body, which had just experienced its moment of conception. 
+I don't remember much for a long while after that. A soul is a soul, and a person is a person no matter how small they might be, but a child so newly formed has no brain to form memories with.
+Awareness would return in time.
 """,
 )
 
