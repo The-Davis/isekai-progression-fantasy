@@ -30,21 +30,14 @@ You are an expert in adventure fantasy and have a deep understanding of storytel
     
     output += """Now I need you to write the next section. Here is the outline:
 
-Our MC asks the fire what he needs to do.
-This is an old draft where the MC was drawn into a body of a person. In this new version, he'll be incarnated into a new life. We're going with "life begins at conception" in this world, so his soul is drawn into a freshly-fertilized zygote.
+As the fire hums and flickers through its process of finding him a body, the MC realizes the idea of adventure appeals to him. He'd been imaginative enough in his youth, which feels like a fading dream now, but he'd let himself get tangled in the serious business of living and somehow let the wonder of life slip away. He'd gained some useful skills, but he couldn't help but feel he'd lost something important.
+One of those skills gives him pause. He's an engineer, a manager and builder of systems. This broken system appeals to him. He asks the fire if he can fix what's broken once he's inside. The fire does not know, but it does express gratitude at the thought. It tells him there are others like it within the worldcraft meant to guide aspirants. Seek them out afer your majority.
+The fire gets back on task, reporting it has found a match. A viable organic vessel is forming and it will imprint the MC's pattern on it. With comments like that plus reaching majority, the MC starts to get an inkling of what's going to happen. It announces that the astral tether has been initialized.
+A silver cord emerges from the MC, heading off into the dark infinity. The fire bids him farewell: MAY YOU RISE TO THE OCCASION, ASPIRANT.
+The silver cord pulls and goes taut. He's drawn toward the distant terminus at a tremendous speed, leaving the fire and the lonely darkness behind.
 
-"You mentioned choosing a race and a starting point, is there any way we can do that now?"
-"Querying starting location listings... No response. Listing in memory was last refreshed two hundred seven billion, eight million, four hundred thousand, and nine seconds ago. Data is likely stale. Querying first starting location, the Mountain of Faith... No response. Querying the second starting location, the City of Blades... No response."
-This went on for twenty-seven different places, all with similar fantastic names that could have come straight out of a pulp novel from Robert E. Howard. The very last one, the 'Cavern of Silver Streams' had a response.
-"Body generation facility is offline," the voice announced. "The facility receiver is online and responded to my health check. It reported that all tutorial systems are online and ready for Aspirant arrival. Do you consent to travel to the only viable starting point?"
-"Hold on," I told it. "It said body generation is offline? What's that going to do to me, then? This silver liquid body you've got me in can't be normal."
-"Generation systems are offline, but health monitors indicate a single viable body is present," the flame replied. "I am ready to initiate transfer now. Confirm, please."
-I frowned. A viable body, but no generation system? The time scales the voice had reported were thousands of years long. How would a generated body last that long? Unless the bodies were immortal, or maybe machines, then something was off about there being a viable body. I had a bad feeling about it, but I couldn't see any other shot at moving forward. I nodded. "Alright, I confirm."
-"Astral tether initialized." A silver cord emerged from the base of my skull and shot off into the darkness, stretching towards infinity. "Transmitting. May you rise to the occasion, Aspirant."
-Something started to pull on me. The silver thread leading off into the infinite darkness went taut and trembled like a fishing line. I was drawn towards the distant terminus at tremendous speed, leaving the fire and the darkness behind. A new world opened up before me, a ball of green and brown and blue streaked with swirling clouds of white. The cord dragged me inexorably towards it. My soul plummeted through the atmosphere, and the ground rushed up to meet me.
-
-Rewrite that. Be sure to use the new ALL CAPS STYLE SPEECH for the fire. All of the starting locations are offline now. Instead, the fire sends him to something else. The silver thread still happens and draws him away and towards the new worlds.
-As his soul is cast downward, he gets a breathtaking view of massive, concentric ringworlds orbiting a brilliant star. He's drawn to one specific ring, plunging down toward the continent, and then towards a young couple in obvious post-coital bliss. He has a moment of understanding as the silver cord draws his form into his new mother's womb, and then his consciousness is placed into a new body at the exact moment of conception.
+He's drawn across space. The void is filled with stars, including one he's rushing towards. He expects to see a planet, but instead he's treated to a breathtaking view of concentric ringworlds orbiting a brilliant star.
+He's drawn to one specific ring, plunging down toward the continent, and then towards a young couple in obvious post-coital bliss. He has a moment of understanding as the silver cord draws his form into his new mother's womb, and then his consciousness is placed into a new body at the exact moment of conception.
 He doesn't remember much for a while after that. A person may be a person, no matter how small, but a new-conceived zygote has no brain at all. (he probably wouldn't put it quite that way)
 
 We'll end the chapter on that note.
