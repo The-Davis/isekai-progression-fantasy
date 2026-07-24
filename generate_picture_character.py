@@ -3,8 +3,6 @@ sys.dont_write_bytecode = True
 from util.files import write_file
 from codex import get_codex
 from characters import get_characters
-from chapters import get_all_chapters
-from outline import get_outline
 from constants import STORY_DESCRIPTION
 
 
