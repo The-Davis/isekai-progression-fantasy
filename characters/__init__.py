@@ -12,11 +12,11 @@ tbd = Character(
 talmon_sager = Character(
     name="Tal",
     description="""Tall, yellow-haired Talmon Sager, known as "Tallow" to his annoyance for his resemblance to a candle, is our viewpoint character.
-Tal's first memory, strangely, is of dying and being brought to the Rings of Aratta by a mysterious being. Throughout his youth, he has experienced vague dreams of a warm deific presence urging him to 
+Tal's first memory, strangely, is of dying and being brought to the Rings of Aratta by a mysterious being.
 **One-Sentence Summary of Tal's Storyline**:
 A reincarnated boy with a connection to a forgotten god must overcome his paralyzing guilt over a deadly secret to survive a murderer's revenge and earn his way into a magical academy.
 **Tal's Motivation (Abstract)**:
-He wants to understand his soul's divine connection and experience the wonders of the world. Driven by subconscious memories of Earth and a mysterious God, he feels alienated by the gods of Aratta and craves a sense of divine purpose, freedom, and exploration.
+He wants to understand his soul's divine connection and experience the wonders of the world. Driven by subconscious memories of Earth and a mysterious being of fire, he craves freedom and exploration.
 **Tal's Goal (Concrete)**:
 Tal wants to become a delver and escape his destiny of working the logging barges. To do this, he must unlock an ability to channel mana and earn a coveted spot in the kingdom's training lyceum in the capital of Dornon.
 **Tal's Conflict**:
@@ -28,9 +28,9 @@ He realizes that he cannot run away from danger. He must become an unshakeable r
 **One-Paragraph Summary of Tal's Storyline**:
 Born into a poor family in a riverside logging town on the River Varn, Talmon—known to his adoring little sister and close friends as "Tallow"—spends his days dodging his strict mother, clashing with his rival older brother, and playing protective hero to his adoring younger sister.
 His days of cozy riverside mischief and exploring the local sawmills take a dark turn when he and his friends witness a murder and swear a pact of silence out of terror.
-Terrified of the killer and fearing they'll be next to keep them silent, Tal and his friends flee town, inadvertently allowing an innocent man to be blamed for the murder.
+Terrified of the killer and fearing they'll be next to keep them silent, Tal and his friends flee town, inadvertently allowing the innocent Hollis to be blamed for the murder.
 Surviving the hardships of the wilderness strips away his romanticized views of adventure, forcing an epiphany: he must return to stand against injustice and testify at the trial.
-Though his testimony frees the innocent man, the true killer escapes, returning months later to hunt Tal and his friend into a dangerous stretch of the Everdark shallows.
+Though his testimony frees Hollis, the true killer escapes, returning months later to hunt Tal and his friend into a dangerous stretch of the Everdark shallows.
 Tal is forced to step into the role of the adventurer he always dreamed of being. Relying on his wits and his friends, he outsmarts his pursuer, using the dungeon's own hazards to defeat the killer.
 Emerging battered but victorious, Tal claims the dungeon's undiscovered treasure, thus securing the funds he needs to leave his logging town behind and enroll in Dornon's prestigious training lyceum.
 """,
@@ -122,7 +122,7 @@ Before her father's temporary contract ends and they return to Dornon, Rosie wan
 **External:** Her status-conscious father keeps her under a watchful eye, explicitly forbidding her from wandering the woods or fraternizing with "river rats" and common laborers. Furthermore, she lacks any practical survival skills; the actual dangers of the wilderness and the Everdark shallows are far more lethal than the sanitized adventures in her books.
 **Internal:** She battles her own naiveté and timidity. She likes the *idea* of adventure but is easily frightened by the reality of it. When the town is rocked by the murder plot, Rosie is forced to reconcile her romanticized view of the world with its violent realities, ultimately having to find her own brand of courage.
 Extra Flavor Notes for Integrating Rosie into the Story:
-Rosie should be the classic feminine ideal for this era—always wearing a clean ribbon in her hair, perhaps playing a spinet piano her father had shipped up the river, and smelling of lavender. Her father treats her as an extension of the status her late mother imparted him, as elves and half-elves are of higher social class than humans. Tal will absolutely try to "show out" for her, walking on fences, doing minor physical stunts and exaggerating his knowledge of the local caves to win her admiration.
+Rosie should be the classic feminine ideal for this era—always wearing a clean ribbon in her hair, perhaps playing a spinet piano her father had shipped up the river, and smelling of lavender. Her father treats her as an extension of the status her late mother imparted him, as elves and half-elves are of higher social class than humans. Tal will absolutely try to "show out" for her, walking on fences, doing physical stunts and exaggerating his knowledge of the local caves to win her admiration.
 *   **Tal's Moral Compass:** Rosie has a very black-and-white view of justice. When Tal is agonizing over his guilt and fear about testifying at the murder trial, Rosie can be the unknowing catalyst for his epiphany. He realizes he can't look her in the eye and pretend to be the brave hero she thinks he is if he lets an innocent man hang. He wants to *be* the man she believes him to be.
 *   **Relationship with Wicket:** Wicket probably thinks she's a prissy snob at first, but is quickly won over when he realizes she will sit in rapt attention to listen to his songs and folklore. She might even try to teach Wicket how to write his name, though this should comically fail.
 *   **Relationship with Elsie:** Rosie, having no siblings, likely finds Elsie adorable and treats her like a living doll, giving her hand-me-down ribbons or sneaking her sweets from the foreman's pantry. Elsie, in turn, idolizes Rosie and acts as Tal's wing-woman, constantly (and embarrassingly) telling Rosie how great her older brother is.
@@ -143,7 +143,7 @@ She wants to eventually marry Tal, combine their families' meager resources, and
 **External:** The arrival of Rosie Winslow, the elfkin girl who captivates Tal and feeds his dreams of magic and adventuring. Clary lacks the money, the delicate beauty, and the worldly education to compete for Tal's attention in the same way. Clary lacks the magic, the wealth, or the desire to follow Tal into the life he desires.
 **Internal:** Her pride prevents her from chasing after a boy who is clearly starry-eyed over someone else. She refuses to change who she is, put on "airs," or pretend to care about magic and ruins just to win him back, masking her quiet heartbreak with biting sarcasm and eye-rolling.
 **Extra Flavor Notes for Integrating Clary into the Story*:
-**Mutual Jealousy:** The dynamic between Clary and Rosie is a great source of friction. Clary is deeply jealous of Rosie's wealth, her pristine dresses, and the way Tal trips over his own feet to impress her. *However*, Rosie is secretly jealous of Clary, too. Rosie envies Clary's easy, unfiltered camaraderie with Tal and Wicket, their shared jokes, and the fact that Clary can effortlessly hike up her skirts and jump across river stones without fear of ruining her clothes or breaking a sweat.
+**Mutual Jealousy:** The dynamic between Clary and Rosie is a great source of friction. Clary is jealous of Rosie's wealth, her pristine dresses, and the way Tal trips over his own feet to impress her. *However*, Rosie is secretly jealous of Clary, too. Rosie envies Clary's easy camaraderie with Tal and Wicket, their shared jokes, and the fact that Clary can effortlessly hike up her skirts and jump across river stones without fear.
 **Wicket's Confidante:** Because Clary is part of their original trio/social circle, Wicket complains to her about Tal's new obsession with Rosie. Clary and Wicket share a mutual exasperation over Tal acting like an idiot for the new elfkin city girl, giving them a fun, commiserating dynamic.
 **Martha's Favorite:** Martha Sager absolutely adores Clary. In Martha's eyes, Clary is the ideal match for Tal in her eyes thanks to her work ethic and lack of interest in magic. Martha likely invites Clary over for supper frequently, intentionally trying to push the two together, which deeply embarrasses Tal now that he's trying to impress Rosie.
 """,
@@ -194,20 +194,20 @@ A charismatic but morally flexible hedge wizard arrives in a quiet logging town 
 **How He Fits the Story (Brief Context):**
 *   **The Sager Household:** He arrives on Long Tom's returning logging barge and rents Martha's spare room. Martha tolerates him because he pays in silver, has charming manners, and wipes his boots before entering.
 *   **Tal's Idol:** He is absolute catnip to Tal. Jasper is just boastful enough to indulge the boy, perhaps showing off by channeling a bit of mana to light his pipe or floating a coin across his knuckles. He represents everything Tal wants: magic, freedom, and worldly knowledge.
-*   **The Murder:** Jasper is smart but greedy. Tracing a piece of obscure Corvish lore to the town's graveyard, he decides to keep his prize off the official Kingdom ledgers. He hires Old Man Hollis (who is too drunk to ask questions) and Goblin Dob (a dangerous local scallywag) to do the heavy digging. When the artifact is pulled from the dirt, Goblin Dob slits Jasper's throat for it, leaving Hollis covered in blood to take the fall while Tal, Wicket, and Cord watch in terror from the bushes.
+*   **The Murder:** Jasper is smart but greedy. Tracing a piece of obscure Corvish lore to the town's graveyard, he decides to keep his prize off the official Kingdom ledgers. He hires Old Man Hollis (who is too drunk to ask questions) and Gobber Dob (a dangerous local scallywag) to do the heavy digging. When the artifact is pulled from the dirt, Gobber Dob slits Jasper's throat for it, leaving Hollis covered in blood to take the fall while Tal, Wicket, and Cord watch in terror from the bushes.
 """
 )
 
-goblin_dob = Character(
-    name="Goblin Dob",
-    description="""Urian Dobbin, universally known as "Goblin Dob", has unnaturally long, spindly arms and bandy, bowed legs that make him walk with a loping, side-to-side gait.
+gobber_dob = Character(
+    name="Gobber Dob",
+    description="""Urian Dobbin, universally known as "Gobber Dob", has unnaturally long, spindly arms and bandy, bowed legs that make him walk with a loping, side-to-side gait.
 Despite his awkwardness on the ground, his crooked limbs possess immense strength, allowing him to scale the massive pines with squirrel-like speed.
 He has a sallow, leathery complexion, sparse and greasy dark hair, and a mouth full of yellowed teeth. His pale, beady eyes are constantly shifting, and he always smells of sour sweat, cheap chewing tobacco, and pine tar.
 To the local children, he is a walking nightmare.
 **One-Sentence Summary of Dob's Storyline**:
 A cruel, nimble-limbed logger driven by festering greed murders a visiting hedge wizard for a magical artifact, eventually returning to ruthlessly hunt the local boys who witnessed his crime into the perilous depths of the Everdark.
 **One-Paragraph Summary of Dob's Storyline**:
-"Goblin Dob" is a bitter, outcast logger whose unparalleled tree-topping skills are the only reason the town tolerates his vile temper and his nasty habit of terrorizing children.
+"Gobber Dob" is a bitter, outcast logger whose unparalleled tree-topping skills are the only reason the town tolerates his vile temper and his nasty habit of terrorizing children.
 When hired as muscle by the hedge wizard Jasper Moray for a secret midnight excavation in the local graveyard, Dobbin's greed overtakes him; he slits Moray's throat to steal the unearthed artifact, leaving the blacked-out Old Man Hollis covered in blood to take the fall.
 Though Dobbin initially escapes town with his stolen prize, he blames Tal and his friends for testifying and returns months later to silence them permanently.
 Stalking the boys into the magically active Everdark shallows, Dobbin transitions from a cruel town bully into a relentless predator, ultimately meeting his end when the boys use their wits to turn the dungeon's own hazards against him.
@@ -229,7 +229,7 @@ _characters: list[Character] = [
     cordin_cooper,
     hollis_tweed,
     jasper_moray,
-    goblin_dob,
+    gobber_dob,
 ]
 
 
