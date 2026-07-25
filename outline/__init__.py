@@ -8,8 +8,6 @@ act_one = Outline(
     content="""
 Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration around the sawmill, trips down the river and to the sea, and so on.
 
-Chapter 1: After a brief memory of his reincarnation, Tal hides from his mother after doing something bad, tricks her to escape, gets into a scuffle with a new boy named Wicket, and ends up gaining a best friend for life.
-
 **Chapter 2:** Tal, Wicket, and the sturdy Cooper twins, Cord and Clary, endure a tedious lesson from the local priest on the six mortal attributes, prompting the boys to sneak off to the sawmill for some dangerous physical training to build their Strength and Coordination.
 
 **Chapter 3:** A festive mood overtakes the Sager household when Long Tom returns from downstream, bringing extra coin, news of a wealthy new logging foreman arriving soon from Dornon, and a charismatic, spectacled hedge wizard named Jasper Moray who rents Martha’s spare room.
@@ -50,8 +48,6 @@ Chapter 1: After a brief memory of his reincarnation, Tal hides from his mother 
 
 
 Here is a 20-chapter outline for the first act of your story, keeping to the concise length of your examples while hitting all the required beats, character dynamics, and worldbuilding elements:
-
-**Chapter 2:** Tal and Cord begin their physical stat-building by turning their daily river chores into a competitive Endurance and Strength training regime, only for Simm to immediately snitch on them to Martha to earn brownie points.
 
 **Chapter 3:** Sent on an errand by Martha, Tal and Wicket visit Old Man Hollis by the docks, trading the drunk woodcarver fresh fishing worms for wooden figurines while listening to his exaggerated, scary tales of the Everdark shallows.
 
