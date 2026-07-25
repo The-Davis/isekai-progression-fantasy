@@ -30,11 +30,14 @@ You are an expert in adventure fantasy and have a deep understanding of storytel
     
     output += """Now I need you to write the next section. Here is the outline:
 
-Chapter three opens in the chaotic rush of the churning water, right where chapter two left off. The freezing water shocks Tal's adult sensibilities back into his ten-year-old brain, and his reincarnated instincts keep him from panicking. He's a strong swimmer, and he fights his way to the surface. He gasps for air as he breaches.
-Just as Tal breaks the surface, a sturdy oar extends toward him and a friendly voice calls out in greeting. It's Cordin, the cooper's son, one of Tal's friends in the logging town. (Note: Cordin is about a year older than Tal, so roughly 11 in this chapter).
-Cord was out fishing in a small skiff, and he hauls the sputtering Tal over the gunwales. Cord is amused by his catch. He went fishing with a pole, but all he caught was a beanpole. Tal grins and slugs him in the arm, but then he thinks of the new boy.
-Tal scans the water, half-ready to jump back in and finish the whooping he started. When he spots the new boy flailing wildly, he realizes the smaller boy is struggling to stay afloat. He's being dragged down by his waterlogged clothes, and he clearly isn't a good swimmer.
-Tal's petty anger vanishes. He and Cord maneuver the skiff downstream and work together to haul a half-drowned, coughing Wicket out of the river.
+Tal and Cord maneuver the skiff downstream and work together to haul a half-drowned, coughing Wicket out of the river.
+Tal slaps the smaller boy on the back and helps him cough up the water while Cord rows them to a muddy bank about a mile downstream from the logging town.
+The adrenaline fades, leaving Tal and Wicket shivering. Looking at each other, they share a laugh, and the grudge evaporates. Introductions are made between the three boys. Talmon and Cord both proudly share what their fathers do. Wicket shares that he just moved into town with his Pap, who means to try his hand at logging. He rolls his eyes as he says this, and Tal gets the feeling that Wicket has a low opinion of his father.
+Tal starts to ask about Wicket's mother, but the boy interrupts him to go over to the riverbank. He makes a show of thanking the river for not eating them.
+Tal, ever curious, asks what he means. Wicket breathlessly explains the tales he's been told: the river's undertow is caused by vents connecting the Varn to flooded portions of the Everdark, and if the current is just right, it can suck you right down. Wicket claims someone on the barge they rode into town heard there's a spirit of the river that chooses if you get swallowed up or not, and Wicket thought it best to thank her for not eating them. Pay's to be courteous, you know.
+Cord disagrees with Wicket and says it's just a fast current, and he's never heard any such tale and he's lived here all his life, eleven years, which is practically forever. Wicket perists that one can't be too cautious with monsters and spirits, and he proudly shows them his necklace of frog bones and river stones, explaining how it protects you from drowning.
+Tal and Cord are skeptical. Wicket points out that he didn't drown. They claim it's because they fished him out. Wicket shrugs and says as long as he isn't drowned, that means it works.
+Before they can argue further, a horn echoes across the water. A massive barge is laboring up the river toward the logging town, riding high and empty. Tal recognizes the markings and, more importantly, spots the tall figure of his father, "Long" Tom Sager, at the tiller. Tal is overjoyed—his father's returns are a time of celebration for his family.
 
 You can stop there and we'll edit before I provide the next section.
 
@@ -57,14 +60,6 @@ You can stop there and we'll edit before I provide the next section.
 We'll end the chapter on that note.
 
 
-**Scene 2: Truces and River Lore**
-*   **Washing Ashore:** Cord rows them to a muddy bank about a mile downstream from the logging town to catch their breath. The adrenaline fades, leaving Tal and Wicket shivering in the mud. Looking at each other—covered in muck, bruised, and nearly drowned over a box of worthless sea glass—the ridiculousness of boyish pride takes over. They share a breathless laugh, and the grudge evaporates. Introductions are made: Talmon and Wicket. 
-*   **Worldbuilding Through Superstition:** Wicket, shivering, frantically touches his remaining bone and stone charms, reciting a rhyming Corvish warding song under his breath to ward off "the evil eye" and thank the river for not eating them. 
-*   **The Conversation:** Tal, ever curious, asks about the song. Wicket breathlessly explains local folklore—insisting that the river's undertow is caused by the deep, dark vents connecting the Varn to the Everdark shallows, where shadows try to pull boys down to the crust of the ring. Cord rolls his eyes and pragmatically points out that it’s just a fast current, though he concedes that the water *is* unnaturally warm in spots due to deep-crust mana veins warming the bedrock. This brief exchange establishes Cord’s practical localized knowledge against Wicket’s superstitious (but vast) memory of lore.
-
-**Scene 3: The Return of Long Tom**
-*   **A Distraction:** Before they can argue further about what lives in the Everdark, a deep, resonant horn echoes across the water. A massive timber barge is laboring *up* the river toward the logging town. 
-*   **Joyful Reunion:** Tal recognizes the markings and, more importantly, spots the tall, broad-shouldered figure of his father, "Long" Tom Sager, at the tiller. Tal is overjoyed—his father's returns are rare and mark a time of celebration and plenty for his family.
 *   **To the Skiff!:** Shouting and waving from the muddy bank, Tal begs Cord to row them out to meet the barge before it docks. Cord obliges, expertly pushing the skiff back into the water. Wicket eagerly jumps in, swept up in Tal's excitement and happy to be included in a family moment he sorely lacks at home.
 
 **Scene 4: The Alibi**
