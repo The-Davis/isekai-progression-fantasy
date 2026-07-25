@@ -124,7 +124,14 @@ Forget the grundylows. We didn't need monsters to drag us down into the dark. Th
 
 chapter_three = Chapter(
     title="Chapter Three",
-    content="""
+    content="""The River Varn was mercilessly cold and delivered a shock that drove the breath from my lungs and the foolishness from my head in a violent rush. The petty fury that had driven me to tackle a stranger over a pile of broken glass vanished, and the disciplined mind of an old man returned to the helm.
+I didn't panic. Panic only accelerates a drowning, and my previous life had taught me how to govern my mind when things went wrong. I let the undertow tumble me for a moment to gauge the current. I possessed an exceptional spatial awareness that had survived my journey across the void, and I quickly mapped the river's treacherous spin. My new body, though young and lanky, was already surprisingly strong and perfectly suited to the water. I kicked out with powerful strokes, angling myself upward and across the flow rather than wasting my stamina fighting directly against the Varn's mighty drag.
+I broke the surface and greedily sucked in the crisp air. I treaded water and blinked the muddy water from my eyes.
+"Easy there, Tallow."
+A sturdy wooden oar extended over the choppy surface, stopping just inches from my head. I grabbed the smooth wood without hesitation. Following the oar up its length, I found Cordin Cooper leaning over the gunwales of a flat-bottomed skiff.
+Cord was just a year older than me, but he already had the broad-shouldered build of his father, the town cooper. He kept his long brown hair tied back with a leather thong because he thought it looked cool, and I had to grudgingly admit that it did. With a grunt of effort, Cord hauled me out of the freezing water and over the side of the skiff. I tumbled into the bottom of the boat, a dripping, shivering mess.
+"I came out with a fishing pole," Cord mused. "Can't say I expected to catch a beanpole."
+I grinned despite my violent shivering and sat up to slug him good-naturedly in the arm. "Very funny, Cord. Just wait until my teeth stop chattering, and I'll give you a proper thrashing for that."
 """,
 )
 
@@ -179,4 +186,5 @@ chapter_eleven = Chapter(
 act_one_chapters: list[Chapter] = [
     chapter_one,
     chapter_two,
+    chapter_three,
 ]
