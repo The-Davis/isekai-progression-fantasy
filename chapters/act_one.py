@@ -157,6 +157,23 @@ I couldn't help but laugh. "Wicket, you were sinking like a stone! You only surv
 Before Cord or I could formulate a response to that monumental leap, a horn blasted across the water, and we all turned to look downstream.
 Rounding the bend of the river came a massive logging barge, its great wooden hull riding high and empty on the water, signaling a return trip from the markets down the river. Even from a mile away, my sharp eyes recognized the painted markings of the local logging company on the prow. More importantly, I spotted the tall, familiar figure standing at the tiller, and my heart leapt at the sight of him.
 "It's my pa!" I said, and a massive grin split my face. I scrambled up the bank, waving my arms wildly and trying to catch his attention. "My pa's home!"
+I stood on the muddy bank and waved my arms like a windmill in a gale, shouting until my throat went raw, but the roar of the River Varn and the distance swallowed my voice. My father remained oblivious to the yellow-haired son jumping up and down in the muck.
+"Cord," I pleaded. "Row me out to meet him? Before he docks?"
+He gave a good-natured sigh but was already pushing the skiff back into the water. Wicket scrambled over the gunwales without waiting for an invitation. He'd neatly inserted himself into our endeavor, and neither of us minded in the slightest to keep him around. Such is the friendship of boys.
+Cord dug the oars into the choppy water, steering us expertly into the current. I stood in the bow, my exceptional balance keeping me upright in spite of the rocking of the small boat. I leaned forward, urging the skiff to go faster.
+"You sure are keen to see your pa," Wicked shouted over the rush of the river. "He must be a grand fellow, your pa, if he's the sort who don't get sore about you losing such nice boots."
+I looked down at my feet. In the chaos of our fight and the plunge into the river, I hadn't noticed, but my left foot was now bare. The river had swallowed one of Simm's boots, and I felt a stab of shame. The older man I'd been would never have destroyed a brother's prized possessions just to save his own skin. It was petty and spiteful, and a total failure of the moral character I ought to have possessed.
+Alas, the mind of a child is a self-centered fortress, and I didn't learn the right lesson in that moment. I wasn't agonizing over my cruelty to Simm. I was terrified that coming home with *one* ruined boot made my crime undeniable. I would have to face the disappointment in my father's eyes, to say nothing of my mother's wooden spoon.
+My face must have betrayed my panic, because Wicket leaned closer, clearly sensing a story. It didn't take much prodding to pry the truth out of me. As Cord rowed, I recalled my acrobatics in the ruined sawmill, the slick algae, the mud, Simm's discovery and tattling, and my botched plan to drown the evidence in my secret hollow. Wicket listened with rapt attention.
+"I can fix it," he announced when I finished. "Give it here."
+I hesitated, but there was so much earnest certainty in his face that I unlaced the remaining boot and handed it over. With a flick of his wrist, Wicket chucked it over the side of the skiff. The forlorn footwear sank instantly into the depths of the Varn.
+"What'd you do that for?!" I shrieked, horrified. "How does destroying the other boot fix anything?"
+Wicket dusted off his hands, looking entirely too pleased with himself. "It fixes everything, Tallow. Now you go home, look your mother and your brother right in the eye, and tell them the truth: a new boy in town threw the boots in the river, and you gave him a proper whooping."
+I stared at him, and my mouth hung open as my mind boggled at the audacity of his tale. It was a beautiful half-truth. All I had to do was leave out the order of events and let my mother draw her own conclusions. I have mentioned that I was a rascal, and the boyish impulse to escape the rod easily overpowered my conscience.
+"You're a genius, Wicket Tully," I said, accepting the alibi like a gift from the heavens.
+Cord just shook his head as he pulled us neatly alongside the towering wooden hull of my father's barge. I could tell he didn't approve, but he was a solid sort who didn't go telling tales that were none of his business.
+That was how I met Wicket Tully, the boy who would become a brother to me in ways my blood brother never could. We established a pattern of life that day, one of cozy riverbanks, stolen afternoons, and boyish mischief that would carry us through the next few years.
+It was a beautiful, simple time. And it remained so, right up until the year of the murder.
 """,
 )
 
