@@ -36,15 +36,14 @@ def generate_outline_prompt() -> str:
     output += """Your task is to create a broad outline for an upcoming section of the story. Here is what we have to work out now:
 
 Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration around the sawmill, trips down the river and to the sea, and so on.
-Our third chapter needs to continue to set that stage. He met (and fought) Wicket, but the two just got swept into the river. We shouldn't dwell on it long. Cordin Cooper, who's fishing on a little skiff, manages to snatch Tal out of the river.
-Tal isn't too much the worse for wear, being a strong swimmer and able to keep his head above water. He looks around for Wicket, ready to finish that whooping, but he swiftly realizes the smaller boy is still in the river. Tal and Cord rescue Wicket and get him to shore about a mile downstream from town.
-Boys either hold grudges for life or forget them in moments, and Tal and Wicket quickly make up and make introductions. There's some talk (find something to build the world in conversation), but they're distracted by a barge heading up the river.
-It's Long Tom Sager's barge. Tal is overjoyed to see his father at the tiller. Whooping, shouting, and waving, he asks Cord to take him out in his skiff to meet the barge. Wicket comes along too, eager to be a part of whatever is happening.
-Along the way, Tal realizes he lost one of Simm's boots in the river before Cord fished him out. He meant to "lose" them both, but now with his father coming he's ashamed of what he'd been about to do. Seeing his distress, Wicket asks about it.
-Tal tells him, and Wicket says he can fix that, easy. He takes the remaining boot and throws it in the river. Tal demands to know how that helps. Wicket points out that he can now truthfully claim that the new boy in town threw Simm's boot in the river, and Tal gave him a whooping.
-Just not in that order.
-And that was how Tal met Wicket.
-
+Our fourth chapter needs to continue to set that stage. I think to open we need to go more for the narrator style again so Tal can establish a bit about where he ended up and what ordinary people know. He can describe how the sun doesn't set, but other rings occluding the sun as well as massive floating islands give the land a day/night cycle.
+He can describe how schooling was limited to what's needed to work in a company town (practically nothing), but Tal picks up written language quickly and learns a thing or two from people passing through. He also gets some useful skills from people in town.
+Following that introduction, thirteen-year-old Tal dodges chores assigned by a strict Martha to spend a lazy afternoon fishing with Wicket. Elsie helps him dodge Simmon. Tal and Wicket are joined at their fishing spot (not the hidden hollow under the docks, a different spot better for fishing than hiding) by Old Man Hollis.
+We use this scene to show some of Tal learning from people in town and to establish the woodcarver's gentle nature. We also need to show his whittling knife is sharp, since it will be the murder weapon. Don't say that, of course, it's just setting something up for later payoff.
+Now that he's hit puberty, Tal's restless desire for a life beyond the logging town is starting to stir, but it isn't quite ready to assert itself. We can show this rather than explicitly state it.
+This sets up the arrival of the next important player. Long Tom's barge returns (Tal reminds the reader how his family's life revolves around this event). Tom brings news that a new Company Foreman will be arriving soon, which sets the town gossip mill into overdrive.
+Almost unnoticed by the gossip but not unnoticed by Tal is Tom's paying passenger: a bespectacled hedge wizard Jasper Moray. Tal is fascinated by him. The man has an aura and reminds him of the fire he witnessed between his first life and his second. He would eventually learn why.
+When he returns home, he finds that Jasper has taken up rooms at the Sager house as a paying guest.
     
 Please ensure that the outline fits into the world I've provided, provides the characters with interesting challenges and dynamic scenes, and doesn't contradict anything in the notes or story so far.
 Thank you."""
@@ -62,11 +61,7 @@ Act One - Our story starts with a description of the boy's life in his riverside
 
 My plan is to put together fifteen to twenty chapters of material for the first act. We need one sentence for each. Here is an example of the length. Do not exceed this length for each chapter.
 
-### Early Chapters: Mischief
 Chapter 1: After a brief introduction of his memories of reincarnation, Tal tells how he met Wicket. He hides from his mother after he does something bad. He tricks her to escape, meets a new kid in town (Wicket), gets in a fight with him, becomes best friends (because that's what boys do), and sneaks home.
-
-
-Chapter 9 or so: Tal and Rosie get "engaged," but she rejects him upon learning of his past "engagement" to Clary Cooper.
 
 
 Our first major event involves him and his friends when they witness a murder and swear each other to secrecy out of fear, leading to profound guilt when an innocent man is falsely accused.
@@ -74,9 +69,9 @@ Chapter 19: Tal, Cord, and Wicket witness Hollis digging up a grave while Jasper
 Chapter 20: The boys swear an oath of secrecy. An omen terrifies them.
 
 Your task is to create twenty chapters of material to fill in the blanks.
-During this time, we juggle Tal and Cord training (progression fantasy) and stat building. We can work that into the local religion and education system. We also show Tal and Wicket interactions. Lots of fun. The major beats we need to be sure to hit:
+We need Tal learning to do things and progressing slowly from comfortable, fun-loving boy to a more serious young man. We need interactions between Tal and Wicket and their family and friends. Lots of fun. The major beats we need to be sure to hit:
 Long Tom returning home with Jasper as a passenger and Jasper taking up rooms at the Sager home. Long Tom reports a new foreman is coming to town (foreshadowing Rosie)
-Tal learning about magic from Jasper and finding out he needs to awaken his mana core. Jasper won't tell him how. Tal obsessively collects rumors and childish superstitions on how to do this.
+Tal learning about magic from Jasper and finding out he needs to awaken his mana core. Jasper won't tell him how, but does teach him a few fundamentals of the mental controls. Tal obsessively collects rumors and childish superstitions on how to do this.
 Interactions with Hollis to show he's a friend to the children. Fearful sightings of Gobber Dob. Foreshadowings that he, Jasper, and Hollis are in cahoots over something.
 Tal wooing Rosie. Jealousy between Clary and Rosie.
 Interactions with Tal, Martha, Simmon, and Elsie. Work them in with the other kids.
@@ -134,8 +129,6 @@ The standard stuff such as birthdate, description, history, motivation, goal, et
 This is an expansion of your work in step (3), and it will teach you a lot about your characters. You will probably go back and revise steps (1-6) as your characters become "real" to you and begin making petulant demands on the story.
 This is good — great fiction is character-driven. Take as much time as you need to do this, because you're just saving time downstream.
 When you have finished this process, (and it may take a full month of solid effort to get here), you have most of what you need to write a proposal.
-If you are a published novelist, then you can write a proposal now and sell your novel before you write it.
-If you're not yet published, then you'll need to write your entire novel first before you can sell it. No, that's not fair, but life isn't fair and the world of fiction writing is especially unfair.
 
 Step 8) You may or may not take a hiatus here, waiting for the book to sell. At some point, you've got to actually write the novel. Before you do that, there are a couple of things you can do to make that traumatic first draft easier.
 The first thing to do is to take that four-page synopsis and make a list of all the scenes that you'll need to turn the story into a novel. And the easiest way to make that list is . . . with a spreadsheet.
@@ -160,9 +153,5 @@ This process usually took me a week and the end result was a massive 50-page pri
 All my good ideas when I woke up in the morning got hand-written in the margins of this document. This, by the way, is a rather painless way of writing that dreaded detailed synopsis that all writers seem to hate.
 But it's actually fun to develop, if you have done steps (1) through (8) first. When I did this step, I never showed this synopsis to anyone, least of all to an editor — it was for me alone.
 I liked to think of it as the prototype first draft. Imagine writing a first draft in a week! Yes, you can do it and it's well worth the time. But I'll be honest, I don't feel like I need this step anymore, so I don't do it now.
-
-Step 10) At this point, just sit down and start pounding out the real first draft of the novel.
-You will be astounded at how fast the story flies out of your fingers at this stage.
-I have seen writers triple their fiction writing speed overnight, while producing better quality first drafts than they usually produce on a third draft.
 
 """
