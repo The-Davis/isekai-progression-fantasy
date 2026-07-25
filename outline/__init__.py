@@ -8,7 +8,6 @@ act_one = Outline(
     content="""
 Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration around the sawmill, trips down the river and to the sea, and so on.
 
-Chapter 2: After a brief introduction of his family and early memories, Tal tells how he met Wicket. He hides from his mother after he does something bad. He tricks her to escape, meets a new kid in town (Wicket), gets in a fight with him, becomes best friends (because that's what boys do), and sneaks home.
 Chapter 1: After a brief memory of his reincarnation, Tal hides from his mother after doing something bad, tricks her to escape, gets into a scuffle with a new boy named Wicket, and ends up gaining a best friend for life.
 
 **Chapter 2:** Tal, Wicket, and the sturdy Cooper twins, Cord and Clary, endure a tedious lesson from the local priest on the six mortal attributes, prompting the boys to sneak off to the sawmill for some dangerous physical training to build their Strength and Coordination.
