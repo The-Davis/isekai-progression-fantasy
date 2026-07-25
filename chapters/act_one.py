@@ -132,6 +132,26 @@ A sturdy wooden oar extended over the choppy surface, stopping just inches from 
 Cord was just a year older than me, but he already had the broad-shouldered build of his father, the town cooper. He kept his long brown hair tied back with a leather thong because he thought it looked cool, and I had to grudgingly admit that it did. With a grunt of effort, Cord hauled me out of the freezing water and over the side of the skiff. I tumbled into the bottom of the boat, a dripping, shivering mess.
 "I came out with a fishing pole," Cord mused. "Can't say I expected to catch a beanpole."
 I grinned despite my violent shivering and sat up to slug him good-naturedly in the arm. "Very funny, Cord. Just wait until my teeth stop chattering, and I'll give you a proper thrashing for that."
+The jest snapped my mind back to the thrashing I'd just tried to deliver under the docks, and my blood ran hot again. I spun around and scanned the river's surface, looking for the curly-haired interloper who'd dared encroach on my domain and toss out my treasures.
+I spotted him a dozen yards downstream, and the last phantoms of childish anger instantly evaporated.
+He was thrashing his spindly arms wildly against the pull of the river. His clothes had become waterlogged and were acting like an anchor that repeatedly dragged his head beneath the surface. Every time he broke the water, he gasped a mouthful of the river instead of air. He couldn't swim.
+He was drowning.
+"Cord, there, over yonder!" I shouted, pointed, and scrambled to grab the second oar strapped to the floorboards. "We've gotta help him!"
+We slotted the skiff's oars, and then both of us dug into the churning water, fighting the Varn’s greedy pull. We reached the boy just as his head slipped beneath the surface again. I leaned over the gunwale and hooked him under the armpits. With a helping hand from Cord, I hauled the boy over the side. He collapsed onto the floorboards in a sodden heap.
+The boy started hacking up streams of muddy water, and I gave him a few slaps to his back to help his lungs expel the river. While I tended to the trespasser, Cord manned the oars, working steadily until the skiff bumped against a muddy bank a couple miles downstream from home.
+The adrenaline that had fueled the rescue vanished the moment the boat stopped moving. I began to shiver violently, and my teeth clacked together like castanets. The curly-haired boy was in an even worse state, shivering so hard his knees knocked against the wooden floorboards.
+I looked at him, he looked at me, and the absurdity of our battle and rescue overcame us. A chuckle bubbled up in my chest, and he let out a wheezing snort in return. Within seconds, we were laughing uproariously. Boys are beautifully simple creatures in many ways, and sharing a near-death experience is a pardon for all sins. We would fight frequently in the years to come, but we were now friends and both knew it, though he hadn't yet made introductions.
+"I'm Talmon Sager," I offered when the laughter finally died down. "Most folks just call me Tallow."
+"And I'm Cordin Cooper," Cord chimed in as he secured the skiff's line to an exposed root growing from the bank. "My pa makes barrels for the town."
+"My pa's the bargeman for the timber company," I quickly added, unable to hide a note of pride. "Best pilot on the river."
+The curly-haired boy sat up and wrung a gallon of water from his muddy shirt before shaking our hands. "I'm Wicket. Wicket Tully. Me and Pap just moved into town. He says he means to try his hand at logging." Wicket rolled his dark eyes so hard I thought they might fall out, which spoke volumes to me about his father's work ethic.
+"And your mother?" I started to ask, meaning to be polite. "My ma's—"
+Wicket scrambled out of the boat, interrupting my thought. He dropped to his knees in the mud of the riverbank and made a theatrical bow towards the rushing water.
+"Thank you for not eating us," he announced.
+"What in the world are you doing?" I asked.
+Wicket rocked back on his heels and looked at me. "Paying my respects! You have to be courteous. Don't you know? That undertow ain't just water. There's deep holes that connect the Varn straight down to the Everdark. When the water gets to rushing, it sucks you right down into the black." He leaned in closer, his voice dropping to a conspiratorial whisper. "A deckhand on the barge coming upriver told me there's a spirit of the river that decides who gets swallowed up and who gets spit back out. I figure it's best to thank her for letting us go."
+"Hogwash," Cord snorted. "I've lived here all my life—eleven whole years, which is practically forever—and I've never heard any such tale. It's just a strong current is all."
+"I'm just careful, is all," Wicket insisted, unbothered by Cord's skepticism. "I took other precautions. Look!" He reached under his soggy shirt and produced a tangled necklace strung with little bones and smooth stones with holes in them. "This charm wards off drowning."
 """,
 )
 
