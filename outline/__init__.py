@@ -8,80 +8,39 @@ act_one = Outline(
     content="""
 Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration around the sawmill, trips down the river and to the sea, and so on.
 
+**Chapter 4:** Following a three-year time skip to the "year of the murder," thirteen-year-old Tal and Wicket dodge chores assigned by a strict Martha and a smug Simmon to spend a lazy afternoon fishing with Old Man Hollis, establishing the woodcarver's gentle nature and Tal's lingering, restless desire for a life beyond the logging town.
 
-**Chapter 3:** A festive mood overtakes the Sager household when Long Tom returns from downstream, bringing extra coin, news of a wealthy new logging foreman arriving soon from Dornon, and a charismatic, spectacled hedge wizard named Jasper Moray who rents Martha’s spare room.
+**Chapter 5:** Long Tom returns on his barge amidst a joyous town celebration, bringing news that a new Company Foreman is arriving soon and introducing his paying passenger: the charismatic, spectacles-wearing hedge wizard Jasper Moray, who rents Martha's spare room.
 
-**Chapter 4:** Jasper dazzles a wide-eyed Tal with a minor display of magic using a low-grade mana crystal, explaining that one needs an awakened mana core to channel magic, though he frustratingly refuses to teach the boy how to actually unlock it.
+**Chapter 6:** Tal becomes utterly infatuated with the idea of magic and eagerly runs errands for Jasper, eventually coaxing the wizard into explaining the six attributes and teaching him a few basic mental exercises to control Focus and Willpower, though Jasper refuses to show him how to actually awaken his mana core.
 
-**Chapter 5:** Desperate to awaken his core, Tal drags Wicket to the river docks to try out absurd local superstitions, where they catch choice fishing worms for a drunken Old Man Hollis in exchange for a wooden carving and a wildly inaccurate tale about magic.
+**Chapter 7:** Desperate to awaken his core and unlock his potential, Tal obsessively collects local folklore and ridiculous Corvish superstitions from Wicket about how to force an awakening, leading to a comedic, failed attempt in the woods that results in nothing but mud, ruined clothes, and a scolding from Martha.
 
-**Chapter 6:** The town is thrown into a stir by the arrival of the new foreman and his pristine, elfkin daughter Rosie, whose delicate beauty and imported books instantly capture Tal's romantic ambitions, much to Clary's eye-rolling dismay.
+**Chapter 8:** The new Company Foreman arrives on a crimson barge with his elfkin daughter, Rosie Winslow, and Tal is instantly smitten by her pristine beauty and fancy pastel dresses, much to the eye-rolling disgust of his longtime friend Clary.
 
-**Chapter 7:** Seeking to impress Rosie with his bravery, Tal attempts a foolish balancing stunt on the logging booms, but his smug brother Simm tattles to Martha, resulting in a public scolding and extra chores overseen by a sympathetic Elsie.
+**Chapter 9:** Eager to impress the sheltered but curious Rosie, Tal offers to be her local guide to the shallow ruins on the edge of the Everdark; Clary aggressively tags along out of pure jealousy, and Cord gets dragged in to keep everyone from breaking their necks.
 
-**Chapter 8:** Tal and Wicket act as local guides for Rosie to explore a shallow, mossy cave on the edge of town, but their cozy adventure is cut short when they are terrified by the spindly, menacing logger Gobber Dob lurking unnaturally high in the pines.
+**Chapter 10:** The group's excursion into the woods is cut short by a terrifying encounter with the spindly, unsettling Gobber Dob, who drops from the pine canopy to chase them out of his logging territory with cruel threats, solidifying his status as the town nightmare.
 
-**Chapter 9:** After an afternoon of picking wildflowers, Tal and Rosie playfully agree to be "engaged," but she dramatically rejects him hours later upon learning from a jealous Clary that Tal had already promised to marry her when they were seven.
+**Chapter 11:** Tal gets in serious trouble with Martha when Simmon catches him sneaking Rosie some of the family's prized honey-cakes; Tal is confined to the house with extra chores, leaving sweet little Elsie and an exasperated Wicket to act as his messengers to the outside world.
 
-**Chapter 10:** While a heartbroken Tal sulks, Cord leads the boys on a tracking exercise deep into the woods to build their Quickness and Endurance, leaving a commiserating Clary and Wicket on the riverbank to share their mutual exasperation over Tal's obsession.
+**Chapter 12:** While grounded, Tal spies from his window and notices Jasper sneaking out late at night to meet with the usually drunk Hollis and the terrifying Gobber Dob, sparking his curiosity about what a wealthy wizard, a harmless woodcarver, and a vicious thug could possibly be plotting.
 
-**Chapter 11:** Sneaking back into town after dark, Tal and Cord spot Jasper Moray having a tense, hushed argument in an alleyway with the terrifying Gobber Dob while Hollis snores obliviously nearby, hinting at a secret arrangement between the three men.
+**Chapter 13:** Freed from his grounding, Tal tries to show out for Rosie by walking the precarious barge pylons over the river, but a biting, sarcastic comment from a jealous Clary makes him lose his balance, resulting in a hilarious and embarrassing dunk in the freezing Varn.
 
-**Chapter 12:** Ignoring Wicket's frantic recitation of Corvish curses, Tal attempts a dangerous, rumor-based meditation technique to force mana into his unawakened core, resulting in a painful physical backlash that he must desperately hide from his mother with Elsie's help.
+**Chapter 14:** Seeking to regain his dignity, Tal uses the mental focus exercises Jasper taught him to perfectly win a town-wide skipping stone contest, earning an admiring gasp from Rosie and making Clary cross her arms in frustrated, unspoken affection.
 
-**Chapter 13:** Martha intentionally invites Clary over for supper to push her and Tal together, leading to a painfully awkward evening when Rosie unexpectedly drops by to catalogue local folklore, sparking a tense, passive-aggressive standoff of manners between the two girls.
+**Chapter 15:** Tal and Wicket visit the docks to trade for one of Hollis's beautiful wooden dolls for Elsie, and while they are there, they overhear Jasper subtly questioning the blackout-drunk old man about the location of a specific, ancient Corvish gravestone on the hill.
 
-**Chapter 14:** Hoping to find genuine magical lore to impress Rosie and awaken his core, Tal eavesdrops on Jasper, learning that the hedge wizard is researching an ancient Corvish artifact supposedly buried in the town's oldest, most overgrown graveyard.
+**Chapter 16:** Rosie invites Tal, Wicket, and Clary to the Foreman's manor for tea; the stark contrast in wealth makes Clary intensely uncomfortable, sparking a tense, polite argument between the two girls over the "romance" of river life versus the reality of hard work.
 
-**Chapter 15:** Tensions boil over when Simm catches Tal sneaking around Jasper's belongings and threatens to tell their father, forcing Tal into a desperate physical scuffle that is only defused when Elsie tearfully begs them to act like brothers.
+**Chapter 17:** Tal continues to practice Jasper's mental exercises and feels the absolute faintest flicker of willpower in his mind, but his excitement turns to dread when he spots Gobber Dob lurking menacingly around the Sager home, his beady eyes locked on Jasper's window.
 
-**Chapter 16:** The village priest tests the youths on their physical and mental attributes, where Cord excels in Endurance and Tal pushes his Willpower to its absolute limit, while Wicket accidentally proves his hidden Focus by perfectly reciting a complex dwarven ballad.
+**Chapter 18:** Driven by his burgeoning adventurous spirit and a desperate desire to prove he is the brave delver Rosie thinks he is, Tal convinces Wicket and Cord to sneak out at midnight to investigate the overgrown graveyard after he sees Jasper slip away with a lantern and a shovel.
 
-**Chapter 17:** Convinced that Jasper is going to unearth the artifact that night, Tal convinces a highly reluctant Cord and a terrified Wicket to sneak out past midnight, intending to spy on the wizard and discover the secret to channeling mana.
+**Chapter 19:** Tal, Cord, and Wicket witness Hollis digging up a grave while Jasper Moray supervises. Hollis and Jasper fight and Hollis is knocked out. Gobber Dob then appears; it becomes clear Gobber and Jasper conspired to cut Hollis out of the deal, but then Gobber murders Jasper in the graveyard with Hollis' knife. The boys flee in terror as Gobber makes off with the artifact Jasper looted from the grave.
 
-**Chapter 18:** The boys huddle in the freezing bushes of the ancient graveyard, watching in wide-eyed anticipation as a drunken Old Man Hollis uses his sharp woodworking blades to dig up a crumbling tomb under the impatient supervision of Jasper Moray.
-
-**Chapter 19:** Just as the artifact is pulled from the dirt, Gobber Dob emerges from the shadows to slit Jasper's throat with Hollis's own knife, cutting the wizard out of their secret deal and sending the boys fleeing into the night in absolute terror.
-
-**Chapter 20:** Traumatized by the brutal murder, the three boys swear a desperate blood oath of secrecy to keep Gobber Dob's gaze off their families, their terror only compounding when they witness a chilling omen of a shadowy raven perched upon the Sager household's roof.
-
-
-
-
-**Chapter 4:** Long Tom returns downstream to a joyous Sager family celebration, bringing a mysterious hedge wizard named Jasper Moray to rent their spare room and announcing the imminent arrival of a wealthy new company foreman.
-
-**Chapter 5:** Enamored by Jasper casually channeling mana to light a pipe, Tal begs to learn magic, but when the wizard refuses to explain how to awaken a mana core, Tal and Wicket begin testing out ridiculous, superstition-based methods to force an awakening.
-
-**Chapter 6:** The logging town gathers to welcome the new foreman, and Tal is instantly smitten by his pristine, parasol-twirling elfkin daughter, Rosie Winslow, while a muddy Clary Cooper rolls her eyes at his immediate infatuation.
-
-**Chapter 7:** Hoping to impress Rosie with his bravery, Tal leads her, Wicket, and Cord to explore a ruined sawmill, where they are forced to hide after spotting the terrifying Gobber Dob lurking in the shadows and behaving suspiciously. 
-
-**Chapter 8:** Under the guise of Corvish religious schooling, Tal and Cord test their Focus and Willpower through local meditative trials, though Tal keeps sneaking glances out the window to watch Rosie sketch the local flora.
-
-**Chapter 9:** Tal and Rosie get "engaged," but she rejects him upon learning of his past "engagement" to Clary Cooper.
-
-**Chapter 10:** Trying to make up for the engagement debacle, Tal attempts to help Clary's father at the cooperage, but a jealous spat between Clary and Rosie distracts him, resulting in a destroyed barrel and a thrashing from Martha’s wooden spoon.
-
-**Chapter 11:** Eager to escape his mother's domestic wrath, Tal and Wicket spy on Jasper and notice the dandy secretly meeting with Old Man Hollis at the tavern, handing him a map while Gobber Dob watches them closely from the rafters.
-
-**Chapter 12:** Tal's desperate attempts to awaken his magic peak when he convinces sweet Elsie to help him ingest raw river-reeds during a thunderstorm based on an old wives' tale, leaving him violently sick and mercilessly mocked by Simm.
-
-**Chapter 13:** To prove his bravery to the girls, Tal challenges Simm to a dangerous log-balancing contest on the fast-moving River Varn, barely winning thanks to an accidental burst of Quickness that hints his core might finally be stirring.
-
-**Chapter 14:** While out tracking with Cord to build his Coordination, the boys stumble upon Gobber Dob aggressively questioning a terrified Old Man Hollis about a "dig site," prompting Cord to drag Tal away before they are spotted.
-
-**Chapter 15:** Tal sneaks into Jasper Moray's rented room to look for clues about mana, finding strange notes regarding a buried Corvish artifact, but is nearly caught and has to be alibied by a fiercely loyal Elsie.
-
-**Chapter 16:** Rosie begs Tal and Wicket to show her the local graveyard for her folklore journal, where they find fresh digging marks that cause Wicket to frantically recite superstitions to ward off angry spirits.
-
-**Chapter 17:** Tensions boil over at a local festival when Clary purposefully bests Tal in a wood-chopping game to puncture his ego in front of Rosie, forcing Tal to realize his grandstanding is hurting his oldest friend.
-
-**Chapter 18:** Tal notices Jasper Moray packing his bags and a shovel in the middle of the night, and, sensing an adventure, convinces a reluctant Wicket and an exasperated Cord to follow the wizard into the dark.
-
-**Chapter 19:** Tal, Cord, and Wicket witness Hollis digging up a grave while Jasper Moray supervises. Hollis and Jasper fight and Hollis is knocked out. Gobber Dob then appears (the boys will notice him lurking around in an earlier chapter). It becomes clear Gobber and Jasper conspired to cut Hollis out of the deal, but then Gobber murders Jasper in the graveyard with Hollis' knife. The boys flee in terror as Gobber makes off with the artifact Jasper looted from the grave.
-
-**Chapter 20:** The boys swear an oath of secrecy. An omen terrifies them.
-
+**Chapter 20:** The traumatized boys flee the graveyard and take refuge in Tal's hidden spot beneath the docks, where a terrified Wicket frantically recites a dark local omen that convinces them to swear a pact of absolute secrecy, fearing Gobber Dob will hunt them down if they speak a word of what they saw.
 
 """
 )
