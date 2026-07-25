@@ -151,7 +151,7 @@ She wants to eventually marry Tal, combine their families' meager resources, and
 
 cordin_cooper = Character(
     name="Cord Cooper",
-    description="""Corwdin Cooper is Clary's older brother by just eleven months (making them "Galish twins," a Corvish term for siblings born within a year of each other). He shares Clary's sturdy build and thick chestnut-brown hair, which he keeps tied back with a leather cord. He has a quiet gaze and moves with a grace unlike Tal's impulsive energy or Wicket's frantic fidgeting. He wears homespun wool and usually smells of pine resin and damp earth.
+    description="""Cordin Cooper is Clary's older brother by just eleven months (making them "Galish twins," a Corvish term for siblings born within a year of each other). He shares Clary's sturdy build and thick chestnut-brown hair, which he keeps tied back with a leather cord. He has a quiet gaze and moves with a grace unlike Tal's impulsive energy or Wicket's frantic fidgeting. He wears homespun wool and usually smells of pine resin and damp earth.
 **One-Sentence Summary of Cord's Storyline**:
 A pragmatic local boy witnesses a murder after being dragged into an adventure by his ambitious best friend, forcing him to use his wilderness skills to keep them alive and realize that protecting those he loves requires facing the darkness he'd rather avoid.
 **Cord's Motivation (Abstract)**:
