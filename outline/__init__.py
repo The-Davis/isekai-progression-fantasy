@@ -8,7 +8,6 @@ act_one = Outline(
     content="""
 Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration around the sawmill, trips down the river and to the sea, and so on.
 
-**Chapter 2:** Tal, Wicket, and the sturdy Cooper twins, Cord and Clary, endure a tedious lesson from the local priest on the six mortal attributes, prompting the boys to sneak off to the sawmill for some dangerous physical training to build their Strength and Coordination.
 
 **Chapter 3:** A festive mood overtakes the Sager household when Long Tom returns from downstream, bringing extra coin, news of a wealthy new logging foreman arriving soon from Dornon, and a charismatic, spectacled hedge wizard named Jasper Moray who rents Martha’s spare room.
 
@@ -47,9 +46,7 @@ Our story starts with a description of the boy's life in his riverside town, inc
 **Chapter 20:** Traumatized by the brutal murder, the three boys swear a desperate blood oath of secrecy to keep Gobber Dob's gaze off their families, their terror only compounding when they witness a chilling omen of a shadowy raven perched upon the Sager household's roof.
 
 
-Here is a 20-chapter outline for the first act of your story, keeping to the concise length of your examples while hitting all the required beats, character dynamics, and worldbuilding elements:
 
-**Chapter 3:** Sent on an errand by Martha, Tal and Wicket visit Old Man Hollis by the docks, trading the drunk woodcarver fresh fishing worms for wooden figurines while listening to his exaggerated, scary tales of the Everdark shallows.
 
 **Chapter 4:** Long Tom returns downstream to a joyous Sager family celebration, bringing a mysterious hedge wizard named Jasper Moray to rent their spare room and announcing the imminent arrival of a wealthy new company foreman.
 
