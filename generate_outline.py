@@ -36,8 +36,15 @@ def generate_outline_prompt() -> str:
     output += """Your task is to create a broad outline for an upcoming section of the story. Here is what we have to work out now:
 
 Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration around the sawmill, trips down the river and to the sea, and so on.
-Our first chapter needs to set that stage, but also establish the otherworldly nature of our hero.
-**Chapter 1:** After a brief introduction of his memories of reincarnation, Tal tells how he met Wicket. He hides from his mother after he does something bad (think up something). He tricks her to escape, meets a new kid in town (Wicket), gets in a fight with him, becomes best friends (because that's what boys do), and sneaks home.
+Our third chapter needs to continue to set that stage. He met (and fought) Wicket, but the two just got swept into the river. We shouldn't dwell on it long. Cordin Cooper, who's fishing on a little skiff, manages to snatch Tal out of the river.
+Tal isn't too much the worse for wear, being a strong swimmer and able to keep his head above water. He looks around for Wicket, ready to finish that whooping, but he swiftly realizes the smaller boy is still in the river. Tal and Cord rescue Wicket and get him to shore about a mile downstream from town.
+Boys either hold grudges for life or forget them in moments, and Tal and Wicket quickly make up and make introductions. There's some talk (find something to build the world in conversation), but they're distracted by a barge heading up the river.
+It's Long Tom Sager's barge. Tal is overjoyed to see his father at the tiller. Whooping, shouting, and waving, he asks Cord to take him out in his skiff to meet the barge. Wicket comes along too, eager to be a part of whatever is happening.
+Along the way, Tal realizes he lost one of Simm's boots in the river before Cord fished him out. He meant to "lose" them both, but now with his father coming he's ashamed of what he'd been about to do. Seeing his distress, Wicket asks about it.
+Tal tells him, and Wicket says he can fix that, easy. He takes the remaining boot and throws it in the river. Tal demands to know how that helps. Wicket points out that he can now truthfully claim that the new boy in town threw Simm's boot in the river, and Tal gave him a whooping.
+Just not in that order.
+And that was how Tal met Wicket.
+
     
 Please ensure that the outline fits into the world I've provided, provides the characters with interesting challenges and dynamic scenes, and doesn't contradict anything in the notes or story so far.
 Thank you."""
