@@ -31,6 +31,7 @@ While it lacks the refinement of Dornon, it possesses the tightly-knit charm of 
 **The August Chartist Company (Economy & Governance)**
 Larchleah is a "company town," governed by a chartered monopoly known as **The August and Honourable Company of Larchwood**. Their sprawling timber barges are painted in striking crimson and gold, and their appointed foremen wear tailored wool coats with brass buttons stamped with the Company crest (a golden axe).
 Wages for the laborers are paid mostly in Company scrip, which can only be redeemed at the Company Store for staples like flour, wool, and oil. Because scrip is useless elsewhere in Corvland, the locals rely on a barter economy to fill the gaps. Real coin is rare, usually only acquired through side-hustles—such as Martha Sager renting her spare room to traveling delvers or bargemen acting as unofficial merchants to sell local crafts (like Old Man Hollis's carvings) in the downstream markets.
+Most employees usually earn enough scrip to pay for supplies commensurate with a living wage elsewhere. Unlike company stores in our world, the prices are not exploitative. The scrip ties the employee to the company and the region since it isn't transferable, but you can make a living on it. The company charter requires that employees receive at least sixpence per month in addition to scrip, so there is coin to be had, just not much. Iron and copper only.
 **Social Hierarchy**
 The social ladder is defined by one's relationship to the Company:
 *   **The Foreman:** Sitting at the absolute top is the Company Foreman (currently Rosie's father), an educated outsider appointed by the Dornon executives. They live in the largest house on the hill, manage the ledgers, and represent upper-class authority.
@@ -46,9 +47,24 @@ While the town itself is a pocket of mundane industry overseen by wealthy city a
 """
 )
 
+corvish_currency = CodexEntry(
+    title="Corvish Currency",
+    content="""The currency of Corvland is cast in the royal mint and consists of iron, copper, silver, and gold pieces. All coins are round, but the silver and gold coins are cast with a serrated edge to prevent clipping.
+The iron scant is the least valuable coin. It is usually called a hobnail or a hob due to the iron content being equal to that of a boot nail. A scant has little buying power on its own, making it the currency of the destitute. To be "down to the hobs" means you are at rock bottom. It takes eight scants to make a penny, so 8 Hobs to a Cob.
+The copper penny is the coin exchanged for most basic fare. It is called a cob, derived from the "cobble loaf" that is popular fare in Dornon city and typically costs a penny. A member of the working poor can reasonably expect to get enough to eat for a penny a day and beer for a second penny. There are half, two, three, and six penny coins as well. It takes twelve pennies to make a shilling, so 12 Cobs to a Bob.
+The silver shilling is milled with a serrated edge to prevent clipping. A damaged shilling must be melted down and exchanged for the current silver value in pennies, by law. It is called a bob, derived from "bobbin", as a day's wages for a talented weaver was typically a shilling. A soldier's daily wage is often sixpence, or half a bob. It takes forty shillings to make a sovereign, so 40 Bobs to a Nob.
+The gold sovereign also has a serrated edge and has the same damage laws. It is called a nob, derived from "noble". A nob is two months' wages or more for most unskilled labor. Gold nobs are rarely seen by the working poor, and aren't often used by the middle class either.
+This coin rhyme is popular in Dornon and is an example of the typical street cynicism:
+"A Hob for the boot to walk the street,
+A Cob for the bread so you can eat,
+A Bob for the girl to warm the bed,
+And a Nob for the hangman to keep your head."
+"""
+)
 
 corva_entries: list[CodexEntry] = [
     corvish_isles,
     dornon,
     larchleah_town,
+    corvish_currency,
 ]
