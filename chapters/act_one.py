@@ -152,6 +152,11 @@ Wicket scrambled out of the boat, interrupting my thought. He dropped to his kne
 Wicket rocked back on his heels and looked at me. "Paying my respects! You have to be courteous. Don't you know? That undertow ain't just water. There's deep holes that connect the Varn straight down to the Everdark. When the water gets to rushing, it sucks you right down into the black." He leaned in closer, his voice dropping to a conspiratorial whisper. "A deckhand on the barge coming upriver told me there's a spirit of the river that decides who gets swallowed up and who gets spit back out. I figure it's best to thank her for letting us go."
 "Hogwash," Cord snorted. "I've lived here all my life—eleven whole years, which is practically forever—and I've never heard any such tale. It's just a strong current is all."
 "I'm just careful, is all," Wicket insisted, unbothered by Cord's skepticism. "I took other precautions. Look!" He reached under his soggy shirt and produced a tangled necklace strung with little bones and smooth stones with holes in them. "This charm wards off drowning."
+I couldn't help but laugh. "Wicket, you were sinking like a stone! You only survived because Cord and I fished you out of the water."
+"Exactly," Wicket countered as he tucked the necklace back under his shirt. "I ain't drowned, so the charm works."
+Before Cord or I could formulate a response to that monumental leap, a horn blasted across the water, and we all turned to look downstream.
+Rounding the bend of the river came a massive logging barge, its great wooden hull riding high and empty on the water, signaling a return trip from the markets down the river. Even from a mile away, my sharp eyes recognized the painted markings of the local logging company on the prow. More importantly, I spotted the tall, familiar figure standing at the tiller, and my heart leapt at the sight of him.
+"It's my pa!" I said, and a massive grin split my face. I scrambled up the bank, waving my arms wildly and trying to catch his attention. "My pa's home!"
 """,
 )
 
