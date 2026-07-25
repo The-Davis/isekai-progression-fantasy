@@ -71,6 +71,54 @@ My performance was for Elsie, who had followed me from the house and sat perched
 "The beast swipes, but the hero is too quick!" I declared, leaping from one rotting foothold to the next. I twisted in mid-air to dodge the phantom blow, landed awkwardly on a patch of slick algae, and plummeted straight off the beam.
 Elsie gasped, her little hands flying to her mouth as I landed in a patch of river muck. The thick sludge splashed up to my waist, assaulting my nose with rotten odors and putting an end to my heroics. I wasn't hurt, but I knew I was in trouble. To make my delver persona authentic, I'd "borrowed" Simm's leather boots. My brother's prized footwear was one of the few nice things we owned, and they were now caked in a noxious paste of black mud and algae.
 "Oh, Tallow," Elsie groaned when she saw the mess. "Simm's gonna be so mad!"
+We immediately put our heads together, plotting how to smuggle the soiled footwear back to the house and wash them before our mother saw them, but we didn't get far. The reeds parted, and Simm burst into the clearing, wearing his customary smirk.
+"Found you!" he crowed. His chest puffed out with the thrill of impending tattletale glory. "Wait until Mother sees you, Tallow. She's going to tan your hide so red you'll—" He stopped as his eyes dropped to my feet, and the smug triumph on his face morphed into horror. "Are those... are those my boots?!"
+He stared at the sludge-dripping lumps of leather, and a vein bulged violently against the pale skin of his forehead. Without another word, he spun on his heel and dashed toward the house to alert our mother to this high treason.
+"What're you gonna do, Tallow?" Elsie whimpered, tugging at my sleeve. "Mama's gonna be so sore at you!"
+I pulled myself out of the muck as I watched Simm's retreating form. There was no way I could chase him down. For one, he had quite a head start, and for two, he'd whoop me good if I tried. He'd tell our mother what had happened, and if I came home with his ruined boots...
+*If...*
+"You can't convict a man if there's no evidence," I mused as I shook a heavy glob of mud from my ankle.
+Elsie tilted her head. "What's 'convict', Tallow?"
+"It means I'll see to it that the boots disappear," I told her, my mind working quickly. "Mama won't punish me if she can't find them, at least not right away. You'd best hurry off home. Simm won't tell on you, he never does, but Mama'll be sore at you too if she finds you in the mud with me."
+Elsie nodded solemnly, accepting my logic as gospel, and hurried off in the direction our brother had gone. Left alone, I slunk away in the opposite direction, trailing muck behind me.
+The way I figured it, Simm would find the boots if I tried to hide them. He knew most of my tricks, but I could drown the evidence. The Varn's current was quick around here, and the evidence of my crime would be miles away before he dragged our mother out to pass sentence on me.
+I made a beeline for the river, heading toward my favorite spot, one I kept so secret that not even Elsie knew about it. It was a secluded little hollow down among the lower piers of the barge docks, shaded by massive pylons and shielded by the dock boards overhead. The water there was deep, fast, and perfect for swallowing up a pair of ruined boots forever.
+To my profound dismay, my sanctuary had been invaded.
+Squatting in the center of the hollow was a boy about my age, though he was a fair bit shorter. He had a sallow complexion and a messy mop of dark, curly hair. His sins didn't end with his invasion of my sanctuary. He had his hands deep in my secret stash of river-smoothed glass, and he was carelessly pawing through the little box full of shimmering green and amber fragments I'd spent months scavenging from the shallows.
+"Hey!" I shouted, my voice cracking with pre-adolescent indignation. "What're you doing? That's mine!"
+The boy looked up, blinked his dark eyes at me, and then picked up a beautiful piece of frosted sea-green glass. With a casual flick of his wrist, he tossed it into the churning river.
+"Stop that!" I demanded, stomping forward. My stolen mud-caked boots squelched against the river stones. "Don't you know not to go snooping in someone else's treasure? Get out of here!"
+Instead, he grabbed a handful of my best pieces—amber, cobalt, and a rare flake of ruby-red—and chucked them in the water, one after the other.
+I lost my mind. I shouted, I stamped my feet in the muck, and I hurled every colorful insult I'd learned from my father's bargemen right at his curly head, desperately trying to get him to stop.
+I must confess, I was entirely too attached to those shiny bits of glass trash. Boys can be like magpies, drawn by primal instinct to the sparkle of worthless things, and despite some lingering maturity of my previous life, my ten-year-old brain was no exception. It is also not lost on me now that I was taking mortal offense at a stranger throwing out my garbage, while I'd been in the midst of destroying my own brother's valuable boots to save my skin.
+ I did admit that I was a rascal.
+All I can say is that I have since learned better. At the time, however, my hypocrisy was rivaled only by my outrage as the boy tossed the last piece of glass into the Varn. He dusted off his hands and flashed me a cheeky grin that showed off a chipped front tooth.
+"This your spot, then?"
+"Yes, it's my spot!" I fumed and balled my fists at my sides.
+"You owe me, then," the boy said, beaming as if he'd just done me a magnificent favor. "I just saved you from the grundylows."
+I stared at him, momentarily derailed. "You did what?"
+"Saved you," he repeated, pointing at the empty box. "Don't you know not to store shiny stuff near the water? They're attracted to it, see? A grundylow will see the shine, pop out of the muck, snatch you by the ankles, and drown you quick as blinking."
+"They will not," I said, puffing my chest out in defiance.
+"Will so."
+"Will not."
+"Will so."
+"Absolutely will not!" I fired back, crossing my arms over my chest and marshaling the certainty that only a reincarnated engineer arguing with a child could muster. "Grundylows are ambush predators native to stagnant meres and bogs. They don't live in fast-moving rivers. The current would sweep them away."
+"Shows what you know," the boy scoffed and rolled his eyes as if I were the most ignorant creature to ever crawl onto the riverbank. "I can sing a dozen songs that say they love rivers just as much as anything else. I know one about a grundylow that ate a whole barge crew, boots and all."
+"Whoever sang that is a liar, and you're an idiot!"
+"Yeah? Well, you're a yellow-haired beanpole!" he shot back and balled his own fists. "Thin in the body, thick in the head!"
+The insults flew thick and fast, our jeers echoing off the damp undersides of the dock boards as we postured like two stray dogs circling a dropped bone. Finally, driven to the edge of my ten-year-old patience, I planted my stolen boots squarely in the muck and at him.
+"You know what? I oughta give you a whooping for throwing out my treasures."
+The boy didn't flinch. If anything, my threat only widened his chipped-tooth grin. 
+"A whooping?" he jeered. "From a beanpole like you? I could whoop you blindfolded with one hand tied behind my back!"
+Quick as a wink, he stooped down, and his hand came up packed with a heavy glob of black river muck. He hurled it with startling accuracy, catching me squarely in the face. 
+There is a volatile alchemy to boyhood, a mixture of pride and impulse that can reduce the soul to its most primal components. Though my previous life had gifted me with the hard-won patience of a grandfather, none of that reservoir of maturity stood a chance against the humiliation of mud in the eyes. The outraged ten-year-old was completely in control.
+Sputtering and wiping the filth from my face, I lunged at him. I caught him by the shoulders and shoved him hard against a wooden piling.
+He bounced right back with a furious shout, shoving me in return. In a heartbeat, we were locked together.
+We fought with the uncoordinated fury of young boys with too much pride and too little sense. We swung wild fists that mostly found empty air or glancing shoulders. We kicked, we grunted, and we clawed at each other's homespun shirts, tearing collars and smearing mud over every inch of fabric we could reach. We were so consumed by our petty war over shiny glass and bruised egos that neither of us paid attention to the sloping geography of my secret hollow.
+The muddy ground gave way beneath us.
+One moment we were grappling in a few inches of stagnant muck, and the next, the breath was driven from my lungs as we plunged into the churning waters of the channel. The deafening roar of the river filled my ears.
+We broke apart in the freezing water, and my arms flailed wildly for purchase, but there was nothing to grab but churning bubbles and swirling current. The undertow seized my legs and dragged me away from the pilings and out toward the center of the channel.
+Forget the grundylows. We didn't need monsters to drag us down into the dark. The Varn had its claws in us now.
 """,
 )
 
