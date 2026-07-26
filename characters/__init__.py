@@ -40,6 +40,7 @@ tom_sager = Character(
     name="Long Tom Sager",
     description="""While he only makes brief appearances in the story, Tal's father, "Long" Tom Sager, is an important figure in Tal's life. The man works as a barge-man for the loggers of their town.
 He is usually downstream with a load of timber. The times when he returns are times of plenty and celebration for the Sager family.
+Unknown to Tal, Tom is secretly saving up coin to put Simmon through the Dornon naval academy. He sees potential in his dutiful oldest son that he doesn't see in Talmon, though he loves his middle child all the same.
 Tom is the source of Tal's height. He is not a particularly intelligent man, and he has little wisdom to pass on to his sons, but he does his best to set a good example of industry, sober living, and kind authority.""",
 )
 
@@ -54,6 +55,7 @@ Martha is a stern and overworked matriarch ruling her meager household with an i
 She wants security, moral uprightness, and stability for her family. Martha is driven by an anxious love for her children. Deeply practical and fearful of the deadly perils of the wider world, she believes that hard work, strict discipline, and staying safely within their social station are the only ways to keep her children alive and out of poverty. She loves Tal fiercely, but expresses that love through scolding, chores, and trying to keep him grounded.
 **Martha's Goal (Concrete)**:
 She wants to squash Tal's foolish dreams of magic and adventuring before they get him killed. She wants to force him to behave, stop wandering off to explore caves and ruins, and accept his place working on the river alongside his father and older brother.
+Unknown to Tal, Martha and Tom are secretly saving up coin to put Simmon through the Dornon naval academy.
 **A few extra flavor notes to keep in mind**:
 *   **The Wooden Spoon:** Martha rules the roost with a heavy sigh and a wooden spoon. She constantly suspects Tal of mischief (usually correctly) but feels a pang of guilt whenever she has to punish him.
 *   **Hidden Softness:** Though she complains endlessly to her neighbors about her "wayward, yellow-haired trial of a boy," she is secretly proud of his sharp wits and is terrified of anything bad actually happening to him. 
