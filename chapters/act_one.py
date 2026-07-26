@@ -267,6 +267,13 @@ I stared at the glowing numbers, my mind racing. Was this simply a tool for abst
 "Do I have one?" I begged, and the words tumbled out of me in an eager rush. "Can this disc see my numbers? Can I learn to do magic?"
 "Everyone has a mana core," Jasper said. He didn't seem to mind my barrage of questions. "You're born with it, but for most people, it just sits dormant in their chest, an unlit candle in a dark room. It's there, but it serves no purpose. Only when a core is *awakened* can a person channel mana—either by drawing it from the world or from crystals like these." He tapped the glowing stones on his bandolier. "That is how I float a copper coin. The core is the engine, and the mana is the fuel."
 "But how?" I demanded. "How do you light the candle? How do you awaken it?"
+To my frustration, Jasper only chuckled and tapped the side of his nose.
+"That is the question, isn't it?" he said, his eyes twinkling. He slipped the silver disc back into his vest pocket, buttoned it securely, and resumed his unhurried stride up the road.
+I hurried after him, and I pestered him relentlessly the rest of the way. I asked if I could hold the disc, if I could just borrow it for a moment to see my own numbers, to see if my mana core was glowing or dormant. I privately wondered if it might be somehow different because of my reincarnation.
+Jasper's good mood held, and he humored my barrage of questions with an easy smile, but his answer was a steadfast no.
+"I think not. It is not a plaything for curious boys. If you truly wish to take the measure of yourself, you need only to take up the trade of delving and find one." He patted his vest pocket affectionately. "I pulled this out of the dirt during a dungeon delve near the Rhondda Taf mountains in the west. Almost got a dart in my neck for the trouble, but it was well worth the risk."
+"Really?" I asked, my imagination conjuring images of myself descending into the Everdark.
+"Indeed. If it were a truly unique or powerful artifact, the Corvish Crown would have confiscated it the moment I brought it above ground." Jasper sniffed, though he didn't seem too bothered. "I will admit that the King's exactors are at least civilized about their expropriations. They pay a fair market price when they lay claim to a delver's loot. The Crown already has plenty of simple appraisal tools like this, so they let me keep it."
 """,
 )
 
