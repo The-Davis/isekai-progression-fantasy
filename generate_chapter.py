@@ -30,17 +30,15 @@ You are an expert in adventure fantasy and have a deep understanding of storytel
     
     output += """Now I need you to write the next section. Here is the outline:
 
-After his shouting and waving fails to draw his father's attention, Tal begs Cord to row him out to meet the barge before it docks. Cord obliges and pushes the skiff back into the water. Wicket eagerly jumps in, swept up in Tal's excitement and happy to be included.
-As Cord rows them toward the barge, Wicket comments that he can see why Tal's excited to see his pa if he's the sort of man who doesn't get sore for losing such nice boots.
-This prompts Tal to look down at his feet. The river swallowed one of the boots he stole from Simm. He's only wearing one. He didn't even notice in all the excitement of pulling Wicket out of the water.
-His father's impending arrival brings a sudden wave of shame. Tal reflects on how  destroying his brother's prized boots to save his own skin was a petty and spiteful thing to do. Alas, the older narrating Tal reflects, he didn't learn quite the right lesson at the time. At the time, all he worried about was the fact that coming home with *one* ruined boot meant his crime would be obvious, and his father would be disappointed.
-Wicket manages to get the story out of Tal, who tells about Simm, the mud, and the botched plan to drown the evidence. Wicket listens, and his eyes light up with mischief and he announces he can fix it if Tal gives him the remaining boot.
-When Tal hands it over, Wicket immediately chucks it over the side of the skiff. It sinks instantly into the Varn.
-Tal is horrified and demands to know how destroying the other boot helps anything. Wicket explains that now, Tal can go home and look his mother and brother in the eye, and *truthfully* claim that the new boy in town threw Simm's boots into the river, and that Tal gave him a whooping.
-Tal appreciates the audacity of the half-truth. He could leave out the order of events and let his mother her draw her own conclusions. The older narrating Tal reminds the reader again that he was a rascal, and it would take time before he started remembering the proper lessons of his first life.
-As they pull alongside Long Tom's barge, the narrative zooms out with a warm, nostalgic closing thought of that being how Tal met Wicket Tully and established the pattern of life for several years. It all changed the year of the murder.
+To Tal's frustration, Jasper taps the side of his nose and refuses to say. He puts his disc artifact away and starts walking down the road. Tal quickly follows, then takes the lead again towards his house.
+He tries to pester Jasper further, asking if he could use the disc. Jasper's good mood remains and he humors Tal's questions, but tells him no. He does tell him about how he got his, by taking it from a shallow dungeon delve near the Rhondda Taf mountains in the west.
+Jasper adds that these appraisal tools aren't particularly rare, and Tal could get one of his own easily enough if he took up dungeon delving. If it were a truly unique or highly powerful artifact, the Corvish Crown in Dornon would have confiscated it upon discovery. He admits, albeit grudgingly, that the King's exactors at least pay a fair market price in silver bobs and gold nobs when they expropriate dungeon loot.
+As they near the hill where Tal's house sits, Jasper comments on the dense woods and stony cave mouths dotting the hillsides. He drops a tantalizing hint: he didn't come to Larchleah for the fresh air. He's following an obscure snippet of Corvish lore about an unmapped dungeon that could hold an undiscovered artifact. He casually asks Tal if he knows the local woods well, to which Tal eagerly nods, seeing an opportunity for an adventure.
+They arrive at the Sager house just as Martha Sager is coming out to dump a bucket of soapy water. Tal presents Jasper and his bags, praying his mother is in a good mood.
+Jasper turns up his charm to the maximum. He is exquisitely polite, wipes his boots thoroughly, and praises Martha's tidy home. More importantly, he produces a silver shilling to pay his rent upfront.
+Martha is grateful for the coin. Tal notices how her eyes follow it, and he files that away. She directs Tal to haul the bags into the spare room immediately.
 
-We'll end the chapter on that note.
+You can stop there and we'll edit before I provide the next section.
 
 
 
@@ -64,5 +62,13 @@ We'll end the chapter on that note.
 
 
 
+ to fetch fresh wash-water for their new VIP. Tal is left standing in the yard with two pennies in his pocket, utterly exhausted from carrying the bags, but with his mind racing. The cosmic mystery of the Eidolith has finally been made tangible. He knows magic is real, he knows he needs to awaken a mana core to use it, and he knows the Everdark is the key to escaping his mundane life.
+
+
+
+
+After dropping off the heavy bags, Jasper tosses Tal the promised second copper penny.
+The chapter ends with Tal sitting alone in his room or on the back stoop, looking at the two coppers in his hand. The lazy contentment of the river town is gone.
+His mind is racing with the knowledge that the Eidolith system has measurable rules, and if he can just figure out how to awaken his mana core, he finally has a path to the adventure he's been dreaming of.
 
 """
