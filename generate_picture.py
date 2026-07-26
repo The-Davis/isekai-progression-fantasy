@@ -23,7 +23,7 @@ ART STYLE: Bruce Timm style, 1990s classic American 2D animation. Bold, confiden
 
 Fill out the character DESCRIPTION, SETTING, and LIGHTING based on your read of the chapter and scene I provided.
 
-The picture for this should chapter one, where the viewpoint character, Tal, meets the mysterious fire.
+The picture for this should chapter two, where the viewpoint character, Tal, fights with Wicket.
 
 Thank you!"""
 
