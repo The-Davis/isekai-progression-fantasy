@@ -37,8 +37,11 @@ As they near the hill where Tal's house sits, Jasper comments on the dense woods
 They arrive at the Sager house just as Martha Sager is coming out to dump a bucket of soapy water. Tal presents Jasper and his bags, praying his mother is in a good mood.
 Jasper turns up his charm to the maximum. He is exquisitely polite, wipes his boots thoroughly, and praises Martha's tidy home. More importantly, he produces a silver shilling to pay his rent upfront.
 Martha is grateful for the coin. Tal notices how her eyes follow it, and he files that away. She directs Tal to haul the bags into the spare room immediately.
-
-You can stop there and we'll edit before I provide the next section.
+The heavy bags finally get the better of Tal as he hauls them up the stairs to the second floor. He stumbles, but to his surprise Simmon comes to help him. His brother rarely does anything nice for him, and Tal uncharitably assumes it's to look good for their mother.
+When Tal sets the bags on Jasper's bed, the scholar tosses Tal the promised second copper penny and shoos him out of his room.
+Tal rushes outside before his mother or brother can press him to do any other chores. He finds a quiet spot and stares at the two copper coins.
+His mind racing, but not on the coins, despite them being more wealth than he's ever seen. The cosmic mystery of the Eidolith has finally been made tangible. He knows magic is real, he knows he needs to awaken a mana core to use it, and he knows there are artifacts he needs to find.
+We'll end the chapter on that note.
 
 
 
@@ -59,16 +62,5 @@ You can stop there and we'll edit before I provide the next section.
 We'll end the chapter on that note.
 
 
-
-
-
- to fetch fresh wash-water for their new VIP. Tal is left standing in the yard with two pennies in his pocket, utterly exhausted from carrying the bags, but with his mind racing. The cosmic mystery of the Eidolith has finally been made tangible. He knows magic is real, he knows he needs to awaken a mana core to use it, and he knows the Everdark is the key to escaping his mundane life.
-
-
-
-
-After dropping off the heavy bags, Jasper tosses Tal the promised second copper penny.
-The chapter ends with Tal sitting alone in his room or on the back stoop, looking at the two coppers in his hand. The lazy contentment of the river town is gone.
-His mind is racing with the knowledge that the Eidolith system has measurable rules, and if he can just figure out how to awaken his mana core, he finally has a path to the adventure he's been dreaming of.
 
 """
