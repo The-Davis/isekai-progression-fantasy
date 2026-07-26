@@ -35,15 +35,13 @@ def generate_outline_prompt() -> str:
 
     output += """Your task is to create a broad outline for an upcoming section of the story. Here is what we have to work out now:
 
-Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration around the sawmill, trips down the river and to the sea, and so on.
-Our fourth chapter needs to continue to set that stage. I think to open we need to go more for the narrator style again so Tal can establish a bit about where he ended up and what ordinary people know. He can describe how the sun doesn't set, but other rings occluding the sun as well as massive floating islands give the land a day/night cycle.
-He can describe how schooling was limited to what's needed to work in a company town (practically nothing), but Tal picks up written language quickly and learns a thing or two from people passing through. He also gets some useful skills from people in town.
-Following that introduction, thirteen-year-old Tal dodges chores assigned by a strict Martha to spend a lazy afternoon fishing with Wicket. Elsie helps him dodge Simmon. Tal and Wicket are joined at their fishing spot (not the hidden hollow under the docks, a different spot better for fishing than hiding) by Old Man Hollis.
-We use this scene to show some of Tal learning from people in town and to establish the woodcarver's gentle nature. We also need to show his whittling knife is sharp, since it will be the murder weapon. Don't say that, of course, it's just setting something up for later payoff.
-Now that he's hit puberty, Tal's restless desire for a life beyond the logging town is starting to stir, but it isn't quite ready to assert itself. We can show this rather than explicitly state it.
-This sets up the arrival of the next important player. Long Tom's barge returns (Tal reminds the reader how his family's life revolves around this event). Tom brings news that a new Company Foreman will be arriving soon, which sets the town gossip mill into overdrive.
-Almost unnoticed by the gossip but not unnoticed by Tal is Tom's paying passenger: a bespectacled hedge wizard Jasper Moray. Tal is fascinated by him. The man has an aura and reminds him of the fire he witnessed between his first life and his second. He would eventually learn why.
-When he returns home, he finds that Jasper has taken up rooms at the Sager house as a paying guest.
+Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration, trips down the river and to the sea, and so on, but also introduce magic and the system that runs the Eidolith worldcraft through that process.
+Our fifth chapter needs to continue to set that stage. We opened it nicely, putting Talmon and Jasper Moray together. We can use the rest of the chapter as a primer for "what's actually going on" for the reader and for Tal.
+As Tal leads Jasper through town and back to his house, he becomes infatuated with magic and manages to coax the wizard into telling him things. We'll need to work out an introduction between the pair, since Jasper knows Talmon's name but Tal doesn't know his.
+I'm thinking we can show that Jasper has an artifact that lets him see his own six attributes and his own mana core. When he lets Tal see it, Tal realizes that this is the source of the strange feeling of warmth, not Jasper himself.
+The artifact, Tal privately muses, is part of the same system as the "proxy interface" the fire called itself. Tal prods and pries, and Jasper teasingly gives him some information, hinting that mana cores are something people have that can be awakened to give access to magic, but he declines to tel Tal how to do it.
+Jasper does reveal that he got the artifact in a dungeon, but that this particular type of artifact isn't particularly rare. If it was, the kingdom would doubtless take it from him. They do that sometimes, and while it rankles Jasper, he has to admit they give a fair price for what they take.
+Jasper hints that he's in Larchleah following rumors about a dungeon and an artifact, but he doesn't go into more detail. They arrive at the house and we wrap it up with a summary of the social niceties of getting a boarder settled.
     
 Please ensure that the outline fits into the world I've provided, provides the characters with interesting challenges and dynamic scenes, and doesn't contradict anything in the notes or story so far.
 Thank you."""
