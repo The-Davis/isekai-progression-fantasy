@@ -252,6 +252,12 @@ I let my curiosity brew for a few minutes as we navigated the muddy street and d
 "Do you think your father would bring a nameless man up the Varn?" The man chuckled, and I felt embarrassed by how easily he disarmed my social feint. He went on, however. "Your father knows my name, but with that tangle at the docks I suspect he will not arrive at your home in time to make introductions. Very well," he gave me a shallow but elegant bow. "I am Jasper Moray, traveling scholar of antiquities."
 "A scholar, Mister Moray?" I asked, playing the part of a wide-eyed river boy enthralled by a great man, though behind that facade, I was observing him closely. "I've never met a scholar before. Nor that trick you did with the coin... I ain't never seen anything like it. You must be a very grand wizard."
 "A wizard? Well..." Jasper puffed up his chest, and a self-satisfied smirk settled onto his features. I'd struck the right nerve. "Hardly a wizard. I only have a few tricks, which is why I call myself a scholar. A real wizard would take offense if I claimed to be one of them. I suppose I could get away with claiming to be a hedge wizard."
+"Hedge wizard or not, you must know a lot," I said. "To travel all the way up the Varn just to study antiquities... I'll bet you have all sorts of secrets, right? The sort that let you float a coin?"
+"You are a perceptive boy, Talmon," he murmured. The man was eating up my flattery. "Perhaps..."
+He paused, and I stopped as well. We were on a quiet stretch of the road away from the bustle of the docks, and he glanced around a few times. Seemingly satisfied that we were alone, he unbuttoned a large pocket on his vest.
+"It so happens that you are correct," Jasper said. "The world is littered with the remnants of an age greater than our own, and I happen to have one or two."
+He withdrew a silver disc about the size of his palm from his pocket. The moment it was exposed to the air, the prickling warmth washed over me again, much stronger this time. I stared at it, realizing it was the source of the sensation rather than Jasper. The metal was etched with geometric lines that looked almost like circuitry I'd seen in my previous life. This had to be a piece of the cosmic machinery that had brought me here and given me new life.
+"What is it?" I asked, unable to mask the awe from my voice. "What does it do?"
 """,
 )
 
