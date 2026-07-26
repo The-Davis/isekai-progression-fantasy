@@ -8,10 +8,6 @@ act_one = Outline(
     content="""
 Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration around the sawmill, trips down the river and to the sea, and so on.
 
-**Chapter 4:** Following a three-year time skip to the "year of the murder," thirteen-year-old Tal and Wicket dodge chores assigned by a strict Martha and a smug Simmon to spend a lazy afternoon fishing with Old Man Hollis, establishing the woodcarver's gentle nature and Tal's lingering, restless desire for a life beyond the logging town.
-
-**Chapter 5:** Long Tom returns on his barge amidst a joyous town celebration, bringing news that a new Company Foreman is arriving soon and introducing his paying passenger: the charismatic, spectacles-wearing hedge wizard Jasper Moray, who rents Martha's spare room.
-
 **Chapter 6:** Tal becomes utterly infatuated with the idea of magic and eagerly runs errands for Jasper, eventually coaxing the wizard into explaining the six attributes and teaching him a few basic mental exercises to control Focus and Willpower, though Jasper refuses to show him how to actually awaken his mana core.
 
 **Chapter 7:** Desperate to awaken his core and unlock his potential, Tal obsessively collects local folklore and ridiculous Corvish superstitions from Wicket about how to force an awakening, leading to a comedic, failed attempt in the woods that results in nothing but mud, ruined clothes, and a scolding from Martha.
