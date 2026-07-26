@@ -209,12 +209,31 @@ Wicket never had much patience for instruction, preferring to learn his lessons 
 I didn't say any of this to Wicket or Hollis, of course, and the hours ticked by in the sun-warmed haze. We hauled in a few more fish, enough to ensure Wicket wouldn't go to bed with an empty belly with enough left over for a peace offering to my mother.
 Eventually, Hollis set his pole aside, dug into one of his coat pockets, and produced a block of larch wood. From another pocket, he withdrew his carving knife.
 I paid close attention as he began to work the wood, fascinated by the deft strokes from hands that often shook if he hadn't had a drink in a while. In spite of his lazy lifestyle, the old man maintained his tools well. The knife he used gleamed in the sunlight filtering through the willow branches, and it sliced through the dense larch wood like it was nothing more than warm butter.
+The river's peace was interrupted by a sudden blast of a barge horn, which could only mean one thing. I dropped my fishing pole like it'd caught fire and sprang to my feet. My father's barge had returned.
+"Hey, where are you going?" Wicket called out. "What about your share?"
+"Keep it all!" I shouted over my shoulder, already breaking into a run toward the town and its docks.
+I would've hurried just to greet my father, as I did every other week or so when the barge docked, but the sounding horn had reminded me of my curiosity about the guest my mother had mentioned. My long legs swiftly ate up the distance back to Larchleah proper.
+The barge docks were swarming by the time I arrived. A returning barge always brought news and trinkets from Dornon, down the river from us, and it seemed half the town had abandoned their work to greet it. I wove through the throng, using my smaller size to slip through the gaps in the crowd until I reached the gangplank.
+My father, Long Tom Sager, stepped off the deck and onto the dockboards. I opened my mouth to shout a greeting, but he held up his hands to quiet the crowd.
+"Listen here, folks!" my father bellowed, and his deep voice easily cut through the noise of the crowd. They hushed, leaning in eagerly to hear what he had to say. "I've news out of Dornon! The Company is sending a new foreman up the river to take over the Larchwood charter. He'll be here just as soon as a proper transport can fetch up his things for the manor."
+Silence held for a heartbeat before the docks erupted with anxious clamor.
+"What does this mean for our quotas?" yelled one of the thick-necked loggers from the back of the throng.
+"Are they keeping the current scrip rate?" a woman chimed in, her voice shrill with worry. "Or will the Company Store raise the price of flour again? We can barely make ends meet as it is!"
+The adults were consumed by the dread of the working poor. When your entire livelihood is dictated by a company, any change in management is terrifying. I, on the other hand, was bored. The last foreman had been an invisible fixture whose only contribution to the town's excitement was quietly dying of old age in his sleep a few months prior. While the town fretted over timber drafts and scrip value, my attention was quickly diverted by a man who stepped off the gangplank behind my father.
+He was a tall, lean fellow in his thirties, dressed in fancy slacks and a plum-colored pinstripe vest that belonged in a fancy parlor, not a muddy logging camp. He also had wire-rimmed spectacles perched on his nose and a neatly trimmed goatee, but the item strapped across his chest caught my attention and drove my curiosity up the wall. 
+It was a leather bandolier with several faintly glowing crystals slotted in its loops. Mana crystals.
+As the man strode past the fretful laborers, he passed within a few feet of me. When he did, warmth washed over my skin, raising every hair on my arms to rigid attention. In an instant, that sensation triggered a memory of the synthetic entity of fire I had spoken with in the boundless void between my lives.
+I stared at him, open-mouthed, remembering how the fire had told me there would be others of its kind and I should seek them out when I reached my majority.
+Had one of them just walking into my life?
 """,
 )
 
 chapter_five = Chapter(
     title="Chapter Five",
-    content="""
+    content="""My unabashed staring didn't go unnoticed. The man stopped just a few paces past me and turned to look directly into my eyes. He lifted a hand and made a peremptory gesture, beckoning me forward as if I were a stray dog.
+"You, boy," he said. "Over here."
+I stepped towards him, feeling agitation and worry. I didn't like his attitude, but I worried he'd felt the same heat and might have something sinister in mind. I stood in front of him, waiting. The man peered at me over the wire rims of his spectacles, his eyes tracking up my lanky frame to settle on the top of my head.
+"With a shock of yellow hair like that, you're bound to belong to the barge captain," he surmised aloud. A wry smirk played at the corners of his mouth. "I refuse to believe two heads with that ridiculous shade of bright yellow live in the same place without being related."
 """,
 )
 
@@ -259,4 +278,5 @@ act_one_chapters: list[Chapter] = [
     chapter_two,
     chapter_three,
     chapter_four,
+    chapter_five,
 ]
