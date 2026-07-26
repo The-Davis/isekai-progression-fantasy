@@ -8,8 +8,6 @@ act_one = Outline(
     content="""
 Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration around the sawmill, trips down the river and to the sea, and so on.
 
-**Chapter 6:** Tal becomes utterly infatuated with the idea of magic and eagerly runs errands for Jasper, eventually coaxing the wizard into explaining the six attributes and teaching him a few basic mental exercises to control Focus and Willpower, though Jasper refuses to show him how to actually awaken his mana core.
-
 **Chapter 7:** Desperate to awaken his core and unlock his potential, Tal obsessively collects local folklore and ridiculous Corvish superstitions from Wicket about how to force an awakening, leading to a comedic, failed attempt in the woods that results in nothing but mud, ruined clothes, and a scolding from Martha.
 
 **Chapter 8:** The new Company Foreman arrives on a crimson barge with his elfkin daughter, Rosie Winslow, and Tal is instantly smitten by her pristine beauty and fancy pastel dresses, much to the eye-rolling disgust of his longtime friend Clary.
