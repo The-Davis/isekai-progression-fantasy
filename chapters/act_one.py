@@ -234,6 +234,18 @@ chapter_five = Chapter(
 "You, boy," he said. "Over here."
 I stepped towards him, feeling agitation and worry. I didn't like his attitude, but I worried he'd felt the same heat and might have something sinister in mind. I stood in front of him, waiting. The man peered at me over the wire rims of his spectacles, his eyes tracking up my lanky frame to settle on the top of my head.
 "With a shock of yellow hair like that, you're bound to belong to the barge captain," he surmised aloud. A wry smirk played at the corners of his mouth. "I refuse to believe two heads with that ridiculous shade of bright yellow live in the same place without being related."
+I bristled at the man's words. I endured the nickname "Tallow" from my friends and neighbors because familiarity breeds comfortable disrespect that you have to abide. The man was correct that most of the hardworking folk in this part of the Corvish Isles possessed dark hair. Our entire family's straw-colored heads stood out like dandelions in a field, making us a curiosity whenever new people came through town. From this haughty stranger, having it pointed out rankled.
+Nevertheless, I swallowed my pride. A rascal I might have been in this second childhood, but I knew that manners never cost a thing and often paid dividends. I offered him a polite nod.
+"I'm the barge master's son, sir," I said. "Talmon Sager. What can I do for you?"
+The man didn't offer his own name in return. He gestured towards the barge's gangplank, where a pair of leather valises rested near the railing.
+"You can make yourself useful. Carry those bags up to your house for me. I've taken rooms there, and I should like to get out of this damp river air as soon as possible."
+I fumed again at being ordered about like a rented mule. I'd been eager to lay eyes on our guest, but I hadn't anticipated becoming his personal porter. Still, I promised to fetch them straight away, though a spiteful plan was already forming to "accidentally" drop one of his bags into the deepest of puddle river muck I could find on the way to our door.
+As I turned to head up the gangplank, the stranger cleared his throat. "A moment... Talmon, wasn't it?"
+I paused and looked back. With a theatrical flourish, the man reached into his vest and produced a copper penny. The sight of real coin instead of company scrip in Larchleah was enough to catch my attention, but what the man did next boggled my mind.
+He held the coin flat on his palm, and one of the mana crystals on his bandolier began to pulse with ethereal light. The coin rose from his hand, defying gravity to float across the few feet of air separating us before dropping gently into my outstretched palm.
+"There's another waiting for you," the man said with a sly wink, "provided my bags arrive on your doorstep as spotless as they are now."
+My jaw dropped as I stared at the copper resting in my hand. I'd heard tales of magic, and I'd guessed the man had a bit of magic about him from the sight of the crystals, but actually seeing it performed in front of me was staggering. What other secrets could this man show me?
+I pocketed the coin and dashed up the gangplank. I was determined that those bags would reach my mother's house in immaculate condition, even if I had to run across rooftops to keep them out of harm's way. I was going to make a spectacular impression on our new lodger.
 """,
 )
 
