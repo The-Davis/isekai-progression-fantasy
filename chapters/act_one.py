@@ -179,7 +179,15 @@ It was a beautiful, simple time. And it remained so, right up until the year of 
 
 chapter_four = Chapter(
     title="Chapter Four",
-    content="""
+    content="""My thirteenth year was the crucible that finally burned away the complacency of childhood. I have called it the "year of the murder" so often in my thoughts that the phrase has become rote. It was the year my second life truly began, but to understand why, you must first understand the shape of the world that contained me.
+Should you be reading this from some distant part of the ring, another ring in the Eidolith worldcraft, or perhaps even from another world altogether... after all, I myself originally came from elsewhere... my circumstances warrant some explanation.
+I was born into Larchleah, a logging settlement in the Corvish Isles. If you travel more than a dozen miles, the first name means nothing. Travel only a few sectors turnwise or counter on our ring, and the second name means nothing. What matters is that the town was owned by a chartist monopoly that supplied the kingdom with timber. I will not bore you with the economic details, save to say that in an island nation like Corvland, lumber is the lifeblood of naval might. Ships meant the difference between our nation being sovereign and suffering conquest.
+Because our town existed to feed insatiable mills and shipyards, schooling was an unnecessary luxury. The Company needed strong backs to swing axes, not strong minds to get distracted by questions. A boy's education usually consisted of learning how to make his mark on a work contract and count just past his fingers and toes.
+I didn't really need a formal education to rise above my peers. My mind belonged to an engineer who had already lived a full life, and I retained my first life's autodidactic tendencies. I taught myself to read and write the Corvish language by pestering company clerks and scrutinizing their discarded shipping manifests. I gleaned the broader strokes of geography, history, and kingdom politics by gossiping with travelers and my father's barge crew.
+Beyond that, I was a sponge for practical knowledge. From the rough-handed men of the docks and the woods, I learned the knot-tying, the art of tracking through the brush, and the steady patience of woodworking. I was assembling a toolkit for world-spanning adventures I kept promising myself I would one day seek.
+Yet, in truth, I'd grown lazy.
+The comfortable embrace of the river town had only strengthened its hold on me. As I coasted on inherited wits from my past life, I was enjoying being a clever fish in a secluded pond far too much. It took a fateful arrival and a murder to set everything back in motion.
+I recall the morning it began. I was thirteen years old, and I was putting my exceptional mind to the purpose of dodging my mother's chore list. She was on the warpath, marching through the narrow halls of our timber-framed home and loudly seeking a sacrificial son to scrub the soot from the hearth. My father was due back from Dornon soon, and aside from the typical excitement that accompanied his returns, she claimed he'd be bringing a guest.
 """,
 )
 
@@ -229,4 +237,5 @@ act_one_chapters: list[Chapter] = [
     chapter_one,
     chapter_two,
     chapter_three,
+    chapter_four,
 ]
