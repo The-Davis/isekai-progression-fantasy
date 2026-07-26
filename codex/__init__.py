@@ -3,15 +3,16 @@ from codex.corva import corva_entries
 
 litrpg_elements = CodexEntry(
       title="LitRPG Elements of This Story",
-      content="""While we have RPG-style stats in this story, there is no "system", no quests, no achievements, or any other gamelike elements. Stats are the mortals' attempts to measure a person's abilities.
+      content="""While we have RPG-style stats in this story, there are no quests, no achievements, and very few gamelike elements. There are artifacts which show stats, but these are only measurement of a person's abilities rather than a "scorecard".
 Stats can be enhanced through the collection and application of mana, which some people are able to channel into the body. Some do so through meditation, while others force it in with mana crystals.
-There are six attributes that most philosophies recognize:
+There are six attributes:
 Strength is the body's physical power.
 Endurance is how long a body can exert itself and go without rest.
 Coordination is manual dexterity.
 Quickness is raw physical speed and reaction time.
 Focus is how well the mind focuses on a thought or a task.
 Willpower is a person's mental power, the "push" that forces magical action to take place, and the resistance against mental attack.
+The artifacts to display these stats use the Illusion magic school and are fairly common artifacts from dungeons. Unknown to the mortal denizens of the Rings of Aratta, this is part of the ancient tutorial system that has been defunct for over ten thousand years.
 """
 )
 
