@@ -188,6 +188,10 @@ Beyond that, I was a sponge for practical knowledge. From the rough-handed men o
 Yet, in truth, I'd grown lazy.
 The comfortable embrace of the river town had only strengthened its hold on me. As I coasted on inherited wits from my past life, I was enjoying being a clever fish in a secluded pond far too much. It took a fateful arrival and a murder to set everything back in motion.
 I recall the morning it began. I was thirteen years old, and I was putting my exceptional mind to the purpose of dodging my mother's chore list. She was on the warpath, marching through the narrow halls of our timber-framed home and loudly seeking a sacrificial son to scrub the soot from the hearth. My father was due back from Dornon soon, and aside from the typical excitement that accompanied his returns, she claimed he'd be bringing a guest.
+I was mildly interested in this impending guest. Our family had never taken in a boarder before, though my parents had long discussed renting out the spare room to bring a little extra coin into the house. That curiosity was outweighed by the prospect of spending a perfectly fine morning up to my elbows in black soot. I already had plans, and I didn't intend to waste my day scrubbing the hearth.
+I crouched behind the woodpile, my fishing pole clutched tightly against my chest. Inside the house, the thud of my mother's footsteps promised doom if she found me. Simmon was diligently stacking kindling near the stoop, his own chore for the morning. He paused every few seconds to scan the yard, his eyes narrowed and searching. He didn't care a whit about the hearth; he just wanted the satisfaction of catching me trying to escape it.
+My hiding spot wasn't as good as I hoped, but fortunately the person who spotted me was Elsie. Before I could press a finger to my lips, she spun toward the house.
+"Simm!" she called out, her voice pitching up with perfect, innocent urgency. "Are you looking for Tallow? I just saw him running up the road toward the cooper's shop!"
 """,
 )
 
