@@ -208,6 +208,7 @@ Wicket and I settled down and baited our hooks. I cast my line into the water, a
 Wicket never had much patience for instruction, preferring to learn his lessons through trial and error, or preferably not at all. I kept quiet and watched my bobber drift in the slow current. I saw an uncomfortable reflection of myself in the gasping fish Hollis had landed. Larchleah was my eddy, and I was content floating in its shallows and waiting for my meals to float right to my mouth. Why wasn't I taking advantage of my miraculous second life?
 I didn't say any of this to Wicket or Hollis, of course, and the hours ticked by in the sun-warmed haze. We hauled in a few more fish, enough to ensure Wicket wouldn't go to bed with an empty belly with enough left over for a peace offering to my mother.
 Eventually, Hollis set his pole aside, dug into one of his coat pockets, and produced a block of larch wood. From another pocket, he withdrew his carving knife.
+I paid close attention as he began to work the wood, fascinated by the deft strokes from hands that often shook if he hadn't had a drink in a while. In spite of his lazy lifestyle, the old man maintained his tools well. The knife he used gleamed in the sunlight filtering through the willow branches, and it sliced through the dense larch wood like it was nothing more than warm butter.
 """,
 )
 
