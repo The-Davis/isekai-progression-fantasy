@@ -8,13 +8,9 @@ act_one = Outline(
     content="""
 Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration around the sawmill, trips down the river and to the sea, and so on.
 
-**Chapter 7:** Desperate to awaken his core and unlock his potential, Tal obsessively collects local folklore and ridiculous Corvish superstitions from Wicket about how to force an awakening, leading to a comedic, failed attempt in the woods that results in nothing but mud, ruined clothes, and a scolding from Martha.
-
 **Chapter 8:** The new Company Foreman arrives on a crimson barge with his elfkin daughter, Rosie Winslow, and Tal is instantly smitten by her pristine beauty and fancy pastel dresses, much to the eye-rolling disgust of his longtime friend Clary.
 
 **Chapter 9:** Eager to impress the sheltered but curious Rosie, Tal offers to be her local guide to the shallow ruins on the edge of the Everdark; Clary aggressively tags along out of pure jealousy, and Cord gets dragged in to keep everyone from breaking their necks.
-
-**Chapter 10:** The group's excursion into the woods is cut short by a terrifying encounter with the spindly, unsettling Gobber Dob, who drops from the pine canopy to chase them out of his logging territory with cruel threats, solidifying his status as the town nightmare.
 
 **Chapter 11:** Tal gets in serious trouble with Martha when Simmon catches him sneaking Rosie some of the family's prized honey-cakes; Tal is confined to the house with extra chores, leaving sweet little Elsie and an exasperated Wicket to act as his messengers to the outside world.
 
