@@ -297,6 +297,12 @@ chapter_six = Chapter(
     content="""For two days following Jasper's arrival, my father kept the household running like a disciplined ship. That was how it was when he returned from his long stretches on the river. He assumed the helm, and there was no questioning the captain of the Sager family. I stayed firmly in line under his watchful eye.
 Naturally, Simm wasted no time in apprising him of my recent skiving. My father laid down the law, and I was sentenced to scrub the soot from the hearthstones I'd initially dodge, then to a veritable mountain of other chores that needed doing.
 I set about the work without complaint. In my first life, I'd enjoyed labor, and it was only the rebelliousness of my second life's youth that galled at it. With my father watching over me, I found it easier to apply a grown man's work ethic than when he was absent. I worked partly because I enjoyed my father's approving nod, but mostly because I enjoyed depriving Simm of his favorite pastime. Watching Simm skulk around while I worked, desperately hoping I would slip up so he could report my failures, was its own reward.
+My diligence pleased my parents, but it came at a severe cost to my curiosity.  The engineer part my mind was consumed by thoughts of the "dormant candle". Knowing that the engine of magic sat unlit in my own chest was an itch I couldn't scratch. Under my father's watchful eye, I had to leave Jasper alone while the hedge wizard marched off each morning to I-knew-not-where.
+The morning of the third day brought my deliverance. My father hugged us all, kissed my mother soundly, and departed on the Company barge once more. As soon as his vessel had disappeared around the bend of the Varn, I started watching my mother for an opportunity. Sure enough, she soon turned her back to tend to something, and I was out the door and gone in an instant.
+Just past our boundary fence, a rustle in the blackberry bushes caught my attention. I skidded to a halt, expecting to find Simm had caught me. Instead, a little blonde head popped out from the thicket.
+"Where are we going, Tallow?" Elsie asked.
+I held in a sigh. I was a terrible influence on my little sister. She'd slipped away from her chores just as deftly as I had. I should have marched her back home, but that would have meant facing punishment as well.
+"We're going to find my friends," I told her instead, taking her by the hand. "C'mon."
 """,
 )
 
