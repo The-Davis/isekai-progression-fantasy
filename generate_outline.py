@@ -36,12 +36,11 @@ def generate_outline_prompt() -> str:
     output += """Your task is to create a broad outline for an upcoming section of the story. Here is what we have to work out now:
 
 Our story starts with a description of the boy's life in his riverside town, including his playful tricks and minor punishments, exploration, trips down the river and to the sea, and so on, but also introduce magic and the system that runs the Eidolith worldcraft through that process.
-Our fifth chapter needs to continue to set that stage. We opened it nicely, putting Talmon and Jasper Moray together. We can use the rest of the chapter as a primer for "what's actually going on" for the reader and for Tal.
-As Tal leads Jasper through town and back to his house, he becomes infatuated with magic and manages to coax the wizard into telling him things. We'll need to work out an introduction between the pair, since Jasper knows Talmon's name but Tal doesn't know his.
-I'm thinking we can show that Jasper has an artifact that lets him see his own six attributes and his own mana core. When he lets Tal see it, Tal realizes that this is the source of the strange feeling of warmth, not Jasper himself.
-The artifact, Tal privately muses, is part of the same system as the "proxy interface" the fire called itself. Tal prods and pries, and Jasper teasingly gives him some information, hinting that mana cores are something people have that can be awakened to give access to magic, but he declines to tel Tal how to do it.
-Jasper does reveal that he got the artifact in a dungeon, but that this particular type of artifact isn't particularly rare. If it was, the kingdom would doubtless take it from him. They do that sometimes, and while it rankles Jasper, he has to admit they give a fair price for what they take.
-Jasper hints that he's in Larchleah following rumors about a dungeon and an artifact, but he doesn't go into more detail. They arrive at the house and we wrap it up with a summary of the social niceties of getting a boarder settled.
+Our sixth chapter needs to continue to set that stage. We opened it nicely, establishing stats and magic. We can shift the focus back to Tal and his friends now.
+I think we need to quickly summarize the first two days after chapter five. Tom lays down the law and gets Tal back in line for Martha. Tal plays the dutiful son and does chores. As soon as Tom's barge departs with the next timber load, Tal's back to his old tricks.
+He makes the rounds of his friends: Wicket, Cord, Clary, and even Elsie, sharing with them what he's learned about a mana core. He asks each of them for anything they know about forcing a mana core to awaken. Most of them know nothing, but Wicket knows about this.
+He's extremely superstitious about magic, but he's willing to share what he knows with Tal. What he knows is pure hogwash, a supposed ritual to force an awakening. This leads to a comedic and embarassingly failed attempt in the woods. This should involve Cord and Clary for sure, maybe Elsie.
+After the embarassing failure, we need an encounter with and introduction to the spindly, unsettling Gobber Dob, who drops in on the little group. We need to establish him as cruel and creepy, probably having him leer suggestively at Clary and make horrid comments, eliciting protectiveness from the boys. In the end, they all flee the creepy goblinlike man, solidifying Gobber's status as the town nightmare.
     
 Please ensure that the outline fits into the world I've provided, provides the characters with interesting challenges and dynamic scenes, and doesn't contradict anything in the notes or story so far.
 Thank you."""
@@ -68,8 +67,7 @@ Chapter 20: The boys swear an oath of secrecy. An omen terrifies them.
 
 Your task is to create twenty chapters of material to fill in the blanks.
 We need Tal learning to do things and progressing slowly from comfortable, fun-loving boy to a more serious young man. We need interactions between Tal and Wicket and their family and friends. Lots of fun. The major beats we need to be sure to hit:
-Long Tom returning home with Jasper as a passenger and Jasper taking up rooms at the Sager home. Long Tom reports a new foreman is coming to town (foreshadowing Rosie)
-Tal learning about magic from Jasper and finding out he needs to awaken his mana core. Jasper won't tell him how, but does teach him a few fundamentals of the mental controls. Tal obsessively collects rumors and childish superstitions on how to do this.
+Tal obsessively collects rumors and childish superstitions on how to do this.
 Interactions with Hollis to show he's a friend to the children. Fearful sightings of Gobber Dob. Foreshadowings that he, Jasper, and Hollis are in cahoots over something.
 Tal wooing Rosie. Jealousy between Clary and Rosie.
 Interactions with Tal, Martha, Simmon, and Elsie. Work them in with the other kids.
