@@ -294,7 +294,9 @@ I was an engineer, and the grand machinery of this world was finally laid out be
 
 chapter_six = Chapter(
     title="Chapter Six",
-    content="""
+    content="""For two days following Jasper's arrival, my father kept the household running like a disciplined ship. That was how it was when he returned from his long stretches on the river. He assumed the helm, and there was no questioning the captain of the Sager family. I stayed firmly in line under his watchful eye.
+Naturally, Simm wasted no time in apprising him of my recent skiving. My father laid down the law, and I was sentenced to scrub the soot from the hearthstones I'd initially dodge, then to a veritable mountain of other chores that needed doing.
+I set about the work without complaint. In my first life, I'd enjoyed labor, and it was only the rebelliousness of my second life's youth that galled at it. With my father watching over me, I found it easier to apply a grown man's work ethic than when he was absent. I worked partly because I enjoyed my father's approving nod, but mostly because I enjoyed depriving Simm of his favorite pastime. Watching Simm skulk around while I worked, desperately hoping I would slip up so he could report my failures, was its own reward.
 """,
 )
 
@@ -334,4 +336,5 @@ act_one_chapters: list[Chapter] = [
     chapter_three,
     chapter_four,
     chapter_five,
+    chapter_six,
 ]
