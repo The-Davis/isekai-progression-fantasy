@@ -30,13 +30,15 @@ You are an expert in adventure fantasy and have a deep understanding of storytel
     
     output += """Now I need you to write the next section. Here is the outline:
 
-Chapter six starts with Tal summarizing the two days following Jasper's arrival. With Long Tom Sager home, the Sager household runs like a disciplined ship. Tom lays down the law, and Tal is forced into playing the part of the dutiful son.
-When Martha mentions Tal's recent skiving, Tom lays down the law and sets Tal to scrubbing the hearth and chopping kindling. Tal works without complaint, depriving Simm of any opportunity to tattle.
-Martha is pleased, and Jasper Moray is largely left alone, though Tal notes that he's in and out of the house all day, off to Tal-knows-not-where, since he's too busy playing the dutiful son to snoop.
-Tal's reveals that during this time, his mind was consumed entirely by the "dormant candle" of his mana core. He desperately wishes he could follow Jasper and wheedle him for more tidbits, but Tom keeps the family in line.
-On the morning of the third day, Tom departs on the company barge with a fresh load of timber. As soon as  the barge is out of sight and Martha turns her back to tend to a boiling pot, Tal drops his chores and bolts out the back door.
-We end summary mode and Tal tells in the normal manner how he tracks down his friends. Elsie tags along with him this time, having also escaped her chores. Maybe he's a bad influence on her.
-Tal and Elsie spot and gather Wicket, and the three of them head to the cooper's shop to find Cord and Clary. They find the siblings taking a break outside their father's workshop. Unlike Tal and Elsie, the pair dutifully ask permission before heading off with their friends, and Tal leads them all to the old sawmill. It's the best spot to have a covert meeting.
+Tal and Elsie spot and gather Wicket, and the three of them head to the cooper's shop to find Cord and Clary. They find the siblings taking a break outside their father's workshop.
+Describe Clary since this is the first time the reader is encountering her. Tal should mention he tried to show off for her the previous year and they'd gone to the annual dance together, but they were both young, so neither of them took such matters very seriously.
+Also mention how much Cord has grown comparied to Tal or Wicket.
+Unlike Tal and Elsie, the pair dutifully ask permission before heading off with their friends, and Tal leads them all to the old sawmill. It's the best spot to have a covert meeting.
+At the sawmill, Tal breathlessly relays everything he learned from the scholar. He taps his chest, explaining that everyone possesses a "mana core," a sleeping engine of magic.
+Clary rolls her eyes and tells Tal she thinks he's more likely to summon a stomach ache than a fireball.
+Cord keeps his thoughts to himself, though he prods his own stomach thoughtfully. Wicket seems to be pondering something, but also keeps quiet.
+Elsie is thoroughly amazed and confidently states her belief that Tal probably already has magic.
+Tal asks if any of them know how to force a mana core to awaken. After some hesitation, Wicket claims he heard about a foolproof method from someone, but it was one of his pap's drinking friends, so it's probably no good. Tal's willing to try.
 
 You can stop there and we'll edit before I provide the next section.
 
@@ -59,12 +61,6 @@ You can stop there and we'll edit before I provide the next section.
 We'll end the chapter on that note.
 
 
-*   **The Revelation:** Tal breathlessly relays everything he learned from the scholar. He taps his chest, explaining that everyone possesses a "mana core," a sleeping engine of magic. 
-*   **The Reactions:** 
-    *   *Clary* (smelling of toasted oats and sawdust) rolls her eyes, playfully mocking Tal's "delver phase" and telling him he's more likely to summon a stomach ache than a fireball.
-    *   *Cord* is pragmatic, asking what good a glowing crystal is if it doesn't help chop wood or track a deer. 
-    *   *Elsie* is thoroughly amazed and believes Tal probably already has magic. 
-*   **The Call to Action:** Tal asks if any of them know how to force a mana core to awaken. While Cord and Clary haven't a clue, Wicket puffs up. Despite his superstitions about magic, Wicket claims his perfect memory has retained a foolproof method gathered from an old Corvish bargeman's song. 
 
 **Scene 3: Wicket's Hogwash Ritual**
 *   **The Setting:** The group heads to the edge of town, just where the unpaved streets give way to the imposing, ancient pine stands. 
@@ -83,15 +79,7 @@ We'll end the chapter on that note.
 
 ### Chapter Six Outline: The Inner Fire and the Pine-Tar Nightmare
 
-**Scene 2: The Core Council**
-Tal excitedly explains what he learned from the traveling scholar: the silver diagnostic disc, the stats, and most importantly, the dormant mana core inside everyone's chest. He tells them he needs to figure out how to "light the candle" so he can learn magic.
-*   **The Reactions:** 
-    *   *Cord* is highly skeptical, noting that magic is for wealthy city dandies and elves, not river-rats. 
-    *   *Clary* rolls her eyes, agreeing with her brother, playfully poking fun at Tal's grand ambitions and telling him to keep his head out of the clouds. 
-    *   *Elsie* is just thrilled, fully believing Tal is going to be a grand wizard.
-    *   *Wicket*, however, takes it deadly seriously. He claims he knows exactly how to awaken inner magic, recalling a highly superstitious ritual sung by a drunk deckhand about "waking the inner fire."
-
-**Scene 3: Wicket's Hogwash Ritual**
+*Scene 3: Wicket's Hogwash Ritual**
 *   **Into the woods:** Wicket refuses to do the ritual in town where "the iron horseshoes on the road will scatter the magic." He leads the skeptical group to a secluded clearing just past the tree line of the oak and pine forest.
 *   **The ridiculous requirements:** Wicket's ritual is a hodgepodge of Corvish folklore and utter nonsense. It involves Tal rubbing river mud on his forehead, holding a specific dried frog bone, standing on one leg, and chanting a rhyming Corvish nursery song backward while visualizing a fire in his belly.
 *   **The attempt:** Desperate enough to try anything, Tal actually does it. The scene plays for maximum comedy. Tal is red-faced, straining his willpower, hopping on one leg, and chanting gibberish.
