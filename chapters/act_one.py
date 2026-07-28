@@ -308,7 +308,9 @@ Our destination was the cooper's shop, where Cord's pa worked. We found him and 
 Clary gave me a wry smile as we approached. "Skipping chores again, Tallow? Your ma is going to snap a willow switch on your backside one of these days."
 "She'd never!" I replied, flashing her a grin. "Willow switches are far too valuable. It's not like they grow on trees."
 "Tallow, willows are trees..." Cord began, but then he stopped and shook his head. "What're you up to today?"
-I quickly told them about our boarder and that I had a secret to share. Without another word, I beckoned them to follow and started off towards the old sawmill. I took my time, knowing the Coopers were too dutiful to abandon their posts without asking their father's permission first, but before long the five of us were climbing through the crumbling walls of the failed enterprise and into one of the best spots to share secrets in town.
+I told them I had a secret to share. Without another word, I beckoned them to follow and started off towards the old sawmill. I took my time, knowing the Coopers were too dutiful to abandon their posts without asking their father's permission first, but before long the five of us were climbing through the crumbling walls of the failed enterprise and into one of the best spots to share secrets in town.
+"So, what is it?" Wicket asked impatiently as soon as we were settled. "What's this big secret you've got? Does it involve treasure? I hope it involves treasure."
+"In a way," I admitted, and I told them everything. I told them about Jasper Moray, the glowing crystals on his bandolier, and the floating coin. I told them about the silver disc that showed the numbers of a person's capabilities. I was practically breathless when I got to the part about the shining light I'd seen when Jasper activated the disc. "He called it a mana core and said everyone has one right here." I tapped my stomach. "It's like an unlit candle sitting in a dark room for most people. You just have to find a way to light it."
 """,
 )
 
