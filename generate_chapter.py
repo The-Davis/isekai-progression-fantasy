@@ -53,20 +53,8 @@ write_file(generate_chapter_prompt())
 """
 You can stop there and we'll edit before I provide the next section.
 
-
 We'll end the chapter on that note.
 
-**Scene 3: Wicket's Hogwash Ritual**
-*   **The Setting:** The group heads to the edge of town, just where the unpaved streets give way to the imposing, ancient pine stands. 
-*   **The Ridiculous Instructions:** Wicket confidently dictates the "ritual" to wake the inner fire. It is absolute hogwash. He tells Tal he must smear cold river mud directly over his heart (where the core sits), eat a bitter, green pinecone to "shock" the spirit, spin in a circle to mimic an eddy, and recite a specific nursery rhyme backward.
-*   **The Comedic Failure:** Tal is so desperate for magic that he completely ignores his dignity (and the intellect of his past life). He actually performs the ritual. 
-*   **The Result:** Cord and Clary are practically doubled over with laughter. Tal chokes on the bitter pine sap, gets dizzy from spinning, and falls flat on his back in the dirt. No magic happens; he just gets a dizzy spell and a bad taste in his mouth. Clary ribs him mercilessly, while sweet Elsie pats his muddy head and tells him he looked very magical while falling. 
 
-
-*Scene 3: Wicket's Hogwash Ritual**
-*   **Into the woods:** Wicket refuses to do the ritual in town where "the iron horseshoes on the road will scatter the magic." He leads the skeptical group to a secluded clearing just past the tree line of the oak and pine forest.
-*   **The ridiculous requirements:** Wicket's ritual is a hodgepodge of Corvish folklore and utter nonsense. It involves Tal rubbing river mud on his forehead, holding a specific dried frog bone, standing on one leg, and chanting a rhyming Corvish nursery song backward while visualizing a fire in his belly.
-*   **The attempt:** Desperate enough to try anything, Tal actually does it. The scene plays for maximum comedy. Tal is red-faced, straining his willpower, hopping on one leg, and chanting gibberish.
-*   **The embarrassment:** Clary and Cord are laughing so hard they are leaning against each other. Elsie tries to mimic Tal's one-legged stance in solidarity but keeps falling over. Tal finally gives up, exhausted, muddy, and feeling utterly humiliated. He realizes Wicket's folklore is completely useless, and the system of this world requires a real key, not children's games.
 
 """
