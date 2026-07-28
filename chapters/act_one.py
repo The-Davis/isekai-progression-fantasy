@@ -303,6 +303,12 @@ Just past our boundary fence, a rustle in the blackberry bushes caught my attent
 "Where are we going, Tallow?" Elsie asked.
 I held in a sigh. I was a terrible influence on my little sister. She'd slipped away from her chores just as deftly as I had. I should have marched her back home, but that would have meant facing punishment as well.
 "We're going to find my friends," I told her instead, taking her by the hand. "C'mon."
+We didn't have to look far for Wicket. Knowing my father's schedule, he was already loitering just down the road. When he spotted Elsie and me slipping away from the house, he joined up with us, and we all three set off for town.
+Our destination was the cooper's shop, where Cord's pa worked. We found him and his sister, Clary, taking a break just outside the workshop. Cord was the tallest boy in town, and his sister was only half a hand shorter than her was, letting her look over my head without standing on tiptoe. I have to admit, I'd taken a fancy to her now and then, and we'd even attended the town's annual dance together the year past, though neither of us took that too seriously. It was mostly an excuse to drink too much apple cider and stomp our feet to the fiddle.
+Clary gave me a wry smile as we approached. "Skipping chores again, Tallow? Your ma is going to snap a willow switch on your backside one of these days."
+"She'd never!" I replied, flashing her a grin. "Willow switches are far too valuable. It's not like they grow on trees."
+"Tallow, willows are trees..." Cord began, but then he stopped and shook his head. "What're you up to today?"
+I quickly told them about our boarder and that I had a secret to share. Without another word, I beckoned them to follow and started off towards the old sawmill. I took my time, knowing the Coopers were too dutiful to abandon their posts without asking their father's permission first, but before long the five of us were climbing through the crumbling walls of the failed enterprise and into one of the best spots to share secrets in town.
 """,
 )
 
