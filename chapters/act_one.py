@@ -311,6 +311,11 @@ Clary gave me a wry smile as we approached. "Skipping chores again, Tallow? Your
 I told them I had a secret to share. Without another word, I beckoned them to follow and started off towards the old sawmill. I took my time, knowing the Coopers were too dutiful to abandon their posts without asking their father's permission first, but before long the five of us were climbing through the crumbling walls of the failed enterprise and into one of the best spots to share secrets in town.
 "So, what is it?" Wicket asked impatiently as soon as we were settled. "What's this big secret you've got? Does it involve treasure? I hope it involves treasure."
 "In a way," I admitted, and I told them everything. I told them about Jasper Moray, the glowing crystals on his bandolier, and the floating coin. I told them about the silver disc that showed the numbers of a person's capabilities. I was practically breathless when I got to the part about the shining light I'd seen when Jasper activated the disc. "He called it a mana core and said everyone has one right here." I tapped my stomach. "It's like an unlit candle sitting in a dark room for most people. You just have to find a way to light it."
+"Oh, Tallow," Clary sighed and rolled her eyes. "If only way you've got a core there is if you had an apple for breakfast. Even if you did somehow have magic, I'll bet all you'd do is set your own hair on fire."
+Cord kept his thoughts to himself, but he prodded his stomach with a finger. Wicket, too, remained unusually quiet, his brow furrowed as he chewed on his lower lip, clearly pondering something.
+"Tallow does so have magic!" Elsie said firmly, surprising me. "My brother's the cleverest boy in town. He's just saving it for when he really needs it. Aren't you, Tallow?"
+I smiled and gave her braid a fond tug. "Sorry, scamp, but I don't have a clue, and Mr. Moray wouldn't tell me how to do it. That's why I gathered you all. There's gotta be a way to figure out if we've all got one, right?"
+"Unless the man's a liar," Cord said, shrugging. "Could be spinning you up for laughs."
 """,
 )
 
