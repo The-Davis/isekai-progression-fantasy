@@ -30,11 +30,12 @@ You are an expert in adventure fantasy and have a deep understanding of storytel
     
     output += """Now I need you to write the next section. Here is the outline:
 
-At the sawmill, Tal breathlessly relays everything he learned from the scholar. He taps his chest, explaining that everyone possesses a "mana core," a sleeping engine of magic.
-Clary rolls her eyes and tells Tal she thinks he's more likely to summon a stomach ache than a fireball.
-Cord keeps his thoughts to himself, though he prods his own stomach thoughtfully. Wicket seems to be pondering something, but also keeps quiet.
-Elsie is thoroughly amazed and confidently states her belief that Tal probably already has magic.
-Tal asks if any of them know how to force a mana core to awaken. After some hesitation, Wicket claims he heard about a foolproof method from someone, but it was one of his pap's drinking friends, so it's probably no good. Tal's willing to try.
+Tal denies Cord's suggestion that Jasper is lying for fun by focusing on the scholar's stated goal: the unmapped dungeon. He explains that if they can find the dungeon's location first, they can trade that information to Jasper in exchange for learning how to awaken their magic. Imagine being wizards.
+Cord frowns at the idea. Just about everyone in town agrees that he knows the local forests and even a few caves leading to the Everdark better than anyone. If anyone could find an unmapped dungeon, he could but Cord points out that wandering into uncharted caves is a good way to get eaten by a cavern crawler or fall into a miles-deep crevice.Cord suggests that if they *must* look for this, they should just ask the loggers if they've spotted any new sinkholes or ruins on the company's timber claims.
+Clary strongly backs up her brother, her crush on Tal manifesting as biting sarcasm. She tells Tal he's got his head in the clouds again and is letting a fancy city dandy spin him in circles. She argues that if an actual dungeon was nearby, the adult delvers or the King's exactors would have found it years ago. She advises Tal to forget this whole thing and leave the woods to the loggers. Or better yet, start earning his keep by swinging an axe. Tal does not like this idea at all.
+Wicket should look nervous through the whole exchange (insert a reaction or two before now) and finally speaks up. He says there are all sorts of haints and spooks besides cavern crawlers to worry about. The Everdark is no joke. Tal plies him with the idea of treasure, and Wicket has to admit treasure would be nice.
+Elsie blithely agrees that they'll find the treasure for sure, proudly declaring that Tallow will beat up any monster in a dungeon. She eagerly asks if she can come along.
+Tal pushes Cord one more time, flattering his skills by pointing out that none of the adult loggers know the secret hollows as well as Cord does, so Clary's suggestion is a waste of time (earning a scowl from her). Cord reluctantly admits there *is* a stretch of woods atop a treacherous ridge near the old graveyard. The loggers avoid it since the ground frequently gives way to deep stone fissures. One of those fissures *might* go down to the Everdark.
 
 You can stop there and we'll edit before I provide the next section.
 
@@ -56,13 +57,6 @@ You can stop there and we'll edit before I provide the next section.
 We'll end the chapter on that note.
 
 
-**1. The Dungeon Proposition and Debate**
-*   **Tal Drops the Hook:** Tal pivots the conversation from the abstract idea of mana cores to Jasper's concrete goal: the unmapped dungeon. He excitedly explains that if they can find the dungeon's location first, they can trade that information to Jasper in exchange for learning how to awaken their magic. 
-*   **Cord's Practical Resistance:** Cord frowns at the idea. As the group's best woodsman, he knows the local forests and the upper fringes of the Everdark shallows better than anyone. He points out that wandering into uncharted caves is a good way to get eaten by a cavern crawler or fall into a magma vent. Being pragmatic, Cord suggests that if they *must* look for this, they should just ask his father (the cooper) or the senior tree-fellers if they've spotted any new sinkholes or ruins on the company's timber claims. 
-*   **Clary's Grounded Skepticism:** Clary strongly backs up her brother, her crush on Tal manifesting as biting sarcasm. She tells Tal he's got his head in the clouds again and is letting a fancy city dandy spin him in circles. She argues that if an actual dungeon was nearby, the adult delvers or the King's exactors would have found it years ago. She advises Tal to forget this "delver phase," stick to fishing, and leave the woods to the loggers.
-*   **Wicket's Superstitious Panic:** The moment the word "dungeon" is firmly established, Wicket starts furiously rubbing a dried river-stone charm on his necklace. He frantically recites a Corvish superstition—perhaps warning Tal that talking about the Everdark in an abandoned building is bad luck and will "wake the knockers." However, Wicket's bardic curiosity battles his cowardice; he is terrified of monsters, but the thought of unearthing a real magical artifact like in his tavern songs keeps him rooted to his seat. He whines about how dangerous it is, but refuses to leave Tal's side.
-*   **Elsie's Cheerful Support:** Elsie completely ignores the danger, proudly declaring that Tallow is the bravest boy in Larchleah and could easily beat up any monster in a dungeon. She eagerly asks if she can come along to hold the torch.
-*   **A Compromise Reached:** Knowing Cord's pride in his wilderness skills, Tal flatters him, pointing out that none of the adult loggers know the secret hollows as well as Cord does. Cord reluctantly admits there *is* one area the feller crews strictly avoid—a treacherous ridge near the old, overgrown graveyard on the hill, where the ground frequently gives way to deep stone fissures. 
 
 **2. The Horn and the Dash**
 *   **The Interruption:** Just as Cord begins to detail the layout of the ridge near the graveyard (neatly foreshadowing where Jasper and Gobber Dob will actually go digging later), a massive, booming blast from a barge horn echoes across the river. 
