@@ -316,6 +316,8 @@ Cord kept his thoughts to himself, but he prodded his stomach with a finger. Wic
 "Tallow does so have magic!" Elsie said firmly, surprising me. "My brother's the cleverest boy in town. He's just saving it for when he really needs it. Aren't you, Tallow?"
 I smiled and gave her braid a fond tug. "Sorry, scamp, but I don't have a clue, and Mr. Moray wouldn't tell me how to do it. That's why I gathered you all. There's gotta be a way to figure out if we've all got one, right?"
 "Unless the man's a liar," Cord said, shrugging. "Could be spinning you up for laughs."
+"I don't think so," I said, shaking my head. "He told me he came here looking for an unmapped dungeon and suggested I might be able to find it." I shrugged and looked Cord in the eyes. "I know I'm not always the brightest candle in the drawer, Cord, but I like to think I could spot a man who'd let me risk my life for a joke." I leaned forward and lowered my voice as if the river itself might overhear us. "So, we figure out where that dungeon is first, and then we trade the location to Master Moray. He teaches us how to awaken our magic. Just imagine it. Imagine being wizards."
+Wicket swallowed hard and ran fingers over the knicknacks on his necklace. He did that a lot when he was nervous.
 """,
 )
 
